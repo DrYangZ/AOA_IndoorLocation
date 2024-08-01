@@ -1,0 +1,28 @@
+<!DOCTYPE html>  
+<html>  
+<body>  
+    <h1>WebSocket Test</h1>  
+    <input type="text" id="message" />  
+    <button onclick="sendMessage()">Send</button>  
+    <div id="output"></div>  
+  
+    <script>  
+        var ws = new WebSocket("ws://localhost:9001/");  
+  
+        ws.onmessage = function(event) {  
+            var output = document.getElementById("output");  
+            output.innerHTML += "<p>" + event.data + "</p>";  
+        };  
+  
+        function sendMessage() {  
+            var input = document.getElementById("message");  
+            ws.send(input.value);  
+            input.value = "";  
+        }  
+  
+        ws.onclose = function() {  
+            console.log("Connection closed...");  
+        };  
+    </script>  
+</body>  
+</html>
