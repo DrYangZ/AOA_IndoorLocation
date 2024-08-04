@@ -1,0 +1,2560 @@
+{
+    "topic": "silabs/aoa/angle/ble-pd-0C4314F45C80/ble-pd-84FD27EEE588",
+    "message": "{\"azimuth\":39.07017517089844,\"elevation\":44.981082916259766,\"azimuth_stdev\":1.2593261003494263,\"elevation_stdev\":0.2774074673652649,\"distance\":6.30319356918335,\"distance_stdev\":0,\"sequence\":61164}",
+    "timestamp": "2024-07-15T16:41:09.241652"
+},
+{
+    "topic": "silabs/aoa/angle/ble-pd-0C4314F45C80/ble-pd-84FD27EEE588",
+    "message": "{\"azimuth\":39.53297424316406,\"elevation\":44.85369873046875,\"azimuth_stdev\":1.1025882959365845,\"elevation_stdev\":0.24214471876621246,\"distance\":5.047149658203125,\"distance_stdev\":0,\"sequence\":61165}",
+    "timestamp": "2024-07-15T16:41:09.270652"
+},
+{
+    "topic": "silabs/aoa/angle/ble-pd-0C4314F45C80/ble-pd-84FD27EEE588",
+    "message": "{\"azimuth\":40.012054443359375,\"elevation\":44.69449996948242,\"azimuth_stdev\":1.0025389194488525,\"elevation_stdev\":0.2855015695095062,\"distance\":5.047149658203125,\"distance_stdev\":0,\"sequence\":61166}",
+    "timestamp": "2024-07-15T16:41:09.304147"
+},
+{
+    "topic": "silabs/aoa/angle/ble-pd-0C4314F45C80/ble-pd-84FD27EEE588",
+    "message": "{\"azimuth\":39.612701416015625,\"elevation\":44.76982498168945,\"azimuth_stdev\":0.9495235681533813,\"elevation_stdev\":0.3124883770942688,\"distance\":5.44061279296875,\"distance_stdev\":0,\"sequence\":61167}",
+    "timestamp": "2024-07-15T16:41:09.327148"
+},
+{
+    "topic": "silabs/aoa/angle/ble-pd-0C4314F45C80/ble-pd-84FD27EEE588",
+    "message": "{\"azimuth\":39.36334228515625,\"elevation\":44.72923278808594,\"azimuth_stdev\":0.9422036409378052,\"elevation_stdev\":0.34048905968666077,\"distance\":8.957999229431152,\"distance_stdev\":0,\"sequence\":61168}",
+    "timestamp": "2024-07-15T16:41:09.350148"
+},
+{
+    "topic": "silabs/aoa/angle/ble-pd-0C4314F45C80/ble-pd-84FD27EEE588",
+    "message": "{\"azimuth\":38.874176025390625,\"elevation\":44.75372314453125,\"azimuth_stdev\":0.9422036409378052,\"elevation_stdev\":0.35126522183418274,\"distance\":7.8042521476745605,\"distance_stdev\":0,\"sequence\":61169}",
+    "timestamp": "2024-07-15T16:41:09.383147"
+},
+{
+    "topic": "silabs/aoa/angle/ble-pd-0C4314F45C80/ble-pd-84FD27EEE588",
+    "message": "{\"azimuth\":38.47004699707031,\"elevation\":44.70914840698242,\"azimuth_stdev\":0.9297451376914978,\"elevation_stdev\":0.342513769865036,\"distance\":6.30319356918335,\"distance_stdev\":0,\"sequence\":61170}",
+    "timestamp": "2024-07-15T16:41:09.418149"
+},
+{
+    "topic": "silabs/aoa/angle/ble-pd-0C4314F45C80/ble-pd-84FD27EEE588",
+    "message": "{\"azimuth\":37.99815368652344,\"elevation\":44.63899612426758,\"azimuth_stdev\":0.8511717915534973,\"elevation_stdev\":0.28960946202278137,\"distance\":5.047149658203125,\"distance_stdev\":0,\"sequence\":61171}",
+    "timestamp": "2024-07-15T16:41:09.440148"
+},
+{
+    "topic": "silabs/aoa/angle/ble-pd-0C4314F45C80/ble-pd-84FD27EEE588",
+    "message": "{\"azimuth\":38.90348815917969,\"elevation\":44.57941818237305,\"azimuth_stdev\":0.7702622413635254,\"elevation_stdev\":0.2075255811214447,\"distance\":4.330219268798828,\"distance_stdev\":0,\"sequence\":61172}",
+    "timestamp": "2024-07-15T16:41:09.462149"
+},
+{
+    "topic": "silabs/aoa/angle/ble-pd-0C4314F45C80/ble-pd-84FD27EEE588",
+    "message": "{\"azimuth\":39.7154541015625,\"elevation\":44.47193145751953,\"azimuth_stdev\":0.7958579659461975,\"elevation_stdev\":0.1958698332309723,\"distance\":8.957999229431152,\"distance_stdev\":0,\"sequence\":61173}",
+    "timestamp": "2024-07-15T16:41:09.485148"
+},
+{
+    "topic": "silabs/aoa/angle/ble-pd-0C4314F45C80/ble-pd-84FD27EEE588",
+    "message": "{\"azimuth\":40.559356689453125,\"elevation\":44.325592041015625,\"azimuth_stdev\":0.9786278605461121,\"elevation_stdev\":0.21771983802318573,\"distance\":10.246929168701172,\"distance_stdev\":0,\"sequence\":61174}",
+    "timestamp": "2024-07-15T16:41:09.519149"
+},
+{
+    "topic": "silabs/aoa/angle/ble-pd-0C4314F45C80/ble-pd-84FD27EEE588",
+    "message": "{\"azimuth\":41.221038818359375,\"elevation\":44.22355651855469,\"azimuth_stdev\":1.2570092678070068,\"elevation_stdev\":0.2641233801841736,\"distance\":6.77468204498291,\"distance_stdev\":0,\"sequence\":61175}",
+    "timestamp": "2024-07-15T16:41:09.542149"
+},
+{
+    "topic": "silabs/aoa/angle/ble-pd-0C4314F45C80/ble-pd-84FD27EEE588",
+    "message": "{\"azimuth\":41.89910888671875,\"elevation\":44.23411560058594,\"azimuth_stdev\":1.5982164144515991,\"elevation_stdev\":0.3000292181968689,\"distance\":5.047149658203125,\"distance_stdev\":0,\"sequence\":61176}",
+    "timestamp": "2024-07-15T16:41:09.563149"
+},
+{
+    "topic": "silabs/aoa/angle/ble-pd-0C4314F45C80/ble-pd-84FD27EEE588",
+    "message": "{\"azimuth\":42.40911865234375,\"elevation\":43.838558197021484,\"azimuth_stdev\":1.9531137943267822,\"elevation_stdev\":0.40898197889328003,\"distance\":5.44061279296875,\"distance_stdev\":0,\"sequence\":61177}",
+    "timestamp": "2024-07-15T16:41:09.586149"
+},
+{
+    "topic": "silabs/aoa/angle/ble-pd-0C4314F45C80/ble-pd-84FD27EEE588",
+    "message": "{\"azimuth\":42.93598937988281,\"elevation\":43.66361618041992,\"azimuth_stdev\":2.27699875831604,\"elevation_stdev\":0.509207010269165,\"distance\":7.274606704711914,\"distance_stdev\":0,\"sequence\":61178}",
+    "timestamp": "2024-07-15T16:41:09.608147"
+},
+{
+    "topic": "silabs/aoa/angle/ble-pd-0C4314F45C80/ble-pd-84FD27EEE588",
+    "message": "{\"azimuth\":43.40577697753906,\"elevation\":43.56190872192383,\"azimuth_stdev\":2.4944844245910645,\"elevation_stdev\":0.5693293809890747,\"distance\":4.677382469177246,\"distance_stdev\":0,\"sequence\":61179}",
+    "timestamp": "2024-07-15T16:41:09.642147"
+},
+{
+    "topic": "silabs/aoa/angle/ble-pd-0C4314F45C80/ble-pd-84FD27EEE588",
+    "message": "{\"azimuth\":43.96183776855469,\"elevation\":43.5159912109375,\"azimuth_stdev\":2.5708162784576416,\"elevation_stdev\":0.5925068259239197,\"distance\":13.277584075927734,\"distance_stdev\":0,\"sequence\":61180}",
+    "timestamp": "2024-07-15T16:41:09.688149"
+},
+{
+    "topic": "silabs/aoa/angle/ble-pd-0C4314F45C80/ble-pd-84FD27EEE588",
+    "message": "{\"azimuth\":44.318634033203125,\"elevation\":43.43840408325195,\"azimuth_stdev\":2.351733922958374,\"elevation_stdev\":0.5953935384750366,\"distance\":4.330219268798828,\"distance_stdev\":0,\"sequence\":61181}",
+    "timestamp": "2024-07-15T16:41:09.699148"
+},
+{
+    "topic": "silabs/aoa/angle/ble-pd-0C4314F45C80/ble-pd-84FD27EEE588",
+    "message": "{\"azimuth\":44.22967529296875,\"elevation\":43.616825103759766,\"azimuth_stdev\":2.0677881240844727,\"elevation_stdev\":0.5365068912506104,\"distance\":18.04803466796875,\"distance_stdev\":0,\"sequence\":61182}",
+    "timestamp": "2024-07-15T16:41:09.722148"
+},
+{
+    "topic": "silabs/aoa/angle/ble-pd-0C4314F45C80/ble-pd-84FD27EEE588",
+    "message": "{\"azimuth\":44.28309631347656,\"elevation\":43.84699249267578,\"azimuth_stdev\":1.759024739265442,\"elevation_stdev\":0.4546769857406616,\"distance\":7.274606704711914,\"distance_stdev\":0,\"sequence\":61183}",
+    "timestamp": "2024-07-15T16:41:09.756148"
+},
+{
+    "topic": "silabs/aoa/angle/ble-pd-0C4314F45C80/ble-pd-84FD27EEE588",
+    "message": "{\"azimuth\":44.29365539550781,\"elevation\":44.15343475341797,\"azimuth_stdev\":1.4642666578292847,\"elevation_stdev\":0.41893449425697327,\"distance\":5.44061279296875,\"distance_stdev\":0,\"sequence\":61184}",
+    "timestamp": "2024-07-15T16:41:09.778148"
+},
+{
+    "topic": "silabs/aoa/angle/ble-pd-0C4314F45C80/ble-pd-84FD27EEE588",
+    "message": "{\"azimuth\":44.2803955078125,\"elevation\":44.443382263183594,\"azimuth_stdev\":1.1614917516708374,\"elevation_stdev\":0.47332626581192017,\"distance\":13.277584075927734,\"distance_stdev\":0,\"sequence\":61185}",
+    "timestamp": "2024-07-15T16:41:09.801148"
+},
+{
+    "topic": "silabs/aoa/angle/ble-pd-0C4314F45C80/ble-pd-84FD27EEE588",
+    "message": "{\"azimuth\":44.272857666015625,\"elevation\":44.705318450927734,\"azimuth_stdev\":0.887637734413147,\"elevation_stdev\":0.5904945135116577,\"distance\":5.8589067459106445,\"distance_stdev\":0,\"sequence\":61186}",
+    "timestamp": "2024-07-15T16:41:09.823148"
+},
+{
+    "topic": "silabs/aoa/angle/ble-pd-0C4314F45C80/ble-pd-84FD27EEE588",
+    "message": "{\"azimuth\":44.27430725097656,\"elevation\":44.80876159667969,\"azimuth_stdev\":0.6156471371650696,\"elevation_stdev\":0.7171317338943481,\"distance\":8.957999229431152,\"distance_stdev\":0,\"sequence\":61187}",
+    "timestamp": "2024-07-15T16:41:09.846148"
+},
+{
+    "topic": "silabs/aoa/angle/ble-pd-0C4314F45C80/ble-pd-84FD27EEE588",
+    "message": "{\"azimuth\":44.34773254394531,\"elevation\":44.73787307739258,\"azimuth_stdev\":0.3731222450733185,\"elevation_stdev\":0.7704381942749023,\"distance\":5.047149658203125,\"distance_stdev\":0,\"sequence\":61188}",
+    "timestamp": "2024-07-15T16:41:09.868148"
+},
+{
+    "topic": "silabs/aoa/angle/ble-pd-0C4314F45C80/ble-pd-84FD27EEE588",
+    "message": "{\"azimuth\":44.43353271484375,\"elevation\":44.75648880004883,\"azimuth_stdev\":0.15742580592632294,\"elevation_stdev\":0.7759488821029663,\"distance\":4.330219268798828,\"distance_stdev\":0,\"sequence\":61189}",
+    "timestamp": "2024-07-15T16:41:09.892148"
+},
+{
+    "topic": "silabs/aoa/angle/ble-pd-0C4314F45C80/ble-pd-84FD27EEE588",
+    "message": "{\"azimuth\":44.45930480957031,\"elevation\":44.7579460144043,\"azimuth_stdev\":0.09734383225440979,\"elevation_stdev\":0.7307400107383728,\"distance\":5.047149658203125,\"distance_stdev\":0,\"sequence\":61190}",
+    "timestamp": "2024-07-15T16:41:09.925149"
+},
+{
+    "topic": "silabs/aoa/angle/ble-pd-0C4314F45C80/ble-pd-84FD27EEE588",
+    "message": "{\"azimuth\":44.51829528808594,\"elevation\":44.67609405517578,\"azimuth_stdev\":0.12663331627845764,\"elevation_stdev\":0.598019003868103,\"distance\":4.330219268798828,\"distance_stdev\":0,\"sequence\":61191}",
+    "timestamp": "2024-07-15T16:41:09.947148"
+},
+{
+    "topic": "silabs/aoa/angle/ble-pd-0C4314F45C80/ble-pd-84FD27EEE588",
+    "message": "{\"azimuth\":44.493896484375,\"elevation\":44.739158630371094,\"azimuth_stdev\":0.12663331627845764,\"elevation_stdev\":0.4461311399936676,\"distance\":4.677382469177246,\"distance_stdev\":0,\"sequence\":61193}",
+    "timestamp": "2024-07-15T16:41:09.970150"
+},
+{
+    "topic": "silabs/aoa/angle/ble-pd-0C4314F45C80/ble-pd-84FD27EEE588",
+    "message": "{\"azimuth\":44.66929626464844,\"elevation\":44.72397994995117,\"azimuth_stdev\":0.17075224220752716,\"elevation_stdev\":0.2791934907436371,\"distance\":5.8589067459106445,\"distance_stdev\":0,\"sequence\":61194}",
+    "timestamp": "2024-07-15T16:41:10.003149"
+},
+{
+    "topic": "silabs/aoa/angle/ble-pd-0C4314F45C80/ble-pd-84FD27EEE588",
+    "message": "{\"azimuth\":44.83198547363281,\"elevation\":44.86507034301758,\"azimuth_stdev\":0.23690886795520782,\"elevation_stdev\":0.15455326437950134,\"distance\":6.30319356918335,\"distance_stdev\":0,\"sequence\":61195}",
+    "timestamp": "2024-07-15T16:41:10.039003"
+},
+{
+    "topic": "silabs/aoa/angle/ble-pd-0C4314F45C80/ble-pd-84FD27EEE588",
+    "message": "{\"azimuth\":44.92802429199219,\"elevation\":44.91197204589844,\"azimuth_stdev\":0.28826233744621277,\"elevation_stdev\":0.10171951353549957,\"distance\":6.30319356918335,\"distance_stdev\":0,\"sequence\":61196}",
+    "timestamp": "2024-07-15T16:41:10.073006"
+},
+{
+    "topic": "silabs/aoa/angle/ble-pd-0C4314F45C80/ble-pd-84FD27EEE588",
+    "message": "{\"azimuth\":45.12059020996094,\"elevation\":44.99237823486328,\"azimuth_stdev\":0.3530472218990326,\"elevation_stdev\":0.1361120343208313,\"distance\":5.047149658203125,\"distance_stdev\":0,\"sequence\":61198}",
+    "timestamp": "2024-07-15T16:41:10.107006"
+},
+{
+    "topic": "silabs/aoa/angle/ble-pd-0C4314F45C80/ble-pd-84FD27EEE588",
+    "message": "{\"azimuth\":45.33683776855469,\"elevation\":44.82637405395508,\"azimuth_stdev\":0.4268779158592224,\"elevation_stdev\":0.13665972650051117,\"distance\":6.77468204498291,\"distance_stdev\":0,\"sequence\":61200}",
+    "timestamp": "2024-07-15T16:41:10.166006"
+},
+{
+    "topic": "silabs/aoa/angle/ble-pd-0C4314F45C80/ble-pd-84FD27EEE588",
+    "message": "{\"azimuth\":45.557342529296875,\"elevation\":44.744693756103516,\"azimuth_stdev\":0.5122517943382263,\"elevation_stdev\":0.13603781163692474,\"distance\":4.330219268798828,\"distance_stdev\":0,\"sequence\":61201}",
+    "timestamp": "2024-07-15T16:41:10.196006"
+},
+{
+    "topic": "silabs/aoa/angle/ble-pd-0C4314F45C80/ble-pd-84FD27EEE588",
+    "message": "{\"azimuth\":45.74327087402344,\"elevation\":44.69456481933594,\"azimuth_stdev\":0.5951805710792542,\"elevation_stdev\":0.14280183613300323,\"distance\":6.77468204498291,\"distance_stdev\":0,\"sequence\":61202}",
+    "timestamp": "2024-07-15T16:41:10.230006"
+},
+{
+    "topic": "silabs/aoa/angle/ble-pd-0C4314F45C80/ble-pd-84FD27EEE588",
+    "message": "{\"azimuth\":45.82818603515625,\"elevation\":44.53316116333008,\"azimuth_stdev\":0.6405953764915466,\"elevation_stdev\":0.1832670122385025,\"distance\":4.677382469177246,\"distance_stdev\":0,\"sequence\":61203}",
+    "timestamp": "2024-07-15T16:41:10.252475"
+},
+{
+    "topic": "silabs/aoa/angle/ble-pd-0C4314F45C80/ble-pd-84FD27EEE588",
+    "message": "{\"azimuth\":45.94842529296875,\"elevation\":44.48108673095703,\"azimuth_stdev\":0.6640591025352478,\"elevation_stdev\":0.22111205756664276,\"distance\":5.8589067459106445,\"distance_stdev\":0,\"sequence\":61204}",
+    "timestamp": "2024-07-15T16:41:10.286477"
+},
+{
+    "topic": "silabs/aoa/angle/ble-pd-0C4314F45C80/ble-pd-84FD27EEE588",
+    "message": "{\"azimuth\":45.8585205078125,\"elevation\":44.7081413269043,\"azimuth_stdev\":0.6091008186340332,\"elevation_stdev\":0.22189657390117645,\"distance\":9.584851264953613,\"distance_stdev\":0,\"sequence\":61205}",
+    "timestamp": "2024-07-15T16:41:10.308475"
+},
+{
+    "topic": "silabs/aoa/angle/ble-pd-0C4314F45C80/ble-pd-84FD27EEE588",
+    "message": "{\"azimuth\":45.76118469238281,\"elevation\":45.05366897583008,\"azimuth_stdev\":0.5297393798828125,\"elevation_stdev\":0.25856339931488037,\"distance\":9.584851264953613,\"distance_stdev\":0,\"sequence\":61206}",
+    "timestamp": "2024-07-15T16:41:10.342475"
+},
+{
+    "topic": "silabs/aoa/angle/ble-pd-0C4314F45C80/ble-pd-84FD27EEE588",
+    "message": "{\"azimuth\":45.64137268066406,\"elevation\":45.182518005371094,\"azimuth_stdev\":0.43866750597953796,\"elevation_stdev\":0.3127821385860443,\"distance\":5.44061279296875,\"distance_stdev\":0,\"sequence\":61207}",
+    "timestamp": "2024-07-15T16:41:10.364474"
+},
+{
+    "topic": "silabs/aoa/angle/ble-pd-0C4314F45C80/ble-pd-84FD27EEE588",
+    "message": "{\"azimuth\":45.60858154296875,\"elevation\":45.22089385986328,\"azimuth_stdev\":0.32622066140174866,\"elevation_stdev\":0.3598373234272003,\"distance\":4.004596710205078,\"distance_stdev\":0,\"sequence\":61208}",
+    "timestamp": "2024-07-15T16:41:10.398475"
+},
+{
+    "topic": "silabs/aoa/angle/ble-pd-0C4314F45C80/ble-pd-84FD27EEE588",
+    "message": "{\"azimuth\":45.442840576171875,\"elevation\":45.400047302246094,\"azimuth_stdev\":0.24744315445423126,\"elevation_stdev\":0.4332767128944397,\"distance\":11.682686805725098,\"distance_stdev\":0,\"sequence\":61209}",
+    "timestamp": "2024-07-15T16:41:10.421475"
+},
+{
+    "topic": "silabs/aoa/angle/ble-pd-0C4314F45C80/ble-pd-84FD27EEE588",
+    "message": "{\"azimuth\":45.28764343261719,\"elevation\":45.409339904785156,\"azimuth_stdev\":0.26036176085472107,\"elevation_stdev\":0.4888187348842621,\"distance\":7.8042521476745605,\"distance_stdev\":0,\"sequence\":61210}",
+    "timestamp": "2024-07-15T16:41:10.443475"
+},
+{
+    "topic": "silabs/aoa/angle/ble-pd-0C4314F45C80/ble-pd-84FD27EEE588",
+    "message": "{\"azimuth\":45.179168701171875,\"elevation\":45.36964416503906,\"azimuth_stdev\":0.3284474313259125,\"elevation_stdev\":0.5111657381057739,\"distance\":5.047149658203125,\"distance_stdev\":0,\"sequence\":61211}",
+    "timestamp": "2024-07-15T16:41:10.477476"
+},
+{
+    "topic": "silabs/aoa/angle/ble-pd-0C4314F45C80/ble-pd-84FD27EEE588",
+    "message": "{\"azimuth\":45.026885986328125,\"elevation\":45.31081771850586,\"azimuth_stdev\":0.4040713310241699,\"elevation_stdev\":0.502421498298645,\"distance\":7.274606704711914,\"distance_stdev\":0,\"sequence\":61212}",
+    "timestamp": "2024-07-15T16:41:10.511475"
+},
+{
+    "topic": "silabs/aoa/angle/ble-pd-0C4314F45C80/ble-pd-84FD27EEE588",
+    "message": "{\"azimuth\":44.79795837402344,\"elevation\":45.30693817138672,\"azimuth_stdev\":0.48671460151672363,\"elevation_stdev\":0.43663331866264343,\"distance\":7.274606704711914,\"distance_stdev\":0,\"sequence\":61213}",
+    "timestamp": "2024-07-15T16:41:10.533474"
+},
+{
+    "topic": "silabs/aoa/angle/ble-pd-0C4314F45C80/ble-pd-84FD27EEE588",
+    "message": "{\"azimuth\":44.64167785644531,\"elevation\":45.217529296875,\"azimuth_stdev\":0.5331681370735168,\"elevation_stdev\":0.2924223840236664,\"distance\":10.246929168701172,\"distance_stdev\":0,\"sequence\":61214}",
+    "timestamp": "2024-07-15T16:41:10.567475"
+},
+{
+    "topic": "silabs/aoa/angle/ble-pd-0C4314F45C80/ble-pd-84FD27EEE588",
+    "message": "{\"azimuth\":44.03948974609375,\"elevation\":45.24534225463867,\"azimuth_stdev\":0.6904262900352478,\"elevation_stdev\":0.15346768498420715,\"distance\":4.330219268798828,\"distance_stdev\":0,\"sequence\":61215}",
+    "timestamp": "2024-07-15T16:41:10.578476"
+},
+{
+    "topic": "silabs/aoa/angle/ble-pd-0C4314F45C80/ble-pd-84FD27EEE588",
+    "message": "{\"azimuth\":43.573486328125,\"elevation\":45.315242767333984,\"azimuth_stdev\":0.8802170753479004,\"elevation_stdev\":0.11074715107679367,\"distance\":8.957999229431152,\"distance_stdev\":0,\"sequence\":61216}",
+    "timestamp": "2024-07-15T16:41:10.611474"
+},
+{
+    "topic": "silabs/aoa/angle/ble-pd-0C4314F45C80/ble-pd-84FD27EEE588",
+    "message": "{\"azimuth\":42.82989501953125,\"elevation\":45.251033782958984,\"azimuth_stdev\":1.1611781120300293,\"elevation_stdev\":0.09886641055345535,\"distance\":4.330219268798828,\"distance_stdev\":0,\"sequence\":61217}",
+    "timestamp": "2024-07-15T16:41:10.634475"
+},
+{
+    "topic": "silabs/aoa/angle/ble-pd-0C4314F45C80/ble-pd-84FD27EEE588",
+    "message": "{\"azimuth\":42.231658935546875,\"elevation\":45.38621520996094,\"azimuth_stdev\":1.4300276041030884,\"elevation_stdev\":0.09542723000049591,\"distance\":4.677382469177246,\"distance_stdev\":0,\"sequence\":61218}",
+    "timestamp": "2024-07-15T16:41:10.657475"
+},
+{
+    "topic": "silabs/aoa/angle/ble-pd-0C4314F45C80/ble-pd-84FD27EEE588",
+    "message": "{\"azimuth\":41.72761535644531,\"elevation\":45.41907501220703,\"azimuth_stdev\":1.6684728860855103,\"elevation_stdev\":0.09910506010055542,\"distance\":10.246929168701172,\"distance_stdev\":0,\"sequence\":61219}",
+    "timestamp": "2024-07-15T16:41:10.679475"
+},
+{
+    "topic": "silabs/aoa/angle/ble-pd-0C4314F45C80/ble-pd-84FD27EEE588",
+    "message": "{\"azimuth\":41.72938537597656,\"elevation\":45.46767807006836,\"azimuth_stdev\":1.7644009590148926,\"elevation_stdev\":0.11244937032461166,\"distance\":4.330219268798828,\"distance_stdev\":0,\"sequence\":61220}",
+    "timestamp": "2024-07-15T16:41:10.713476"
+},
+{
+    "topic": "silabs/aoa/angle/ble-pd-0C4314F45C80/ble-pd-84FD27EEE588",
+    "message": "{\"azimuth\":41.72869873046875,\"elevation\":45.56877517700195,\"azimuth_stdev\":1.7465554475784302,\"elevation_stdev\":0.15429961681365967,\"distance\":4.330219268798828,\"distance_stdev\":0,\"sequence\":61221}",
+    "timestamp": "2024-07-15T16:41:10.747474"
+},
+{
+    "topic": "silabs/aoa/angle/ble-pd-0C4314F45C80/ble-pd-84FD27EEE588",
+    "message": "{\"azimuth\":41.70881652832031,\"elevation\":45.64888000488281,\"azimuth_stdev\":1.6360623836517334,\"elevation_stdev\":0.20100070536136627,\"distance\":6.77468204498291,\"distance_stdev\":0,\"sequence\":61222}",
+    "timestamp": "2024-07-15T16:41:10.770095"
+},
+{
+    "topic": "silabs/aoa/angle/ble-pd-0C4314F45C80/ble-pd-84FD27EEE588",
+    "message": "{\"azimuth\":41.752838134765625,\"elevation\":45.84128952026367,\"azimuth_stdev\":1.441699504852295,\"elevation_stdev\":0.27977076172828674,\"distance\":4.330219268798828,\"distance_stdev\":0,\"sequence\":61223}",
+    "timestamp": "2024-07-15T16:41:10.804095"
+},
+{
+    "topic": "silabs/aoa/angle/ble-pd-0C4314F45C80/ble-pd-84FD27EEE588",
+    "message": "{\"azimuth\":41.69212341308594,\"elevation\":46.008544921875,\"azimuth_stdev\":1.1361175775527954,\"elevation_stdev\":0.3535901606082916,\"distance\":6.77468204498291,\"distance_stdev\":0,\"sequence\":61224}",
+    "timestamp": "2024-07-15T16:41:10.827096"
+},
+{
+    "topic": "silabs/aoa/angle/ble-pd-0C4314F45C80/ble-pd-84FD27EEE588",
+    "message": "{\"azimuth\":41.74383544921875,\"elevation\":46.08915328979492,\"azimuth_stdev\":0.8294891119003296,\"elevation_stdev\":0.4060862958431244,\"distance\":6.77468204498291,\"distance_stdev\":0,\"sequence\":61225}",
+    "timestamp": "2024-07-15T16:41:10.849094"
+},
+{
+    "topic": "silabs/aoa/angle/ble-pd-0C4314F45C80/ble-pd-84FD27EEE588",
+    "message": "{\"azimuth\":41.794464111328125,\"elevation\":46.2871208190918,\"azimuth_stdev\":0.4722736179828644,\"elevation_stdev\":0.4784156382083893,\"distance\":5.047149658203125,\"distance_stdev\":0,\"sequence\":61226}",
+    "timestamp": "2024-07-15T16:41:10.871599"
+},
+{
+    "topic": "silabs/aoa/angle/ble-pd-0C4314F45C80/ble-pd-84FD27EEE588",
+    "message": "{\"azimuth\":41.75880432128906,\"elevation\":46.272132873535156,\"azimuth_stdev\":0.20561280846595764,\"elevation_stdev\":0.48468849062919617,\"distance\":13.277584075927734,\"distance_stdev\":0,\"sequence\":61227}",
+    "timestamp": "2024-07-15T16:41:10.905599"
+},
+{
+    "topic": "silabs/aoa/angle/ble-pd-0C4314F45C80/ble-pd-84FD27EEE588",
+    "message": "{\"azimuth\":41.7813720703125,\"elevation\":46.395572662353516,\"azimuth_stdev\":0.026998331770300865,\"elevation_stdev\":0.5029535293579102,\"distance\":4.330219268798828,\"distance_stdev\":0,\"sequence\":61228}",
+    "timestamp": "2024-07-15T16:41:10.927600"
+},
+{
+    "topic": "silabs/aoa/angle/ble-pd-0C4314F45C80/ble-pd-84FD27EEE588",
+    "message": "{\"azimuth\":41.83160400390625,\"elevation\":46.48253631591797,\"azimuth_stdev\":0.053996652364730835,\"elevation_stdev\":0.5019565224647522,\"distance\":18.04803466796875,\"distance_stdev\":0,\"sequence\":61229}",
+    "timestamp": "2024-07-15T16:41:10.950600"
+},
+{
+    "topic": "silabs/aoa/angle/ble-pd-0C4314F45C80/ble-pd-84FD27EEE588",
+    "message": "{\"azimuth\":42.0008544921875,\"elevation\":46.33909225463867,\"azimuth_stdev\":0.11131691932678223,\"elevation_stdev\":0.4439476728439331,\"distance\":7.274606704711914,\"distance_stdev\":0,\"sequence\":61231}",
+    "timestamp": "2024-07-15T16:41:10.996599"
+},
+{
+    "topic": "silabs/aoa/angle/ble-pd-0C4314F45C80/ble-pd-84FD27EEE588",
+    "message": "{\"azimuth\":42.263153076171875,\"elevation\":46.20989990234375,\"azimuth_stdev\":0.2226334810256958,\"elevation_stdev\":0.3632957339286804,\"distance\":4.330219268798828,\"distance_stdev\":0,\"sequence\":61234}",
+    "timestamp": "2024-07-15T16:41:11.065600"
+},
+{
+    "topic": "silabs/aoa/angle/ble-pd-0C4314F45C80/ble-pd-84FD27EEE588",
+    "message": "{\"azimuth\":42.4034423828125,\"elevation\":46.15989685058594,\"azimuth_stdev\":0.31485065817832947,\"elevation_stdev\":0.2659585177898407,\"distance\":11.682686805725098,\"distance_stdev\":0,\"sequence\":61235}",
+    "timestamp": "2024-07-15T16:41:11.086600"
+},
+{
+    "topic": "silabs/aoa/angle/ble-pd-0C4314F45C80/ble-pd-84FD27EEE588",
+    "message": "{\"azimuth\":42.54833984375,\"elevation\":46.009796142578125,\"azimuth_stdev\":0.40135639905929565,\"elevation_stdev\":0.22272714972496033,\"distance\":4.004596710205078,\"distance_stdev\":0,\"sequence\":61236}",
+    "timestamp": "2024-07-15T16:41:11.109600"
+},
+{
+    "topic": "silabs/aoa/angle/ble-pd-0C4314F45C80/ble-pd-84FD27EEE588",
+    "message": "{\"azimuth\":42.677825927734375,\"elevation\":45.95315933227539,\"azimuth_stdev\":0.46605929732322693,\"elevation_stdev\":0.23530441522598267,\"distance\":7.8042521476745605,\"distance_stdev\":0,\"sequence\":61237}",
+    "timestamp": "2024-07-15T16:41:11.131600"
+},
+{
+    "topic": "silabs/aoa/angle/ble-pd-0C4314F45C80/ble-pd-84FD27EEE588",
+    "message": "{\"azimuth\":42.90800476074219,\"elevation\":46.151336669921875,\"azimuth_stdev\":0.5466678738594055,\"elevation_stdev\":0.2293916940689087,\"distance\":12.459444999694824,\"distance_stdev\":0,\"sequence\":61238}",
+    "timestamp": "2024-07-15T16:41:11.165599"
+},
+{
+    "topic": "silabs/aoa/angle/ble-pd-0C4314F45C80/ble-pd-84FD27EEE588",
+    "message": "{\"azimuth\":43.014373779296875,\"elevation\":46.18767166137695,\"azimuth_stdev\":0.60489821434021,\"elevation_stdev\":0.2278650850057602,\"distance\":6.77468204498291,\"distance_stdev\":0,\"sequence\":61239}",
+    "timestamp": "2024-07-15T16:41:11.176599"
+},
+{
+    "topic": "silabs/aoa/angle/ble-pd-0C4314F45C80/ble-pd-84FD27EEE588",
+    "message": "{\"azimuth\":43.01600646972656,\"elevation\":46.13732147216797,\"azimuth_stdev\":0.6067029237747192,\"elevation_stdev\":0.2284550666809082,\"distance\":4.677382469177246,\"distance_stdev\":0,\"sequence\":61240}",
+    "timestamp": "2024-07-15T16:41:11.210599"
+},
+{
+    "topic": "silabs/aoa/angle/ble-pd-0C4314F45C80/ble-pd-84FD27EEE588",
+    "message": "{\"azimuth\":43.14764404296875,\"elevation\":46.26711654663086,\"azimuth_stdev\":0.585923969745636,\"elevation_stdev\":0.2114780694246292,\"distance\":4.330219268798828,\"distance_stdev\":0,\"sequence\":61242}",
+    "timestamp": "2024-07-15T16:41:11.244599"
+},
+{
+    "topic": "silabs/aoa/angle/ble-pd-0C4314F45C80/ble-pd-84FD27EEE588",
+    "message": "{\"azimuth\":43.4521484375,\"elevation\":46.10908889770508,\"azimuth_stdev\":0.5752531290054321,\"elevation_stdev\":0.15712007880210876,\"distance\":5.047149658203125,\"distance_stdev\":0,\"sequence\":61243}",
+    "timestamp": "2024-07-15T16:41:11.290601"
+},
+{
+    "topic": "silabs/aoa/angle/ble-pd-0C4314F45C80/ble-pd-84FD27EEE588",
+    "message": "{\"azimuth\":43.31385803222656,\"elevation\":46.26435852050781,\"azimuth_stdev\":0.5072472095489502,\"elevation_stdev\":0.14059321582317352,\"distance\":15.044610977172852,\"distance_stdev\":0,\"sequence\":61244}",
+    "timestamp": "2024-07-15T16:41:11.324599"
+},
+{
+    "topic": "silabs/aoa/angle/ble-pd-0C4314F45C80/ble-pd-84FD27EEE588",
+    "message": "{\"azimuth\":43.086273193359375,\"elevation\":46.59407043457031,\"azimuth_stdev\":0.42858198285102844,\"elevation_stdev\":0.24305041134357452,\"distance\":4.330219268798828,\"distance_stdev\":0,\"sequence\":61246}",
+    "timestamp": "2024-07-15T16:41:11.370600"
+},
+{
+    "topic": "silabs/aoa/angle/ble-pd-0C4314F45C80/ble-pd-84FD27EEE588",
+    "message": "{\"azimuth\":42.93109130859375,\"elevation\":46.69085693359375,\"azimuth_stdev\":0.3499366044998169,\"elevation_stdev\":0.32907524704933167,\"distance\":11.682686805725098,\"distance_stdev\":0,\"sequence\":61247}",
+    "timestamp": "2024-07-15T16:41:11.392599"
+},
+{
+    "topic": "silabs/aoa/angle/ble-pd-0C4314F45C80/ble-pd-84FD27EEE588",
+    "message": "{\"azimuth\":42.96812438964844,\"elevation\":46.80483627319336,\"azimuth_stdev\":0.2831599712371826,\"elevation_stdev\":0.3913182020187378,\"distance\":4.004596710205078,\"distance_stdev\":0,\"sequence\":61248}",
+    "timestamp": "2024-07-15T16:41:11.426599"
+},
+{
+    "topic": "silabs/aoa/angle/ble-pd-0C4314F45C80/ble-pd-84FD27EEE588",
+    "message": "{\"azimuth\":42.916656494140625,\"elevation\":46.83971405029297,\"azimuth_stdev\":0.23690886795520782,\"elevation_stdev\":0.4085462987422943,\"distance\":4.677382469177246,\"distance_stdev\":0,\"sequence\":61249}",
+    "timestamp": "2024-07-15T16:41:11.437600"
+},
+{
+    "topic": "silabs/aoa/angle/ble-pd-0C4314F45C80/ble-pd-84FD27EEE588",
+    "message": "{\"azimuth\":42.60015869140625,\"elevation\":46.922908782958984,\"azimuth_stdev\":0.3018493950366974,\"elevation_stdev\":0.4450658857822418,\"distance\":5.44061279296875,\"distance_stdev\":0,\"sequence\":61250}",
+    "timestamp": "2024-07-15T16:41:11.472600"
+},
+{
+    "topic": "silabs/aoa/angle/ble-pd-0C4314F45C80/ble-pd-84FD27EEE588",
+    "message": "{\"azimuth\":42.51069641113281,\"elevation\":46.99508285522461,\"azimuth_stdev\":0.3721441924571991,\"elevation_stdev\":0.4713032841682434,\"distance\":6.77468204498291,\"distance_stdev\":0,\"sequence\":61251}",
+    "timestamp": "2024-07-15T16:41:11.494600"
+},
+{
+    "topic": "silabs/aoa/angle/ble-pd-0C4314F45C80/ble-pd-84FD27EEE588",
+    "message": "{\"azimuth\":42.46533203125,\"elevation\":47.07599639892578,\"azimuth_stdev\":0.4294314980506897,\"elevation_stdev\":0.47009769082069397,\"distance\":4.330219268798828,\"distance_stdev\":0,\"sequence\":61252}",
+    "timestamp": "2024-07-15T16:41:11.505599"
+},
+{
+    "topic": "silabs/aoa/angle/ble-pd-0C4314F45C80/ble-pd-84FD27EEE588",
+    "message": "{\"azimuth\":42.32281494140625,\"elevation\":47.146827697753906,\"azimuth_stdev\":0.48446306586265564,\"elevation_stdev\":0.4727405309677124,\"distance\":5.047149658203125,\"distance_stdev\":0,\"sequence\":61253}",
+    "timestamp": "2024-07-15T16:41:11.539599"
+},
+{
+    "topic": "silabs/aoa/angle/ble-pd-0C4314F45C80/ble-pd-84FD27EEE588",
+    "message": "{\"azimuth\":42.23719787597656,\"elevation\":47.25468444824219,\"azimuth_stdev\":0.46055305004119873,\"elevation_stdev\":0.4055272936820984,\"distance\":8.957999229431152,\"distance_stdev\":0,\"sequence\":61254}",
+    "timestamp": "2024-07-15T16:41:11.561599"
+},
+{
+    "topic": "silabs/aoa/angle/ble-pd-0C4314F45C80/ble-pd-84FD27EEE588",
+    "message": "{\"azimuth\":42.45585632324219,\"elevation\":47.1515007019043,\"azimuth_stdev\":0.3884359300136566,\"elevation_stdev\":0.2998097240924835,\"distance\":10.246929168701172,\"distance_stdev\":0,\"sequence\":61255}",
+    "timestamp": "2024-07-15T16:41:11.584599"
+},
+{
+    "topic": "silabs/aoa/angle/ble-pd-0C4314F45C80/ble-pd-84FD27EEE588",
+    "message": "{\"azimuth\":42.74488830566406,\"elevation\":47.0424919128418,\"azimuth_stdev\":0.33936214447021484,\"elevation_stdev\":0.24617376923561096,\"distance\":10.246929168701172,\"distance_stdev\":0,\"sequence\":61257}",
+    "timestamp": "2024-07-15T16:41:11.617879"
+},
+{
+    "topic": "silabs/aoa/angle/ble-pd-0C4314F45C80/ble-pd-84FD27EEE588",
+    "message": "{\"azimuth\":42.99555969238281,\"elevation\":46.946083068847656,\"azimuth_stdev\":0.3509765565395355,\"elevation_stdev\":0.2002280205488205,\"distance\":5.44061279296875,\"distance_stdev\":0,\"sequence\":61258}",
+    "timestamp": "2024-07-15T16:41:11.651880"
+},
+{
+    "topic": "silabs/aoa/angle/ble-pd-0C4314F45C80/ble-pd-84FD27EEE588",
+    "message": "{\"azimuth\":43.34852600097656,\"elevation\":46.921112060546875,\"azimuth_stdev\":0.44362425804138184,\"elevation_stdev\":0.17900937795639038,\"distance\":5.44061279296875,\"distance_stdev\":0,\"sequence\":61259}",
+    "timestamp": "2024-07-15T16:41:11.674880"
+},
+{
+    "topic": "silabs/aoa/angle/ble-pd-0C4314F45C80/ble-pd-84FD27EEE588",
+    "message": "{\"azimuth\":43.597015380859375,\"elevation\":46.85577392578125,\"azimuth_stdev\":0.5828057527542114,\"elevation_stdev\":0.17544792592525482,\"distance\":12.459444999694824,\"distance_stdev\":0,\"sequence\":61260}",
+    "timestamp": "2024-07-15T16:41:11.708880"
+},
+{
+    "topic": "silabs/aoa/angle/ble-pd-0C4314F45C80/ble-pd-84FD27EEE588",
+    "message": "{\"azimuth\":43.71443176269531,\"elevation\":46.757171630859375,\"azimuth_stdev\":0.7034982442855835,\"elevation_stdev\":0.20934516191482544,\"distance\":6.77468204498291,\"distance_stdev\":0,\"sequence\":61261}",
+    "timestamp": "2024-07-15T16:41:11.719881"
+},
+{
+    "topic": "silabs/aoa/angle/ble-pd-0C4314F45C80/ble-pd-84FD27EEE588",
+    "message": "{\"azimuth\":43.964630126953125,\"elevation\":46.67806625366211,\"azimuth_stdev\":0.8193223476409912,\"elevation_stdev\":0.2568168342113495,\"distance\":5.8589067459106445,\"distance_stdev\":0,\"sequence\":61262}",
+    "timestamp": "2024-07-15T16:41:11.753881"
+},
+{
+    "topic": "silabs/aoa/angle/ble-pd-0C4314F45C80/ble-pd-84FD27EEE588",
+    "message": "{\"azimuth\":44.11756896972656,\"elevation\":46.50872039794922,\"azimuth_stdev\":0.8994645476341248,\"elevation_stdev\":0.3248910903930664,\"distance\":4.330219268798828,\"distance_stdev\":0,\"sequence\":61263}",
+    "timestamp": "2024-07-15T16:41:11.775880"
+},
+{
+    "topic": "silabs/aoa/angle/ble-pd-0C4314F45C80/ble-pd-84FD27EEE588",
+    "message": "{\"azimuth\":44.366912841796875,\"elevation\":46.45979309082031,\"azimuth_stdev\":0.9375510811805725,\"elevation_stdev\":0.36295732855796814,\"distance\":13.277584075927734,\"distance_stdev\":0,\"sequence\":61264}",
+    "timestamp": "2024-07-15T16:41:11.797880"
+},
+{
+    "topic": "silabs/aoa/angle/ble-pd-0C4314F45C80/ble-pd-84FD27EEE588",
+    "message": "{\"azimuth\":44.45880126953125,\"elevation\":46.29167556762695,\"azimuth_stdev\":0.8847593665122986,\"elevation_stdev\":0.38306722044944763,\"distance\":13.277584075927734,\"distance_stdev\":0,\"sequence\":61265}",
+    "timestamp": "2024-07-15T16:41:11.831880"
+},
+{
+    "topic": "silabs/aoa/angle/ble-pd-0C4314F45C80/ble-pd-84FD27EEE588",
+    "message": "{\"azimuth\":44.406158447265625,\"elevation\":46.292537689208984,\"azimuth_stdev\":0.778731644153595,\"elevation_stdev\":0.38126441836357117,\"distance\":5.44061279296875,\"distance_stdev\":0,\"sequence\":61266}",
+    "timestamp": "2024-07-15T16:41:11.855881"
+},
+{
+    "topic": "silabs/aoa/angle/ble-pd-0C4314F45C80/ble-pd-84FD27EEE588",
+    "message": "{\"azimuth\":44.32734680175781,\"elevation\":46.18511199951172,\"azimuth_stdev\":0.6479488015174866,\"elevation_stdev\":0.390192449092865,\"distance\":6.77468204498291,\"distance_stdev\":0,\"sequence\":61267}",
+    "timestamp": "2024-07-15T16:41:11.889881"
+},
+{
+    "topic": "silabs/aoa/angle/ble-pd-0C4314F45C80/ble-pd-84FD27EEE588",
+    "message": "{\"azimuth\":44.257476806640625,\"elevation\":46.175418853759766,\"azimuth_stdev\":0.4985511004924774,\"elevation_stdev\":0.3860578238964081,\"distance\":5.047149658203125,\"distance_stdev\":0,\"sequence\":61268}",
+    "timestamp": "2024-07-15T16:41:11.910880"
+},
+{
+    "topic": "silabs/aoa/angle/ble-pd-0C4314F45C80/ble-pd-84FD27EEE588",
+    "message": "{\"azimuth\":44.17134094238281,\"elevation\":46.26818084716797,\"azimuth_stdev\":0.38085609674453735,\"elevation_stdev\":0.3417659103870392,\"distance\":11.682686805725098,\"distance_stdev\":0,\"sequence\":61269}",
+    "timestamp": "2024-07-15T16:41:11.933880"
+},
+{
+    "topic": "silabs/aoa/angle/ble-pd-0C4314F45C80/ble-pd-84FD27EEE588",
+    "message": "{\"azimuth\":44.00135803222656,\"elevation\":46.260128021240234,\"azimuth_stdev\":0.3018493950366974,\"elevation_stdev\":0.2842547595500946,\"distance\":7.8042521476745605,\"distance_stdev\":0,\"sequence\":61270}",
+    "timestamp": "2024-07-15T16:41:11.967880"
+},
+{
+    "topic": "silabs/aoa/angle/ble-pd-0C4314F45C80/ble-pd-84FD27EEE588",
+    "message": "{\"azimuth\":43.90423583984375,\"elevation\":46.35369873046875,\"azimuth_stdev\":0.2532661557197571,\"elevation_stdev\":0.21949513256549835,\"distance\":12.459444999694824,\"distance_stdev\":0,\"sequence\":61271}",
+    "timestamp": "2024-07-15T16:41:11.990881"
+},
+{
+    "topic": "silabs/aoa/angle/ble-pd-0C4314F45C80/ble-pd-84FD27EEE588",
+    "message": "{\"azimuth\":43.669708251953125,\"elevation\":46.411415100097656,\"azimuth_stdev\":0.32397857308387756,\"elevation_stdev\":0.15492278337478638,\"distance\":5.44061279296875,\"distance_stdev\":0,\"sequence\":61272}",
+    "timestamp": "2024-07-15T16:41:12.012881"
+},
+{
+    "topic": "silabs/aoa/angle/ble-pd-0C4314F45C80/ble-pd-84FD27EEE588",
+    "message": "{\"azimuth\":43.44914245605469,\"elevation\":46.583126068115234,\"azimuth_stdev\":0.4378359019756317,\"elevation_stdev\":0.17633192241191864,\"distance\":5.047149658203125,\"distance_stdev\":0,\"sequence\":61273}",
+    "timestamp": "2024-07-15T16:41:12.046881"
+},
+{
+    "topic": "silabs/aoa/angle/ble-pd-0C4314F45C80/ble-pd-84FD27EEE588",
+    "message": "{\"azimuth\":43.34107971191406,\"elevation\":46.69258117675781,\"azimuth_stdev\":0.516502857208252,\"elevation_stdev\":0.23403747379779816,\"distance\":4.330219268798828,\"distance_stdev\":0,\"sequence\":61274}",
+    "timestamp": "2024-07-15T16:41:12.079879"
+},
+{
+    "topic": "silabs/aoa/angle/ble-pd-0C4314F45C80/ble-pd-84FD27EEE588",
+    "message": "{\"azimuth\":43.258453369140625,\"elevation\":46.69582748413086,\"azimuth_stdev\":0.5493279695510864,\"elevation_stdev\":0.2757072448730469,\"distance\":8.957999229431152,\"distance_stdev\":0,\"sequence\":61276}",
+    "timestamp": "2024-07-15T16:41:12.114879"
+},
+{
+    "topic": "silabs/aoa/angle/ble-pd-0C4314F45C80/ble-pd-84FD27EEE588",
+    "message": "{\"azimuth\":43.620574951171875,\"elevation\":46.562461853027344,\"azimuth_stdev\":0.5014665722846985,\"elevation_stdev\":0.2803439795970917,\"distance\":19.15053367614746,\"distance_stdev\":0,\"sequence\":61278}",
+    "timestamp": "2024-07-15T16:41:12.159879"
+},
+{
+    "topic": "silabs/aoa/angle/ble-pd-0C4314F45C80/ble-pd-84FD27EEE588",
+    "message": "{\"azimuth\":43.838287353515625,\"elevation\":46.497703552246094,\"azimuth_stdev\":0.44362425804138184,\"elevation_stdev\":0.2570659816265106,\"distance\":13.277584075927734,\"distance_stdev\":0,\"sequence\":61279}",
+    "timestamp": "2024-07-15T16:41:12.182880"
+},
+{
+    "topic": "silabs/aoa/angle/ble-pd-0C4314F45C80/ble-pd-84FD27EEE588",
+    "message": "{\"azimuth\":44.1641845703125,\"elevation\":46.23516082763672,\"azimuth_stdev\":0.42344915866851807,\"elevation_stdev\":0.24436618387699127,\"distance\":4.330219268798828,\"distance_stdev\":0,\"sequence\":61280}",
+    "timestamp": "2024-07-15T16:41:12.205880"
+},
+{
+    "topic": "silabs/aoa/angle/ble-pd-0C4314F45C80/ble-pd-84FD27EEE588",
+    "message": "{\"azimuth\":44.55863952636719,\"elevation\":46.00205612182617,\"azimuth_stdev\":0.5157967805862427,\"elevation_stdev\":0.3081149756908417,\"distance\":19.15053367614746,\"distance_stdev\":0,\"sequence\":61281}",
+    "timestamp": "2024-07-15T16:41:12.240880"
+},
+{
+    "topic": "silabs/aoa/angle/ble-pd-0C4314F45C80/ble-pd-84FD27EEE588",
+    "message": "{\"azimuth\":44.838043212890625,\"elevation\":45.689266204833984,\"azimuth_stdev\":0.6722406148910522,\"elevation_stdev\":0.4467742443084717,\"distance\":19.15053367614746,\"distance_stdev\":0,\"sequence\":61282}",
+    "timestamp": "2024-07-15T16:41:12.262881"
+},
+{
+    "topic": "silabs/aoa/angle/ble-pd-0C4314F45C80/ble-pd-84FD27EEE588",
+    "message": "{\"azimuth\":45.00978088378906,\"elevation\":45.59522247314453,\"azimuth_stdev\":0.8206555843353271,\"elevation_stdev\":0.5630874633789062,\"distance\":6.30319356918335,\"distance_stdev\":0,\"sequence\":61283}",
+    "timestamp": "2024-07-15T16:41:12.285881"
+},
+{
+    "topic": "silabs/aoa/angle/ble-pd-0C4314F45C80/ble-pd-84FD27EEE588",
+    "message": "{\"azimuth\":45.18476867675781,\"elevation\":45.46220779418945,\"azimuth_stdev\":0.9410426616668701,\"elevation_stdev\":0.6667613387107849,\"distance\":10.246929168701172,\"distance_stdev\":0,\"sequence\":61284}",
+    "timestamp": "2024-07-15T16:41:12.307880"
+},
+{
+    "topic": "silabs/aoa/angle/ble-pd-0C4314F45C80/ble-pd-84FD27EEE588",
+    "message": "{\"azimuth\":45.43511962890625,\"elevation\":45.26239013671875,\"azimuth_stdev\":1.022690773010254,\"elevation_stdev\":0.7519787549972534,\"distance\":6.30319356918335,\"distance_stdev\":0,\"sequence\":61285}",
+    "timestamp": "2024-07-15T16:41:12.329879"
+},
+{
+    "topic": "silabs/aoa/angle/ble-pd-0C4314F45C80/ble-pd-84FD27EEE588",
+    "message": "{\"azimuth\":45.61956787109375,\"elevation\":45.16140365600586,\"azimuth_stdev\":1.0400031805038452,\"elevation_stdev\":0.7803265452384949,\"distance\":4.677382469177246,\"distance_stdev\":0,\"sequence\":61286}",
+    "timestamp": "2024-07-15T16:41:12.352882"
+},
+{
+    "topic": "silabs/aoa/angle/ble-pd-0C4314F45C80/ble-pd-84FD27EEE588",
+    "message": "{\"azimuth\":45.87176513671875,\"elevation\":45.078277587890625,\"azimuth_stdev\":0.9830859303474426,\"elevation_stdev\":0.7569854259490967,\"distance\":11.682686805725098,\"distance_stdev\":0,\"sequence\":61288}",
+    "timestamp": "2024-07-15T16:41:12.388881"
+},
+{
+    "topic": "silabs/aoa/angle/ble-pd-0C4314F45C80/ble-pd-84FD27EEE588",
+    "message": "{\"azimuth\":45.54243469238281,\"elevation\":45.05938720703125,\"azimuth_stdev\":0.85501629114151,\"elevation_stdev\":0.6985782384872437,\"distance\":10.246929168701172,\"distance_stdev\":0,\"sequence\":61289}",
+    "timestamp": "2024-07-15T16:41:12.413880"
+},
+{
+    "topic": "silabs/aoa/angle/ble-pd-0C4314F45C80/ble-pd-84FD27EEE588",
+    "message": "{\"azimuth\":45.37611389160156,\"elevation\":44.914676666259766,\"azimuth_stdev\":0.6776400208473206,\"elevation_stdev\":0.6039141416549683,\"distance\":5.44061279296875,\"distance_stdev\":0,\"sequence\":61290}",
+    "timestamp": "2024-07-15T16:41:12.437005"
+},
+{
+    "topic": "silabs/aoa/angle/ble-pd-0C4314F45C80/ble-pd-84FD27EEE588",
+    "message": "{\"azimuth\":45.10844421386719,\"elevation\":44.77584457397461,\"azimuth_stdev\":0.508682131767273,\"elevation_stdev\":0.5306070446968079,\"distance\":6.30319356918335,\"distance_stdev\":0,\"sequence\":61291}",
+    "timestamp": "2024-07-15T16:41:12.466004"
+},
+{
+    "topic": "silabs/aoa/angle/ble-pd-0C4314F45C80/ble-pd-84FD27EEE588",
+    "message": "{\"azimuth\":44.86503601074219,\"elevation\":44.653114318847656,\"azimuth_stdev\":0.4411528408527374,\"elevation_stdev\":0.47584906220436096,\"distance\":4.330219268798828,\"distance_stdev\":0,\"sequence\":61292}",
+    "timestamp": "2024-07-15T16:41:12.499004"
+},
+{
+    "topic": "silabs/aoa/angle/ble-pd-0C4314F45C80/ble-pd-84FD27EEE588",
+    "message": "{\"azimuth\":44.5546875,\"elevation\":44.635467529296875,\"azimuth_stdev\":0.5050871968269348,\"elevation_stdev\":0.4514624774456024,\"distance\":6.30319356918335,\"distance_stdev\":0,\"sequence\":61293}",
+    "timestamp": "2024-07-15T16:41:12.511005"
+},
+{
+    "topic": "silabs/aoa/angle/ble-pd-0C4314F45C80/ble-pd-84FD27EEE588",
+    "message": "{\"azimuth\":44.3502197265625,\"elevation\":44.80704116821289,\"azimuth_stdev\":0.6232949495315552,\"elevation_stdev\":0.3775278925895691,\"distance\":4.004596710205078,\"distance_stdev\":0,\"sequence\":61294}",
+    "timestamp": "2024-07-15T16:41:12.541004"
+},
+{
+    "topic": "silabs/aoa/angle/ble-pd-0C4314F45C80/ble-pd-84FD27EEE588",
+    "message": "{\"azimuth\":44.17301940917969,\"elevation\":44.89999771118164,\"azimuth_stdev\":0.7506139874458313,\"elevation_stdev\":0.2955014109611511,\"distance\":4.330219268798828,\"distance_stdev\":0,\"sequence\":61296}",
+    "timestamp": "2024-07-15T16:41:12.590005"
+},
+{
+    "topic": "silabs/aoa/angle/ble-pd-0C4314F45C80/ble-pd-84FD27EEE588",
+    "message": "{\"azimuth\":43.89154052734375,\"elevation\":45.04039001464844,\"azimuth_stdev\":0.8739849925041199,\"elevation_stdev\":0.2541940212249756,\"distance\":8.957999229431152,\"distance_stdev\":0,\"sequence\":61297}",
+    "timestamp": "2024-07-15T16:41:12.612004"
+},
+{
+    "topic": "silabs/aoa/angle/ble-pd-0C4314F45C80/ble-pd-84FD27EEE588",
+    "message": "{\"azimuth\":43.721099853515625,\"elevation\":45.13999557495117,\"azimuth_stdev\":0.9398803114891052,\"elevation_stdev\":0.249638170003891,\"distance\":7.8042521476745605,\"distance_stdev\":0,\"sequence\":61298}",
+    "timestamp": "2024-07-15T16:41:12.638004"
+},
+{
+    "topic": "silabs/aoa/angle/ble-pd-0C4314F45C80/ble-pd-84FD27EEE588",
+    "message": "{\"azimuth\":43.477447509765625,\"elevation\":45.15659713745117,\"azimuth_stdev\":0.9163222908973694,\"elevation_stdev\":0.2636284828186035,\"distance\":9.584851264953613,\"distance_stdev\":0,\"sequence\":61299}",
+    "timestamp": "2024-07-15T16:41:12.672004"
+},
+{
+    "topic": "silabs/aoa/angle/ble-pd-0C4314F45C80/ble-pd-84FD27EEE588",
+    "message": "{\"azimuth\":43.313018798828125,\"elevation\":45.162845611572266,\"azimuth_stdev\":0.9014879465103149,\"elevation_stdev\":0.2798207998275757,\"distance\":4.677382469177246,\"distance_stdev\":0,\"sequence\":61300}",
+    "timestamp": "2024-07-15T16:41:12.694004"
+},
+{
+    "topic": "silabs/aoa/angle/ble-pd-0C4314F45C80/ble-pd-84FD27EEE588",
+    "message": "{\"azimuth\":43.086212158203125,\"elevation\":45.2646369934082,\"azimuth_stdev\":0.8710615038871765,\"elevation_stdev\":0.31846681237220764,\"distance\":4.004596710205078,\"distance_stdev\":0,\"sequence\":61301}",
+    "timestamp": "2024-07-15T16:41:12.717004"
+},
+{
+    "topic": "silabs/aoa/angle/ble-pd-0C4314F45C80/ble-pd-84FD27EEE588",
+    "message": "{\"azimuth\":43.10101318359375,\"elevation\":45.243953704833984,\"azimuth_stdev\":0.804057776927948,\"elevation_stdev\":0.32870548963546753,\"distance\":4.004596710205078,\"distance_stdev\":0,\"sequence\":61302}",
+    "timestamp": "2024-07-15T16:41:12.751004"
+},
+{
+    "topic": "silabs/aoa/angle/ble-pd-0C4314F45C80/ble-pd-84FD27EEE588",
+    "message": "{\"azimuth\":43.023956298828125,\"elevation\":45.27871322631836,\"azimuth_stdev\":0.721401035785675,\"elevation_stdev\":0.3005739152431488,\"distance\":4.677382469177246,\"distance_stdev\":0,\"sequence\":61303}",
+    "timestamp": "2024-07-15T16:41:12.774005"
+},
+{
+    "topic": "silabs/aoa/angle/ble-pd-0C4314F45C80/ble-pd-84FD27EEE588",
+    "message": "{\"azimuth\":43.05915832519531,\"elevation\":45.250423431396484,\"azimuth_stdev\":0.6337319016456604,\"elevation_stdev\":0.22462192177772522,\"distance\":14.138740539550781,\"distance_stdev\":0,\"sequence\":61304}",
+    "timestamp": "2024-07-15T16:41:12.798004"
+},
+{
+    "topic": "silabs/aoa/angle/ble-pd-0C4314F45C80/ble-pd-84FD27EEE588",
+    "message": "{\"azimuth\":43.022308349609375,\"elevation\":45.248844146728516,\"azimuth_stdev\":0.5358952283859253,\"elevation_stdev\":0.16706271469593048,\"distance\":4.004596710205078,\"distance_stdev\":0,\"sequence\":61305}",
+    "timestamp": "2024-07-15T16:41:12.819005"
+},
+{
+    "topic": "silabs/aoa/angle/ble-pd-0C4314F45C80/ble-pd-84FD27EEE588",
+    "message": "{\"azimuth\":43.029327392578125,\"elevation\":45.388710021972656,\"azimuth_stdev\":0.41387370228767395,\"elevation_stdev\":0.132911816239357,\"distance\":4.677382469177246,\"distance_stdev\":0,\"sequence\":61306}",
+    "timestamp": "2024-07-15T16:41:12.845004"
+},
+{
+    "topic": "silabs/aoa/angle/ble-pd-0C4314F45C80/ble-pd-84FD27EEE588",
+    "message": "{\"azimuth\":43.09428405761719,\"elevation\":45.41638946533203,\"azimuth_stdev\":0.3066409230232239,\"elevation_stdev\":0.12800049781799316,\"distance\":13.277584075927734,\"distance_stdev\":0,\"sequence\":61307}",
+    "timestamp": "2024-07-15T16:41:12.869005"
+},
+{
+    "topic": "silabs/aoa/angle/ble-pd-0C4314F45C80/ble-pd-84FD27EEE588",
+    "message": "{\"azimuth\":44.21710205078125,\"elevation\":45.79158020019531,\"azimuth_stdev\":0.482956200838089,\"elevation_stdev\":0.2575109004974365,\"distance\":12.459444999694824,\"distance_stdev\":0,\"sequence\":61309}",
+    "timestamp": "2024-07-15T16:41:12.925004"
+},
+{
+    "topic": "silabs/aoa/angle/ble-pd-0C4314F45C80/ble-pd-84FD27EEE588",
+    "message": "{\"azimuth\":43.78021240234375,\"elevation\":46.415916442871094,\"azimuth_stdev\":0.5249016284942627,\"elevation_stdev\":0.53354811668396,\"distance\":5.047149658203125,\"distance_stdev\":0,\"sequence\":61310}",
+    "timestamp": "2024-07-15T16:41:12.947005"
+},
+{
+    "topic": "silabs/aoa/angle/ble-pd-0C4314F45C80/ble-pd-84FD27EEE588",
+    "message": "{\"azimuth\":42.59284973144531,\"elevation\":45.62398910522461,\"azimuth_stdev\":0.5921111702919006,\"elevation_stdev\":0.5192556977272034,\"distance\":6.30319356918335,\"distance_stdev\":0,\"sequence\":61311}",
+    "timestamp": "2024-07-15T16:41:12.970005"
+},
+{
+    "topic": "silabs/aoa/angle/ble-pd-0C4314F45C80/ble-pd-84FD27EEE588",
+    "message": "{\"azimuth\":41.725555419921875,\"elevation\":45.003929138183594,\"azimuth_stdev\":0.8477399349212646,\"elevation_stdev\":0.5552692413330078,\"distance\":6.30319356918335,\"distance_stdev\":0,\"sequence\":61312}",
+    "timestamp": "2024-07-15T16:41:12.992178"
+},
+{
+    "topic": "silabs/aoa/angle/ble-pd-0C4314F45C80/ble-pd-84FD27EEE588",
+    "message": "{\"azimuth\":41.42115783691406,\"elevation\":44.87622833251953,\"azimuth_stdev\":1.0808935165405273,\"elevation_stdev\":0.6080073714256287,\"distance\":12.459444999694824,\"distance_stdev\":0,\"sequence\":61313}",
+    "timestamp": "2024-07-15T16:41:13.014177"
+},
+{
+    "topic": "silabs/aoa/angle/ble-pd-0C4314F45C80/ble-pd-84FD27EEE588",
+    "message": "{\"azimuth\":41.44403076171875,\"elevation\":44.564659118652344,\"azimuth_stdev\":1.230348825454712,\"elevation_stdev\":0.7174291014671326,\"distance\":13.277584075927734,\"distance_stdev\":0,\"sequence\":61314}",
+    "timestamp": "2024-07-15T16:41:13.039178"
+},
+{
+    "topic": "silabs/aoa/angle/ble-pd-0C4314F45C80/ble-pd-84FD27EEE588",
+    "message": "{\"azimuth\":41.476043701171875,\"elevation\":44.40935516357422,\"azimuth_stdev\":1.3203423023223877,\"elevation_stdev\":0.8310323357582092,\"distance\":7.8042521476745605,\"distance_stdev\":0,\"sequence\":61315}",
+    "timestamp": "2024-07-15T16:41:13.062177"
+},
+{
+    "topic": "silabs/aoa/angle/ble-pd-0C4314F45C80/ble-pd-84FD27EEE588",
+    "message": "{\"azimuth\":42.22801208496094,\"elevation\":44.36712646484375,\"azimuth_stdev\":1.3112043142318726,\"elevation_stdev\":0.9223117828369141,\"distance\":4.677382469177246,\"distance_stdev\":0,\"sequence\":61316}",
+    "timestamp": "2024-07-15T16:41:13.092177"
+},
+{
+    "topic": "silabs/aoa/angle/ble-pd-0C4314F45C80/ble-pd-84FD27EEE588",
+    "message": "{\"azimuth\":42.87742614746094,\"elevation\":44.308345794677734,\"azimuth_stdev\":1.30088210105896,\"elevation_stdev\":0.9911180734634399,\"distance\":5.44061279296875,\"distance_stdev\":0,\"sequence\":61317}",
+    "timestamp": "2024-07-15T16:41:13.121178"
+},
+{
+    "topic": "silabs/aoa/angle/ble-pd-0C4314F45C80/ble-pd-84FD27EEE588",
+    "message": "{\"azimuth\":43.37687683105469,\"elevation\":44.25690841674805,\"azimuth_stdev\":1.330787181854248,\"elevation_stdev\":1.0361806154251099,\"distance\":5.047149658203125,\"distance_stdev\":0,\"sequence\":61318}",
+    "timestamp": "2024-07-15T16:41:13.145179"
+},
+{
+    "topic": "silabs/aoa/angle/ble-pd-0C4314F45C80/ble-pd-84FD27EEE588",
+    "message": "{\"azimuth\":43.66026306152344,\"elevation\":43.970760345458984,\"azimuth_stdev\":1.2118486166000366,\"elevation_stdev\":1.0322388410568237,\"distance\":6.30319356918335,\"distance_stdev\":0,\"sequence\":61319}",
+    "timestamp": "2024-07-15T16:41:13.168178"
+},
+{
+    "topic": "silabs/aoa/angle/ble-pd-0C4314F45C80/ble-pd-84FD27EEE588",
+    "message": "{\"azimuth\":44.1383056640625,\"elevation\":43.7587890625,\"azimuth_stdev\":1.291324257850647,\"elevation_stdev\":0.7496325373649597,\"distance\":5.44061279296875,\"distance_stdev\":0,\"sequence\":61320}",
+    "timestamp": "2024-07-15T16:41:13.190179"
+},
+{
+    "topic": "silabs/aoa/angle/ble-pd-0C4314F45C80/ble-pd-84FD27EEE588",
+    "message": "{\"azimuth\":44.11671447753906,\"elevation\":43.65428924560547,\"azimuth_stdev\":1.453277587890625,\"elevation_stdev\":0.6102843284606934,\"distance\":5.047149658203125,\"distance_stdev\":0,\"sequence\":61321}",
+    "timestamp": "2024-07-15T16:41:13.225178"
+},
+{
+    "topic": "silabs/aoa/angle/ble-pd-0C4314F45C80/ble-pd-84FD27EEE588",
+    "message": "{\"azimuth\":44.02153015136719,\"elevation\":43.663551330566406,\"azimuth_stdev\":1.4860007762908936,\"elevation_stdev\":0.5693564414978027,\"distance\":4.677382469177246,\"distance_stdev\":0,\"sequence\":61322}",
+    "timestamp": "2024-07-15T16:41:13.236180"
+},
+{
+    "topic": "silabs/aoa/angle/ble-pd-0C4314F45C80/ble-pd-84FD27EEE588",
+    "message": "{\"azimuth\":43.96063232421875,\"elevation\":43.68170166015625,\"azimuth_stdev\":1.3828812837600708,\"elevation_stdev\":0.49411752820014954,\"distance\":5.047149658203125,\"distance_stdev\":0,\"sequence\":61323}",
+    "timestamp": "2024-07-15T16:41:13.270178"
+},
+{
+    "topic": "silabs/aoa/angle/ble-pd-0C4314F45C80/ble-pd-84FD27EEE588",
+    "message": "{\"azimuth\":44.07994079589844,\"elevation\":43.61272048950195,\"azimuth_stdev\":1.192144751548767,\"elevation_stdev\":0.4629916548728943,\"distance\":19.15053367614746,\"distance_stdev\":0,\"sequence\":61324}",
+    "timestamp": "2024-07-15T16:41:13.304179"
+},
+{
+    "topic": "silabs/aoa/angle/ble-pd-0C4314F45C80/ble-pd-84FD27EEE588",
+    "message": "{\"azimuth\":44.014190673828125,\"elevation\":43.65346145629883,\"azimuth_stdev\":0.8299282789230347,\"elevation_stdev\":0.42610296607017517,\"distance\":11.682686805725098,\"distance_stdev\":0,\"sequence\":61325}",
+    "timestamp": "2024-07-15T16:41:13.338178"
+},
+{
+    "topic": "silabs/aoa/angle/ble-pd-0C4314F45C80/ble-pd-84FD27EEE588",
+    "message": "{\"azimuth\":43.9774169921875,\"elevation\":43.92101287841797,\"azimuth_stdev\":0.5262883901596069,\"elevation_stdev\":0.35923242568969727,\"distance\":4.330219268798828,\"distance_stdev\":0,\"sequence\":61326}",
+    "timestamp": "2024-07-15T16:41:13.372179"
+},
+{
+    "topic": "silabs/aoa/angle/ble-pd-0C4314F45C80/ble-pd-84FD27EEE588",
+    "message": "{\"azimuth\":43.860382080078125,\"elevation\":44.284549713134766,\"azimuth_stdev\":0.30425459146499634,\"elevation_stdev\":0.3527691662311554,\"distance\":5.8589067459106445,\"distance_stdev\":0,\"sequence\":61327}",
+    "timestamp": "2024-07-15T16:41:13.391178"
+},
+{
+    "topic": "silabs/aoa/angle/ble-pd-0C4314F45C80/ble-pd-84FD27EEE588",
+    "message": "{\"azimuth\":43.83409118652344,\"elevation\":44.497039794921875,\"azimuth_stdev\":0.18704965710639954,\"elevation_stdev\":0.4220027029514313,\"distance\":6.30319356918335,\"distance_stdev\":0,\"sequence\":61328}",
+    "timestamp": "2024-07-15T16:41:13.414177"
+},
+{
+    "topic": "silabs/aoa/angle/ble-pd-0C4314F45C80/ble-pd-84FD27EEE588",
+    "message": "{\"azimuth\":43.66438293457031,\"elevation\":44.71701431274414,\"azimuth_stdev\":0.18704965710639954,\"elevation_stdev\":0.5642032623291016,\"distance\":4.677382469177246,\"distance_stdev\":0,\"sequence\":61329}",
+    "timestamp": "2024-07-15T16:41:13.449179"
+},
+{
+    "topic": "silabs/aoa/angle/ble-pd-0C4314F45C80/ble-pd-84FD27EEE588",
+    "message": "{\"azimuth\":43.477325439453125,\"elevation\":44.928157806396484,\"azimuth_stdev\":0.25895819067955017,\"elevation_stdev\":0.6997721195220947,\"distance\":4.677382469177246,\"distance_stdev\":0,\"sequence\":61330}",
+    "timestamp": "2024-07-15T16:41:13.471180"
+},
+{
+    "topic": "silabs/aoa/angle/ble-pd-0C4314F45C80/ble-pd-84FD27EEE588",
+    "message": "{\"azimuth\":43.40411376953125,\"elevation\":45.07122802734375,\"azimuth_stdev\":0.3078271448612213,\"elevation_stdev\":0.7938750386238098,\"distance\":4.330219268798828,\"distance_stdev\":0,\"sequence\":61331}",
+    "timestamp": "2024-07-15T16:41:13.494179"
+},
+{
+    "topic": "silabs/aoa/angle/ble-pd-0C4314F45C80/ble-pd-84FD27EEE588",
+    "message": "{\"azimuth\":43.327606201171875,\"elevation\":45.32653045654297,\"azimuth_stdev\":0.3540779948234558,\"elevation_stdev\":0.882986307144165,\"distance\":7.8042521476745605,\"distance_stdev\":0,\"sequence\":61332}",
+    "timestamp": "2024-07-15T16:41:13.529178"
+},
+{
+    "topic": "silabs/aoa/angle/ble-pd-0C4314F45C80/ble-pd-84FD27EEE588",
+    "message": "{\"azimuth\":43.23136901855469,\"elevation\":45.36460876464844,\"azimuth_stdev\":0.3995361924171448,\"elevation_stdev\":0.9111029505729675,\"distance\":5.047149658203125,\"distance_stdev\":0,\"sequence\":61333}",
+    "timestamp": "2024-07-15T16:41:13.551177"
+},
+{
+    "topic": "silabs/aoa/angle/ble-pd-0C4314F45C80/ble-pd-84FD27EEE588",
+    "message": "{\"azimuth\":43.190338134765625,\"elevation\":45.4061164855957,\"azimuth_stdev\":0.40316838026046753,\"elevation_stdev\":0.8597385287284851,\"distance\":6.30319356918335,\"distance_stdev\":0,\"sequence\":61335}",
+    "timestamp": "2024-07-15T16:41:13.597179"
+},
+{
+    "topic": "silabs/aoa/angle/ble-pd-0C4314F45C80/ble-pd-84FD27EEE588",
+    "message": "{\"azimuth\":43.1241455078125,\"elevation\":45.411888122558594,\"azimuth_stdev\":0.3958706855773926,\"elevation_stdev\":0.7302080988883972,\"distance\":7.8042521476745605,\"distance_stdev\":0,\"sequence\":61336}",
+    "timestamp": "2024-07-15T16:41:13.608178"
+},
+{
+    "topic": "silabs/aoa/angle/ble-pd-0C4314F45C80/ble-pd-84FD27EEE588",
+    "message": "{\"azimuth\":42.82861328125,\"elevation\":45.307518005371094,\"azimuth_stdev\":0.42085927724838257,\"elevation_stdev\":0.5706885457038879,\"distance\":6.30319356918335,\"distance_stdev\":0,\"sequence\":61337}",
+    "timestamp": "2024-07-15T16:41:13.642178"
+},
+{
+    "topic": "silabs/aoa/angle/ble-pd-0C4314F45C80/ble-pd-84FD27EEE588",
+    "message": "{\"azimuth\":42.56352233886719,\"elevation\":45.10469055175781,\"azimuth_stdev\":0.48446306586265564,\"elevation_stdev\":0.43858516216278076,\"distance\":5.44061279296875,\"distance_stdev\":0,\"sequence\":61338}",
+    "timestamp": "2024-07-15T16:41:13.664178"
+},
+{
+    "topic": "silabs/aoa/angle/ble-pd-0C4314F45C80/ble-pd-84FD27EEE588",
+    "message": "{\"azimuth\":42.419708251953125,\"elevation\":45.11081314086914,\"azimuth_stdev\":0.5186153054237366,\"elevation_stdev\":0.32017040252685547,\"distance\":5.047149658203125,\"distance_stdev\":0,\"sequence\":61339}",
+    "timestamp": "2024-07-15T16:41:13.675178"
+},
+{
+    "topic": "silabs/aoa/angle/ble-pd-0C4314F45C80/ble-pd-84FD27EEE588",
+    "message": "{\"azimuth\":42.11756896972656,\"elevation\":45.047855377197266,\"azimuth_stdev\":0.5988431572914124,\"elevation_stdev\":0.24193115532398224,\"distance\":5.44061279296875,\"distance_stdev\":0,\"sequence\":61340}",
+    "timestamp": "2024-07-15T16:41:13.709178"
+},
+{
+    "topic": "silabs/aoa/angle/ble-pd-0C4314F45C80/ble-pd-84FD27EEE588",
+    "message": "{\"azimuth\":41.857574462890625,\"elevation\":45.14352798461914,\"azimuth_stdev\":0.7014231085777283,\"elevation_stdev\":0.20392660796642303,\"distance\":8.957999229431152,\"distance_stdev\":0,\"sequence\":61341}",
+    "timestamp": "2024-07-15T16:41:13.720179"
+},
+{
+    "topic": "silabs/aoa/angle/ble-pd-0C4314F45C80/ble-pd-84FD27EEE588",
+    "message": "{\"azimuth\":41.940399169921875,\"elevation\":45.10770797729492,\"azimuth_stdev\":0.7249284982681274,\"elevation_stdev\":0.19839341938495636,\"distance\":6.30319356918335,\"distance_stdev\":0,\"sequence\":61342}",
+    "timestamp": "2024-07-15T16:41:13.754179"
+},
+{
+    "topic": "silabs/aoa/angle/ble-pd-0C4314F45C80/ble-pd-84FD27EEE588",
+    "message": "{\"azimuth\":41.92185974121094,\"elevation\":45.081939697265625,\"azimuth_stdev\":0.7127615809440613,\"elevation_stdev\":0.20276401937007904,\"distance\":6.30319356918335,\"distance_stdev\":0,\"sequence\":61343}",
+    "timestamp": "2024-07-15T16:41:13.776178"
+},
+{
+    "topic": "silabs/aoa/angle/ble-pd-0C4314F45C80/ble-pd-84FD27EEE588",
+    "message": "{\"azimuth\":41.868316650390625,\"elevation\":44.93114471435547,\"azimuth_stdev\":0.6760247349739075,\"elevation_stdev\":0.22001883387565613,\"distance\":6.30319356918335,\"distance_stdev\":0,\"sequence\":61344}",
+    "timestamp": "2024-07-15T16:41:13.799178"
+},
+{
+    "topic": "silabs/aoa/angle/ble-pd-0C4314F45C80/ble-pd-84FD27EEE588",
+    "message": "{\"azimuth\":41.854095458984375,\"elevation\":44.910980224609375,\"azimuth_stdev\":0.5957925915718079,\"elevation_stdev\":0.21113261580467224,\"distance\":6.30319356918335,\"distance_stdev\":0,\"sequence\":61345}",
+    "timestamp": "2024-07-15T16:41:13.822178"
+},
+{
+    "topic": "silabs/aoa/angle/ble-pd-0C4314F45C80/ble-pd-84FD27EEE588",
+    "message": "{\"azimuth\":41.83366394042969,\"elevation\":44.810333251953125,\"azimuth_stdev\":0.46055305004119873,\"elevation_stdev\":0.19495590031147003,\"distance\":7.8042521476745605,\"distance_stdev\":0,\"sequence\":61346}",
+    "timestamp": "2024-07-15T16:41:13.856179"
+},
+{
+    "topic": "silabs/aoa/angle/ble-pd-0C4314F45C80/ble-pd-84FD27EEE588",
+    "message": "{\"azimuth\":41.63325500488281,\"elevation\":44.765438079833984,\"azimuth_stdev\":0.3701803684234619,\"elevation_stdev\":0.1901528388261795,\"distance\":6.77468204498291,\"distance_stdev\":0,\"sequence\":61347}",
+    "timestamp": "2024-07-15T16:41:13.878177"
+},
+{
+    "topic": "silabs/aoa/angle/ble-pd-0C4314F45C80/ble-pd-84FD27EEE588",
+    "message": "{\"azimuth\":41.534027099609375,\"elevation\":44.844600677490234,\"azimuth_stdev\":0.31369099020957947,\"elevation_stdev\":0.19416889548301697,\"distance\":12.459444999694824,\"distance_stdev\":0,\"sequence\":61348}",
+    "timestamp": "2024-07-15T16:41:13.890178"
+},
+{
+    "topic": "silabs/aoa/angle/ble-pd-0C4314F45C80/ble-pd-84FD27EEE588",
+    "message": "{\"azimuth\":41.43719482421875,\"elevation\":44.82960510253906,\"azimuth_stdev\":0.2645277976989746,\"elevation_stdev\":0.19139641523361206,\"distance\":6.30319356918335,\"distance_stdev\":0,\"sequence\":61349}",
+    "timestamp": "2024-07-15T16:41:13.912178"
+},
+{
+    "topic": "silabs/aoa/angle/ble-pd-0C4314F45C80/ble-pd-84FD27EEE588",
+    "message": "{\"azimuth\":41.27488708496094,\"elevation\":44.76800537109375,\"azimuth_stdev\":0.3006395995616913,\"elevation_stdev\":0.19922266900539398,\"distance\":4.004596710205078,\"distance_stdev\":0,\"sequence\":61351}",
+    "timestamp": "2024-07-15T16:41:13.962177"
+},
+{
+    "topic": "silabs/aoa/angle/ble-pd-0C4314F45C80/ble-pd-84FD27EEE588",
+    "message": "{\"azimuth\":41.11479187011719,\"elevation\":44.74283218383789,\"azimuth_stdev\":0.37700897455215454,\"elevation_stdev\":0.17923115193843842,\"distance\":5.44061279296875,\"distance_stdev\":0,\"sequence\":61352}",
+    "timestamp": "2024-07-15T16:41:13.989178"
+},
+{
+    "topic": "silabs/aoa/angle/ble-pd-0C4314F45C80/ble-pd-84FD27EEE588",
+    "message": "{\"azimuth\":41.17010498046875,\"elevation\":44.71166229248047,\"azimuth_stdev\":0.3958706855773926,\"elevation_stdev\":0.15350916981697083,\"distance\":4.330219268798828,\"distance_stdev\":0,\"sequence\":61353}",
+    "timestamp": "2024-07-15T16:41:14.022178"
+},
+{
+    "topic": "silabs/aoa/angle/ble-pd-0C4314F45C80/ble-pd-84FD27EEE588",
+    "message": "{\"azimuth\":41.17695617675781,\"elevation\":44.84144973754883,\"azimuth_stdev\":0.38655489683151245,\"elevation_stdev\":0.09845563024282455,\"distance\":6.30319356918335,\"distance_stdev\":0,\"sequence\":61354}",
+    "timestamp": "2024-07-15T16:41:14.045178"
+},
+{
+    "topic": "silabs/aoa/angle/ble-pd-0C4314F45C80/ble-pd-84FD27EEE588",
+    "message": "{\"azimuth\":41.25035095214844,\"elevation\":44.87253189086914,\"azimuth_stdev\":0.35510575771331787,\"elevation_stdev\":0.08628445863723755,\"distance\":6.30319356918335,\"distance_stdev\":0,\"sequence\":61355}",
+    "timestamp": "2024-07-15T16:41:14.062178"
+},
+{
+    "topic": "silabs/aoa/angle/ble-pd-0C4314F45C80/ble-pd-84FD27EEE588",
+    "message": "{\"azimuth\":41.29576110839844,\"elevation\":44.8752555847168,\"azimuth_stdev\":0.2994248867034912,\"elevation_stdev\":0.07833309471607208,\"distance\":18.04803466796875,\"distance_stdev\":0,\"sequence\":61356}",
+    "timestamp": "2024-07-15T16:41:14.087179"
+},
+{
+    "topic": "silabs/aoa/angle/ble-pd-0C4314F45C80/ble-pd-84FD27EEE588",
+    "message": "{\"azimuth\":41.41583251953125,\"elevation\":45.02920150756836,\"azimuth_stdev\":0.22099041938781738,\"elevation_stdev\":0.12570792436599731,\"distance\":6.30319356918335,\"distance_stdev\":0,\"sequence\":61357}",
+    "timestamp": "2024-07-15T16:41:14.117178"
+},
+{
+    "topic": "silabs/aoa/angle/ble-pd-0C4314F45C80/ble-pd-84FD27EEE588",
+    "message": "{\"azimuth\":41.266448974609375,\"elevation\":44.794677734375,\"azimuth_stdev\":0.17287345230579376,\"elevation_stdev\":0.12320811301469803,\"distance\":6.77468204498291,\"distance_stdev\":0,\"sequence\":61361}",
+    "timestamp": "2024-07-15T16:41:14.220213"
+},
+{
+    "topic": "silabs/aoa/angle/ble-pd-0C4314F45C80/ble-pd-84FD27EEE588",
+    "message": "{\"azimuth\":41.12921142578125,\"elevation\":44.72342300415039,\"azimuth_stdev\":0.14286161959171295,\"elevation_stdev\":0.13157959282398224,\"distance\":5.047149658203125,\"distance_stdev\":0,\"sequence\":61362}",
+    "timestamp": "2024-07-15T16:41:14.253215"
+},
+{
+    "topic": "silabs/aoa/angle/ble-pd-0C4314F45C80/ble-pd-84FD27EEE588",
+    "message": "{\"azimuth\":41.08253479003906,\"elevation\":44.59639358520508,\"azimuth_stdev\":0.12947936356067657,\"elevation_stdev\":0.16360139846801758,\"distance\":5.44061279296875,\"distance_stdev\":0,\"sequence\":61363}",
+    "timestamp": "2024-07-15T16:41:14.273214"
+},
+{
+    "topic": "silabs/aoa/angle/ble-pd-0C4314F45C80/ble-pd-84FD27EEE588",
+    "message": "{\"azimuth\":41.031768798828125,\"elevation\":44.47372817993164,\"azimuth_stdev\":0.1478758156299591,\"elevation_stdev\":0.21683715283870697,\"distance\":13.277584075927734,\"distance_stdev\":0,\"sequence\":61365}",
+    "timestamp": "2024-07-15T16:41:14.316213"
+},
+{
+    "topic": "silabs/aoa/angle/ble-pd-0C4314F45C80/ble-pd-84FD27EEE588",
+    "message": "{\"azimuth\":40.950592041015625,\"elevation\":44.3289794921875,\"azimuth_stdev\":0.17908643186092377,\"elevation_stdev\":0.2903864085674286,\"distance\":19.15053367614746,\"distance_stdev\":0,\"sequence\":61367}",
+    "timestamp": "2024-07-15T16:41:14.366214"
+},
+{
+    "topic": "silabs/aoa/angle/ble-pd-0C4314F45C80/ble-pd-84FD27EEE588",
+    "message": "{\"azimuth\":41.30023193359375,\"elevation\":44.475257873535156,\"azimuth_stdev\":0.18311133980751038,\"elevation_stdev\":0.310602068901062,\"distance\":4.004596710205078,\"distance_stdev\":0,\"sequence\":61368}",
+    "timestamp": "2024-07-15T16:41:14.389214"
+},
+{
+    "topic": "silabs/aoa/angle/ble-pd-0C4314F45C80/ble-pd-84FD27EEE588",
+    "message": "{\"azimuth\":41.56809997558594,\"elevation\":44.4986457824707,\"azimuth_stdev\":0.23996582627296448,\"elevation_stdev\":0.313885360956192,\"distance\":6.77468204498291,\"distance_stdev\":0,\"sequence\":61369}",
+    "timestamp": "2024-07-15T16:41:14.412213"
+},
+{
+    "topic": "silabs/aoa/angle/ble-pd-0C4314F45C80/ble-pd-84FD27EEE588",
+    "message": "{\"azimuth\":41.804351806640625,\"elevation\":44.56657028198242,\"azimuth_stdev\":0.3361249566078186,\"elevation_stdev\":0.299278199672699,\"distance\":4.330219268798828,\"distance_stdev\":0,\"sequence\":61370}",
+    "timestamp": "2024-07-15T16:41:14.436214"
+},
+{
+    "topic": "silabs/aoa/angle/ble-pd-0C4314F45C80/ble-pd-84FD27EEE588",
+    "message": "{\"azimuth\":41.86492919921875,\"elevation\":44.72641372680664,\"azimuth_stdev\":0.41210877895355225,\"elevation_stdev\":0.2802656888961792,\"distance\":10.246929168701172,\"distance_stdev\":0,\"sequence\":61371}",
+    "timestamp": "2024-07-15T16:41:14.470214"
+},
+{
+    "topic": "silabs/aoa/angle/ble-pd-0C4314F45C80/ble-pd-84FD27EEE588",
+    "message": "{\"azimuth\":42.0316162109375,\"elevation\":44.81181716918945,\"azimuth_stdev\":0.5000109672546387,\"elevation_stdev\":0.22259964048862457,\"distance\":4.330219268798828,\"distance_stdev\":0,\"sequence\":61372}",
+    "timestamp": "2024-07-15T16:41:14.492213"
+},
+{
+    "topic": "silabs/aoa/angle/ble-pd-0C4314F45C80/ble-pd-84FD27EEE588",
+    "message": "{\"azimuth\":42.23016357421875,\"elevation\":44.9771614074707,\"azimuth_stdev\":0.5976247787475586,\"elevation_stdev\":0.26704782247543335,\"distance\":8.957999229431152,\"distance_stdev\":0,\"sequence\":61373}",
+    "timestamp": "2024-07-15T16:41:14.516213"
+},
+{
+    "topic": "silabs/aoa/angle/ble-pd-0C4314F45C80/ble-pd-84FD27EEE588",
+    "message": "{\"azimuth\":42.35658264160156,\"elevation\":45.20452117919922,\"azimuth_stdev\":0.6635101437568665,\"elevation_stdev\":0.37145793437957764,\"distance\":12.459444999694824,\"distance_stdev\":0,\"sequence\":61374}",
+    "timestamp": "2024-07-15T16:41:14.539213"
+},
+{
+    "topic": "silabs/aoa/angle/ble-pd-0C4314F45C80/ble-pd-84FD27EEE588",
+    "message": "{\"azimuth\":42.61750793457031,\"elevation\":45.36202621459961,\"azimuth_stdev\":0.7259332537651062,\"elevation_stdev\":0.47808071970939636,\"distance\":10.246929168701172,\"distance_stdev\":0,\"sequence\":61375}",
+    "timestamp": "2024-07-15T16:41:14.574213"
+},
+{
+    "topic": "silabs/aoa/angle/ble-pd-0C4314F45C80/ble-pd-84FD27EEE588",
+    "message": "{\"azimuth\":42.813812255859375,\"elevation\":45.43581008911133,\"azimuth_stdev\":0.7520690560340881,\"elevation_stdev\":0.5445260405540466,\"distance\":7.8042521476745605,\"distance_stdev\":0,\"sequence\":61376}",
+    "timestamp": "2024-07-15T16:41:14.608213"
+},
+{
+    "topic": "silabs/aoa/angle/ble-pd-0C4314F45C80/ble-pd-84FD27EEE588",
+    "message": "{\"azimuth\":42.99542236328125,\"elevation\":45.48463821411133,\"azimuth_stdev\":0.7086594700813293,\"elevation_stdev\":0.5492109656333923,\"distance\":5.44061279296875,\"distance_stdev\":0,\"sequence\":61377}",
+    "timestamp": "2024-07-15T16:41:14.642716"
+},
+{
+    "topic": "silabs/aoa/angle/ble-pd-0C4314F45C80/ble-pd-84FD27EEE588",
+    "message": "{\"azimuth\":43.0777587890625,\"elevation\":45.47060012817383,\"azimuth_stdev\":0.6808590888977051,\"elevation_stdev\":0.5369395613670349,\"distance\":5.047149658203125,\"distance_stdev\":0,\"sequence\":61378}",
+    "timestamp": "2024-07-15T16:41:14.664715"
+},
+{
+    "topic": "silabs/aoa/angle/ble-pd-0C4314F45C80/ble-pd-84FD27EEE588",
+    "message": "{\"azimuth\":43.153228759765625,\"elevation\":45.560455322265625,\"azimuth_stdev\":0.6563311815261841,\"elevation_stdev\":0.5029544830322266,\"distance\":6.30319356918335,\"distance_stdev\":0,\"sequence\":61379}",
+    "timestamp": "2024-07-15T16:41:14.687717"
+},
+{
+    "topic": "silabs/aoa/angle/ble-pd-0C4314F45C80/ble-pd-84FD27EEE588",
+    "message": "{\"azimuth\":43.12786865234375,\"elevation\":45.733219146728516,\"azimuth_stdev\":0.6197769045829773,\"elevation_stdev\":0.4675583839416504,\"distance\":4.330219268798828,\"distance_stdev\":0,\"sequence\":61380}",
+    "timestamp": "2024-07-15T16:41:14.709715"
+},
+{
+    "topic": "silabs/aoa/angle/ble-pd-0C4314F45C80/ble-pd-84FD27EEE588",
+    "message": "{\"azimuth\":43.20176696777344,\"elevation\":45.791709899902344,\"azimuth_stdev\":0.5519753098487854,\"elevation_stdev\":0.43142667412757874,\"distance\":6.30319356918335,\"distance_stdev\":0,\"sequence\":61381}",
+    "timestamp": "2024-07-15T16:41:14.721716"
+},
+{
+    "topic": "silabs/aoa/angle/ble-pd-0C4314F45C80/ble-pd-84FD27EEE588",
+    "message": "{\"azimuth\":43.0687255859375,\"elevation\":45.695499420166016,\"azimuth_stdev\":0.4509572982788086,\"elevation_stdev\":0.3465263247489929,\"distance\":6.30319356918335,\"distance_stdev\":0,\"sequence\":61382}",
+    "timestamp": "2024-07-15T16:41:14.743716"
+},
+{
+    "topic": "silabs/aoa/angle/ble-pd-0C4314F45C80/ble-pd-84FD27EEE588",
+    "message": "{\"azimuth\":43.073974609375,\"elevation\":45.59921646118164,\"azimuth_stdev\":0.35201337933540344,\"elevation_stdev\":0.2503575384616852,\"distance\":12.459444999694824,\"distance_stdev\":0,\"sequence\":61383}",
+    "timestamp": "2024-07-15T16:41:14.766715"
+},
+{
+    "topic": "silabs/aoa/angle/ble-pd-0C4314F45C80/ble-pd-84FD27EEE588",
+    "message": "{\"azimuth\":43.180511474609375,\"elevation\":45.51837158203125,\"azimuth_stdev\":0.23536546528339386,\"elevation_stdev\":0.19310836493968964,\"distance\":6.30319356918335,\"distance_stdev\":0,\"sequence\":61384}",
+    "timestamp": "2024-07-15T16:41:14.783716"
+},
+{
+    "topic": "silabs/aoa/angle/ble-pd-0C4314F45C80/ble-pd-84FD27EEE588",
+    "message": "{\"azimuth\":43.32527160644531,\"elevation\":45.24013900756836,\"azimuth_stdev\":0.17496897280216217,\"elevation_stdev\":0.2254316657781601,\"distance\":6.30319356918335,\"distance_stdev\":0,\"sequence\":61386}",
+    "timestamp": "2024-07-15T16:41:14.839716"
+},
+{
+    "topic": "silabs/aoa/angle/ble-pd-0C4314F45C80/ble-pd-84FD27EEE588",
+    "message": "{\"azimuth\":43.42779541015625,\"elevation\":45.1926383972168,\"azimuth_stdev\":0.16860431432724,\"elevation_stdev\":0.27299293875694275,\"distance\":11.682686805725098,\"distance_stdev\":0,\"sequence\":61387}",
+    "timestamp": "2024-07-15T16:41:14.874717"
+},
+{
+    "topic": "silabs/aoa/angle/ble-pd-0C4314F45C80/ble-pd-84FD27EEE588",
+    "message": "{\"azimuth\":43.48466491699219,\"elevation\":45.040687561035156,\"azimuth_stdev\":0.19468742609024048,\"elevation_stdev\":0.34798017144203186,\"distance\":6.77468204498291,\"distance_stdev\":0,\"sequence\":61388}",
+    "timestamp": "2024-07-15T16:41:14.895716"
+},
+{
+    "topic": "silabs/aoa/angle/ble-pd-0C4314F45C80/ble-pd-84FD27EEE588",
+    "message": "{\"azimuth\":43.47996520996094,\"elevation\":45.02430725097656,\"azimuth_stdev\":0.21086330711841583,\"elevation_stdev\":0.402832955121994,\"distance\":4.004596710205078,\"distance_stdev\":0,\"sequence\":61389}",
+    "timestamp": "2024-07-15T16:41:14.918716"
+},
+{
+    "topic": "silabs/aoa/angle/ble-pd-0C4314F45C80/ble-pd-84FD27EEE588",
+    "message": "{\"azimuth\":43.338836669921875,\"elevation\":45.044254302978516,\"azimuth_stdev\":0.20912779867649078,\"elevation_stdev\":0.4324679672718048,\"distance\":4.004596710205078,\"distance_stdev\":0,\"sequence\":61390}",
+    "timestamp": "2024-07-15T16:41:14.942716"
+},
+{
+    "topic": "silabs/aoa/angle/ble-pd-0C4314F45C80/ble-pd-84FD27EEE588",
+    "message": "{\"azimuth\":43.342559814453125,\"elevation\":45.23143768310547,\"azimuth_stdev\":0.19839608669281006,\"elevation_stdev\":0.40155789256095886,\"distance\":11.682686805725098,\"distance_stdev\":0,\"sequence\":61391}",
+    "timestamp": "2024-07-15T16:41:14.966171"
+},
+{
+    "topic": "silabs/aoa/angle/ble-pd-0C4314F45C80/ble-pd-84FD27EEE588",
+    "message": "{\"azimuth\":43.31965637207031,\"elevation\":45.186824798583984,\"azimuth_stdev\":0.19468742609024048,\"elevation_stdev\":0.33758804202079773,\"distance\":4.677382469177246,\"distance_stdev\":0,\"sequence\":61392}",
+    "timestamp": "2024-07-15T16:41:14.992170"
+},
+{
+    "topic": "silabs/aoa/angle/ble-pd-0C4314F45C80/ble-pd-84FD27EEE588",
+    "message": "{\"azimuth\":43.39598083496094,\"elevation\":45.08072280883789,\"azimuth_stdev\":0.16422425210475922,\"elevation_stdev\":0.27665019035339355,\"distance\":5.44061279296875,\"distance_stdev\":0,\"sequence\":61393}",
+    "timestamp": "2024-07-15T16:41:15.014170"
+},
+{
+    "topic": "silabs/aoa/angle/ble-pd-0C4314F45C80/ble-pd-84FD27EEE588",
+    "message": "{\"azimuth\":43.471160888671875,\"elevation\":45.061248779296875,\"azimuth_stdev\":0.12372181564569473,\"elevation_stdev\":0.20937354862689972,\"distance\":10.246929168701172,\"distance_stdev\":0,\"sequence\":61394}",
+    "timestamp": "2024-07-15T16:41:15.044170"
+},
+{
+    "topic": "silabs/aoa/angle/ble-pd-0C4314F45C80/ble-pd-84FD27EEE588",
+    "message": "{\"azimuth\":43.38951110839844,\"elevation\":45.088584899902344,\"azimuth_stdev\":0.08537619560956955,\"elevation_stdev\":0.11710800975561142,\"distance\":6.30319356918335,\"distance_stdev\":0,\"sequence\":61395}",
+    "timestamp": "2024-07-15T16:41:15.068170"
+},
+{
+    "topic": "silabs/aoa/angle/ble-pd-0C4314F45C80/ble-pd-84FD27EEE588",
+    "message": "{\"azimuth\":43.407257080078125,\"elevation\":45.0821647644043,\"azimuth_stdev\":0.08099497109651566,\"elevation_stdev\":0.1015787348151207,\"distance\":6.77468204498291,\"distance_stdev\":0,\"sequence\":61396}",
+    "timestamp": "2024-07-15T16:41:15.091170"
+},
+{
+    "topic": "silabs/aoa/angle/ble-pd-0C4314F45C80/ble-pd-84FD27EEE588",
+    "message": "{\"azimuth\":43.48040771484375,\"elevation\":45.07161331176758,\"azimuth_stdev\":0.08099497109651566,\"elevation_stdev\":0.09220366179943085,\"distance\":6.30319356918335,\"distance_stdev\":0,\"sequence\":61397}",
+    "timestamp": "2024-07-15T16:41:15.125170"
+},
+{
+    "topic": "silabs/aoa/angle/ble-pd-0C4314F45C80/ble-pd-84FD27EEE588",
+    "message": "{\"azimuth\":43.57061767578125,\"elevation\":45.08884048461914,\"azimuth_stdev\":0.10101845860481262,\"elevation_stdev\":0.08890596032142639,\"distance\":6.77468204498291,\"distance_stdev\":0,\"sequence\":61399}",
+    "timestamp": "2024-07-15T16:41:15.163171"
+},
+{
+    "topic": "silabs/aoa/angle/ble-pd-0C4314F45C80/ble-pd-84FD27EEE588",
+    "message": "{\"azimuth\":43.42333984375,\"elevation\":44.967315673828125,\"azimuth_stdev\":0.09734383225440979,\"elevation_stdev\":0.10144472867250443,\"distance\":13.277584075927734,\"distance_stdev\":0,\"sequence\":61400}",
+    "timestamp": "2024-07-15T16:41:15.209170"
+},
+{
+    "topic": "silabs/aoa/angle/ble-pd-0C4314F45C80/ble-pd-84FD27EEE588",
+    "message": "{\"azimuth\":43.327789306640625,\"elevation\":44.83293151855469,\"azimuth_stdev\":0.09734383225440979,\"elevation_stdev\":0.15206453204154968,\"distance\":6.30319356918335,\"distance_stdev\":0,\"sequence\":61401}",
+    "timestamp": "2024-07-15T16:41:15.231170"
+},
+{
+    "topic": "silabs/aoa/angle/ble-pd-0C4314F45C80/ble-pd-84FD27EEE588",
+    "message": "{\"azimuth\":43.24943542480469,\"elevation\":44.707942962646484,\"azimuth_stdev\":0.11768292635679245,\"elevation_stdev\":0.1990821361541748,\"distance\":5.44061279296875,\"distance_stdev\":0,\"sequence\":61402}",
+    "timestamp": "2024-07-15T16:41:15.254170"
+},
+{
+    "topic": "silabs/aoa/angle/ble-pd-0C4314F45C80/ble-pd-84FD27EEE588",
+    "message": "{\"azimuth\":43.246734619140625,\"elevation\":44.62874221801758,\"azimuth_stdev\":0.12947936356067657,\"elevation_stdev\":0.24313408136367798,\"distance\":6.77468204498291,\"distance_stdev\":0,\"sequence\":61403}",
+    "timestamp": "2024-07-15T16:41:15.276170"
+},
+{
+    "topic": "silabs/aoa/angle/ble-pd-0C4314F45C80/ble-pd-84FD27EEE588",
+    "message": "{\"azimuth\":43.288360595703125,\"elevation\":44.572265625,\"azimuth_stdev\":0.13766491413116455,\"elevation_stdev\":0.2880615293979645,\"distance\":4.677382469177246,\"distance_stdev\":0,\"sequence\":61404}",
+    "timestamp": "2024-07-15T16:41:15.300170"
+},
+{
+    "topic": "silabs/aoa/angle/ble-pd-0C4314F45C80/ble-pd-84FD27EEE588",
+    "message": "{\"azimuth\":42.859039306640625,\"elevation\":44.65727233886719,\"azimuth_stdev\":0.24891169369220734,\"elevation_stdev\":0.2971806526184082,\"distance\":6.30319356918335,\"distance_stdev\":0,\"sequence\":61405}",
+    "timestamp": "2024-07-15T16:41:15.323171"
+},
+{
+    "topic": "silabs/aoa/angle/ble-pd-0C4314F45C80/ble-pd-84FD27EEE588",
+    "message": "{\"azimuth\":42.551422119140625,\"elevation\":44.65395736694336,\"azimuth_stdev\":0.3995361924171448,\"elevation_stdev\":0.28977832198143005,\"distance\":4.004596710205078,\"distance_stdev\":0,\"sequence\":61407}",
+    "timestamp": "2024-07-15T16:41:15.364172"
+},
+{
+    "topic": "silabs/aoa/angle/ble-pd-0C4314F45C80/ble-pd-84FD27EEE588",
+    "message": "{\"azimuth\":42.165374755859375,\"elevation\":44.67110824584961,\"azimuth_stdev\":0.5840550661087036,\"elevation_stdev\":0.26727378368377686,\"distance\":7.274606704711914,\"distance_stdev\":0,\"sequence\":61408}",
+    "timestamp": "2024-07-15T16:41:15.389170"
+},
+{
+    "topic": "silabs/aoa/angle/ble-pd-0C4314F45C80/ble-pd-84FD27EEE588",
+    "message": "{\"azimuth\":41.896820068359375,\"elevation\":44.74960708618164,\"azimuth_stdev\":0.7393632531166077,\"elevation_stdev\":0.22766241431236267,\"distance\":6.30319356918335,\"distance_stdev\":0,\"sequence\":61409}",
+    "timestamp": "2024-07-15T16:41:15.416170"
+},
+{
+    "topic": "silabs/aoa/angle/ble-pd-0C4314F45C80/ble-pd-84FD27EEE588",
+    "message": "{\"azimuth\":41.60496520996094,\"elevation\":44.901920318603516,\"azimuth_stdev\":0.8639202117919922,\"elevation_stdev\":0.17772448062896729,\"distance\":8.957999229431152,\"distance_stdev\":0,\"sequence\":61411}",
+    "timestamp": "2024-07-15T16:41:15.468170"
+},
+{
+    "topic": "silabs/aoa/angle/ble-pd-0C4314F45C80/ble-pd-84FD27EEE588",
+    "message": "{\"azimuth\":41.37049865722656,\"elevation\":44.9958610534668,\"azimuth_stdev\":0.972652018070221,\"elevation_stdev\":0.18602535128593445,\"distance\":6.77468204498291,\"distance_stdev\":0,\"sequence\":61412}",
+    "timestamp": "2024-07-15T16:41:15.490170"
+},
+{
+    "topic": "silabs/aoa/angle/ble-pd-0C4314F45C80/ble-pd-84FD27EEE588",
+    "message": "{\"azimuth\":41.17448425292969,\"elevation\":45.08114242553711,\"azimuth_stdev\":1.0508086681365967,\"elevation_stdev\":0.23824530839920044,\"distance\":4.330219268798828,\"distance_stdev\":0,\"sequence\":61413}",
+    "timestamp": "2024-07-15T16:41:15.513170"
+},
+{
+    "topic": "silabs/aoa/angle/ble-pd-0C4314F45C80/ble-pd-84FD27EEE588",
+    "message": "{\"azimuth\":40.987030029296875,\"elevation\":45.2398796081543,\"azimuth_stdev\":1.0936288833618164,\"elevation_stdev\":0.31492263078689575,\"distance\":5.44061279296875,\"distance_stdev\":0,\"sequence\":61414}",
+    "timestamp": "2024-07-15T16:41:15.538171"
+},
+{
+    "topic": "silabs/aoa/angle/ble-pd-0C4314F45C80/ble-pd-84FD27EEE588",
+    "message": "{\"azimuth\":40.782684326171875,\"elevation\":45.34352493286133,\"azimuth_stdev\":1.0835870504379272,\"elevation_stdev\":0.3751799762248993,\"distance\":20.30685806274414,\"distance_stdev\":0,\"sequence\":61415}",
+    "timestamp": "2024-07-15T16:41:15.561170"
+},
+{
+    "topic": "silabs/aoa/angle/ble-pd-0C4314F45C80/ble-pd-84FD27EEE588",
+    "message": "{\"azimuth\":40.60078430175781,\"elevation\":45.41978073120117,\"azimuth_stdev\":0.9812309145927429,\"elevation_stdev\":0.406433641910553,\"distance\":6.30319356918335,\"distance_stdev\":0,\"sequence\":61416}",
+    "timestamp": "2024-07-15T16:41:15.592220"
+},
+{
+    "topic": "silabs/aoa/angle/ble-pd-0C4314F45C80/ble-pd-84FD27EEE588",
+    "message": "{\"azimuth\":40.9010009765625,\"elevation\":45.48976135253906,\"azimuth_stdev\":0.8290496468544006,\"elevation_stdev\":0.4322649836540222,\"distance\":11.682686805725098,\"distance_stdev\":0,\"sequence\":61418}",
+    "timestamp": "2024-07-15T16:41:15.638220"
+},
+{
+    "topic": "silabs/aoa/angle/ble-pd-0C4314F45C80/ble-pd-84FD27EEE588",
+    "message": "{\"azimuth\":41.3250732421875,\"elevation\":45.30786895751953,\"azimuth_stdev\":0.6439997553825378,\"elevation_stdev\":0.3961162567138672,\"distance\":6.30319356918335,\"distance_stdev\":0,\"sequence\":61419}",
+    "timestamp": "2024-07-15T16:41:15.671219"
+},
+{
+    "topic": "silabs/aoa/angle/ble-pd-0C4314F45C80/ble-pd-84FD27EEE588",
+    "message": "{\"azimuth\":41.754791259765625,\"elevation\":45.23666763305664,\"azimuth_stdev\":0.5546099543571472,\"elevation_stdev\":0.33105382323265076,\"distance\":14.138740539550781,\"distance_stdev\":0,\"sequence\":61420}",
+    "timestamp": "2024-07-15T16:41:15.694220"
+},
+{
+    "topic": "silabs/aoa/angle/ble-pd-0C4314F45C80/ble-pd-84FD27EEE588",
+    "message": "{\"azimuth\":42.05677795410156,\"elevation\":45.074012756347656,\"azimuth_stdev\":0.5933408141136169,\"elevation_stdev\":0.26528289914131165,\"distance\":10.246929168701172,\"distance_stdev\":0,\"sequence\":61421}",
+    "timestamp": "2024-07-15T16:41:15.716219"
+},
+{
+    "topic": "silabs/aoa/angle/ble-pd-0C4314F45C80/ble-pd-84FD27EEE588",
+    "message": "{\"azimuth\":42.41001892089844,\"elevation\":44.95973587036133,\"azimuth_stdev\":0.7510993480682373,\"elevation_stdev\":0.2517590820789337,\"distance\":5.047149658203125,\"distance_stdev\":0,\"sequence\":61422}",
+    "timestamp": "2024-07-15T16:41:15.740220"
+},
+{
+    "topic": "silabs/aoa/angle/ble-pd-0C4314F45C80/ble-pd-84FD27EEE588",
+    "message": "{\"azimuth\":42.39532470703125,\"elevation\":44.91868591308594,\"azimuth_stdev\":0.8677082061767578,\"elevation_stdev\":0.2679668068885803,\"distance\":4.004596710205078,\"distance_stdev\":0,\"sequence\":61423}",
+    "timestamp": "2024-07-15T16:41:15.777219"
+},
+{
+    "topic": "silabs/aoa/angle/ble-pd-0C4314F45C80/ble-pd-84FD27EEE588",
+    "message": "{\"azimuth\":42.42851257324219,\"elevation\":44.88139343261719,\"azimuth_stdev\":0.9452926516532898,\"elevation_stdev\":0.3005935549736023,\"distance\":5.047149658203125,\"distance_stdev\":0,\"sequence\":61424}",
+    "timestamp": "2024-07-15T16:41:15.797218"
+},
+{
+    "topic": "silabs/aoa/angle/ble-pd-0C4314F45C80/ble-pd-84FD27EEE588",
+    "message": "{\"azimuth\":42.51640319824219,\"elevation\":44.81978988647461,\"azimuth_stdev\":0.9782554507255554,\"elevation_stdev\":0.3391015827655792,\"distance\":28.488698959350586,\"distance_stdev\":0,\"sequence\":61425}",
+    "timestamp": "2024-07-15T16:41:15.831219"
+},
+{
+    "topic": "silabs/aoa/angle/ble-pd-0C4314F45C80/ble-pd-84FD27EEE588",
+    "message": "{\"azimuth\":42.494476318359375,\"elevation\":44.792762756347656,\"azimuth_stdev\":0.9230581521987915,\"elevation_stdev\":0.35595688223838806,\"distance\":30.0795841217041,\"distance_stdev\":0,\"sequence\":61426}",
+    "timestamp": "2024-07-15T16:41:15.838220"
+},
+{
+    "topic": "silabs/aoa/angle/ble-pd-0C4314F45C80/ble-pd-84FD27EEE588",
+    "message": "{\"azimuth\":42.59321594238281,\"elevation\":44.65488052368164,\"azimuth_stdev\":0.7496424317359924,\"elevation_stdev\":0.3625842332839966,\"distance\":7.8042521476745605,\"distance_stdev\":0,\"sequence\":61427}",
+    "timestamp": "2024-07-15T16:41:15.861219"
+},
+{
+    "topic": "silabs/aoa/angle/ble-pd-0C4314F45C80/ble-pd-84FD27EEE588",
+    "message": "{\"azimuth\":42.27262878417969,\"elevation\":44.86530685424805,\"azimuth_stdev\":0.5207191705703735,\"elevation_stdev\":0.2811110019683838,\"distance\":14.138740539550781,\"distance_stdev\":0,\"sequence\":61428}",
+    "timestamp": "2024-07-15T16:41:15.889219"
+},
+{
+    "topic": "silabs/aoa/angle/ble-pd-0C4314F45C80/ble-pd-84FD27EEE588",
+    "message": "{\"azimuth\":42.15724182128906,\"elevation\":45.04240036010742,\"azimuth_stdev\":0.3284474313259125,\"elevation_stdev\":0.2278602570295334,\"distance\":14.138740539550781,\"distance_stdev\":0,\"sequence\":61429}",
+    "timestamp": "2024-07-15T16:41:15.915220"
+},
+{
+    "topic": "silabs/aoa/angle/ble-pd-0C4314F45C80/ble-pd-84FD27EEE588",
+    "message": "{\"azimuth\":42.02391052246094,\"elevation\":45.163536071777344,\"azimuth_stdev\":0.25470107793807983,\"elevation_stdev\":0.2076912522315979,\"distance\":6.77468204498291,\"distance_stdev\":0,\"sequence\":61430}",
+    "timestamp": "2024-07-15T16:41:15.948218"
+},
+{
+    "topic": "silabs/aoa/angle/ble-pd-0C4314F45C80/ble-pd-84FD27EEE588",
+    "message": "{\"azimuth\":41.65069580078125,\"elevation\":45.35049057006836,\"azimuth_stdev\":0.36820611357688904,\"elevation_stdev\":0.2767351269721985,\"distance\":10.246929168701172,\"distance_stdev\":0,\"sequence\":61431}",
+    "timestamp": "2024-07-15T16:41:15.971219"
+},
+{
+    "topic": "silabs/aoa/angle/ble-pd-0C4314F45C80/ble-pd-84FD27EEE588",
+    "message": "{\"azimuth\":41.43705749511719,\"elevation\":45.49605178833008,\"azimuth_stdev\":0.5021928548812866,\"elevation_stdev\":0.36836758255958557,\"distance\":7.274606704711914,\"distance_stdev\":0,\"sequence\":61433}",
+    "timestamp": "2024-07-15T16:41:16.016220"
+},
+{
+    "topic": "silabs/aoa/angle/ble-pd-0C4314F45C80/ble-pd-84FD27EEE588",
+    "message": "{\"azimuth\":41.18757629394531,\"elevation\":45.803531646728516,\"azimuth_stdev\":0.6377446055412292,\"elevation_stdev\":0.5068379044532776,\"distance\":4.330219268798828,\"distance_stdev\":0,\"sequence\":61434}",
+    "timestamp": "2024-07-15T16:41:16.048385"
+},
+{
+    "topic": "silabs/aoa/angle/ble-pd-0C4314F45C80/ble-pd-84FD27EEE588",
+    "message": "{\"azimuth\":41.02391052246094,\"elevation\":46.07512664794922,\"azimuth_stdev\":0.7432958483695984,\"elevation_stdev\":0.6535834670066833,\"distance\":5.047149658203125,\"distance_stdev\":0,\"sequence\":61435}",
+    "timestamp": "2024-07-15T16:41:16.070389"
+},
+{
+    "topic": "silabs/aoa/angle/ble-pd-0C4314F45C80/ble-pd-84FD27EEE588",
+    "message": "{\"azimuth\":40.77793884277344,\"elevation\":46.35919952392578,\"azimuth_stdev\":0.8268490433692932,\"elevation_stdev\":0.7936819791793823,\"distance\":11.682686805725098,\"distance_stdev\":0,\"sequence\":61436}",
+    "timestamp": "2024-07-15T16:41:16.090388"
+},
+{
+    "topic": "silabs/aoa/angle/ble-pd-0C4314F45C80/ble-pd-84FD27EEE588",
+    "message": "{\"azimuth\":40.60572814941406,\"elevation\":46.48230743408203,\"azimuth_stdev\":0.8752350211143494,\"elevation_stdev\":0.8775126338005066,\"distance\":12.459444999694824,\"distance_stdev\":0,\"sequence\":61437}",
+    "timestamp": "2024-07-15T16:41:16.126388"
+},
+{
+    "topic": "silabs/aoa/angle/ble-pd-0C4314F45C80/ble-pd-84FD27EEE588",
+    "message": "{\"azimuth\":40.47770690917969,\"elevation\":46.618690490722656,\"azimuth_stdev\":0.8438621759414673,\"elevation_stdev\":0.8819842338562012,\"distance\":5.44061279296875,\"distance_stdev\":0,\"sequence\":61438}",
+    "timestamp": "2024-07-15T16:41:16.143388"
+},
+{
+    "topic": "silabs/aoa/angle/ble-pd-0C4314F45C80/ble-pd-84FD27EEE588",
+    "message": "{\"azimuth\":40.113128662109375,\"elevation\":46.66064453125,\"azimuth_stdev\":0.8718977570533752,\"elevation_stdev\":0.8587073087692261,\"distance\":5.047149658203125,\"distance_stdev\":0,\"sequence\":61439}",
+    "timestamp": "2024-07-15T16:41:16.166388"
+},
+{
+    "topic": "silabs/aoa/angle/ble-pd-0C4314F45C80/ble-pd-84FD27EEE588",
+    "message": "{\"azimuth\":39.69781494140625,\"elevation\":46.624656677246094,\"azimuth_stdev\":0.9206863641738892,\"elevation_stdev\":0.7967011332511902,\"distance\":5.047149658203125,\"distance_stdev\":0,\"sequence\":61440}",
+    "timestamp": "2024-07-15T16:41:16.193389"
+},
+{
+    "topic": "silabs/aoa/angle/ble-pd-0C4314F45C80/ble-pd-84FD27EEE588",
+    "message": "{\"azimuth\":39.266937255859375,\"elevation\":46.749881744384766,\"azimuth_stdev\":0.9838271737098694,\"elevation_stdev\":0.712575376033783,\"distance\":7.8042521476745605,\"distance_stdev\":0,\"sequence\":61441}",
+    "timestamp": "2024-07-15T16:41:16.222388"
+},
+{
+    "topic": "silabs/aoa/angle/ble-pd-0C4314F45C80/ble-pd-84FD27EEE588",
+    "message": "{\"azimuth\":38.945281982421875,\"elevation\":46.82168960571289,\"azimuth_stdev\":1.0768405199050903,\"elevation_stdev\":0.6124855279922485,\"distance\":5.047149658203125,\"distance_stdev\":0,\"sequence\":61442}",
+    "timestamp": "2024-07-15T16:41:16.255389"
+},
+{
+    "topic": "silabs/aoa/angle/ble-pd-0C4314F45C80/ble-pd-84FD27EEE588",
+    "message": "{\"azimuth\":38.67424011230469,\"elevation\":46.8482666015625,\"azimuth_stdev\":1.150142788887024,\"elevation_stdev\":0.47030046582221985,\"distance\":7.274606704711914,\"distance_stdev\":0,\"sequence\":61443}",
+    "timestamp": "2024-07-15T16:41:16.277388"
+},
+{
+    "topic": "silabs/aoa/angle/ble-pd-0C4314F45C80/ble-pd-84FD27EEE588",
+    "message": "{\"azimuth\":38.983184814453125,\"elevation\":46.748531341552734,\"azimuth_stdev\":1.1072052717208862,\"elevation_stdev\":0.3303365409374237,\"distance\":10.246929168701172,\"distance_stdev\":0,\"sequence\":61444}",
+    "timestamp": "2024-07-15T16:41:16.300388"
+},
+{
+    "topic": "silabs/aoa/angle/ble-pd-0C4314F45C80/ble-pd-84FD27EEE588",
+    "message": "{\"azimuth\":39.31336975097656,\"elevation\":46.661739349365234,\"azimuth_stdev\":0.9864162802696228,\"elevation_stdev\":0.208694189786911,\"distance\":5.047149658203125,\"distance_stdev\":0,\"sequence\":61445}",
+    "timestamp": "2024-07-15T16:41:16.334388"
+},
+{
+    "topic": "silabs/aoa/angle/ble-pd-0C4314F45C80/ble-pd-84FD27EEE588",
+    "message": "{\"azimuth\":39.466278076171875,\"elevation\":46.64865493774414,\"azimuth_stdev\":0.8533098101615906,\"elevation_stdev\":0.15039287507534027,\"distance\":13.277584075927734,\"distance_stdev\":0,\"sequence\":61446}",
+    "timestamp": "2024-07-15T16:41:16.357389"
+},
+{
+    "topic": "silabs/aoa/angle/ble-pd-0C4314F45C80/ble-pd-84FD27EEE588",
+    "message": "{\"azimuth\":39.81758117675781,\"elevation\":46.52253341674805,\"azimuth_stdev\":0.7234189510345459,\"elevation_stdev\":0.1392740160226822,\"distance\":5.047149658203125,\"distance_stdev\":0,\"sequence\":61447}",
+    "timestamp": "2024-07-15T16:41:16.367389"
+},
+{
+    "topic": "silabs/aoa/angle/ble-pd-0C4314F45C80/ble-pd-84FD27EEE588",
+    "message": "{\"azimuth\":39.956787109375,\"elevation\":46.48623275756836,\"azimuth_stdev\":0.6120851039886475,\"elevation_stdev\":0.16397596895694733,\"distance\":5.44061279296875,\"distance_stdev\":0,\"sequence\":61448}",
+    "timestamp": "2024-07-15T16:41:16.387389"
+},
+{
+    "topic": "silabs/aoa/angle/ble-pd-0C4314F45C80/ble-pd-84FD27EEE588",
+    "message": "{\"azimuth\":40.3189697265625,\"elevation\":46.545780181884766,\"azimuth_stdev\":0.6591015458106995,\"elevation_stdev\":0.1739678829908371,\"distance\":8.36492919921875,\"distance_stdev\":0,\"sequence\":61449}",
+    "timestamp": "2024-07-15T16:41:16.408388"
+},
+{
+    "topic": "silabs/aoa/angle/ble-pd-0C4314F45C80/ble-pd-84FD27EEE588",
+    "message": "{\"azimuth\":40.59278869628906,\"elevation\":46.433876037597656,\"azimuth_stdev\":0.8076753616333008,\"elevation_stdev\":0.20171388983726501,\"distance\":6.77468204498291,\"distance_stdev\":0,\"sequence\":61451}",
+    "timestamp": "2024-07-15T16:41:16.462391"
+},
+{
+    "topic": "silabs/aoa/angle/ble-pd-0C4314F45C80/ble-pd-84FD27EEE588",
+    "message": "{\"azimuth\":40.77592468261719,\"elevation\":46.390113830566406,\"azimuth_stdev\":0.9406553506851196,\"elevation_stdev\":0.2231132537126541,\"distance\":6.77468204498291,\"distance_stdev\":0,\"sequence\":61452}",
+    "timestamp": "2024-07-15T16:41:16.489388"
+},
+{
+    "topic": "silabs/aoa/angle/ble-pd-0C4314F45C80/ble-pd-84FD27EEE588",
+    "message": "{\"azimuth\":40.99723815917969,\"elevation\":46.441429138183594,\"azimuth_stdev\":1.0130246877670288,\"elevation_stdev\":0.20799776911735535,\"distance\":5.8589067459106445,\"distance_stdev\":0,\"sequence\":61453}",
+    "timestamp": "2024-07-15T16:41:16.523389"
+},
+{
+    "topic": "silabs/aoa/angle/ble-pd-0C4314F45C80/ble-pd-84FD27EEE588",
+    "message": "{\"azimuth\":41.34391784667969,\"elevation\":46.50046157836914,\"azimuth_stdev\":1.0058047771453857,\"elevation_stdev\":0.15953092277050018,\"distance\":7.274606704711914,\"distance_stdev\":0,\"sequence\":61454}",
+    "timestamp": "2024-07-15T16:41:16.557389"
+},
+{
+    "topic": "silabs/aoa/angle/ble-pd-0C4314F45C80/ble-pd-84FD27EEE588",
+    "message": "{\"azimuth\":41.13371276855469,\"elevation\":46.512115478515625,\"azimuth_stdev\":0.9206863641738892,\"elevation_stdev\":0.12186221778392792,\"distance\":14.138740539550781,\"distance_stdev\":0,\"sequence\":61455}",
+    "timestamp": "2024-07-15T16:41:16.579388"
+},
+{
+    "topic": "silabs/aoa/angle/ble-pd-0C4314F45C80/ble-pd-84FD27EEE588",
+    "message": "{\"azimuth\":40.87605285644531,\"elevation\":46.45542907714844,\"azimuth_stdev\":0.800423800945282,\"elevation_stdev\":0.10001695156097412,\"distance\":10.246929168701172,\"distance_stdev\":0,\"sequence\":61456}",
+    "timestamp": "2024-07-15T16:41:16.602393"
+},
+{
+    "topic": "silabs/aoa/angle/ble-pd-0C4314F45C80/ble-pd-84FD27EEE588",
+    "message": "{\"azimuth\":40.718536376953125,\"elevation\":46.53957748413086,\"azimuth_stdev\":0.6394566297531128,\"elevation_stdev\":0.07094495743513107,\"distance\":5.047149658203125,\"distance_stdev\":0,\"sequence\":61457}",
+    "timestamp": "2024-07-15T16:41:16.624388"
+},
+{
+    "topic": "silabs/aoa/angle/ble-pd-0C4314F45C80/ble-pd-84FD27EEE588",
+    "message": "{\"azimuth\":40.50689697265625,\"elevation\":46.60374069213867,\"azimuth_stdev\":0.5228145718574524,\"elevation_stdev\":0.08774837106466293,\"distance\":5.047149658203125,\"distance_stdev\":0,\"sequence\":61458}",
+    "timestamp": "2024-07-15T16:41:16.646388"
+},
+{
+    "topic": "silabs/aoa/angle/ble-pd-0C4314F45C80/ble-pd-84FD27EEE588",
+    "message": "{\"azimuth\":40.4259033203125,\"elevation\":46.7000846862793,\"azimuth_stdev\":0.42085927724838257,\"elevation_stdev\":0.12699148058891296,\"distance\":7.274606704711914,\"distance_stdev\":0,\"sequence\":61459}",
+    "timestamp": "2024-07-15T16:41:16.680388"
+},
+{
+    "topic": "silabs/aoa/angle/ble-pd-0C4314F45C80/ble-pd-84FD27EEE588",
+    "message": "{\"azimuth\":40.598724365234375,\"elevation\":46.4670524597168,\"azimuth_stdev\":0.37797442078590393,\"elevation_stdev\":0.12724569439888,\"distance\":10.246929168701172,\"distance_stdev\":0,\"sequence\":61460}",
+    "timestamp": "2024-07-15T16:41:16.704390"
+},
+{
+    "topic": "silabs/aoa/angle/ble-pd-0C4314F45C80/ble-pd-84FD27EEE588",
+    "message": "{\"azimuth\":40.925323486328125,\"elevation\":46.282562255859375,\"azimuth_stdev\":0.3701803684234619,\"elevation_stdev\":0.15879152715206146,\"distance\":4.677382469177246,\"distance_stdev\":0,\"sequence\":61461}",
+    "timestamp": "2024-07-15T16:41:16.737390"
+},
+{
+    "topic": "silabs/aoa/angle/ble-pd-0C4314F45C80/ble-pd-84FD27EEE588",
+    "message": "{\"azimuth\":41.10577392578125,\"elevation\":46.095699310302734,\"azimuth_stdev\":0.3856109380722046,\"elevation_stdev\":0.23357033729553223,\"distance\":5.047149658203125,\"distance_stdev\":0,\"sequence\":61462}",
+    "timestamp": "2024-07-15T16:41:16.760389"
+},
+{
+    "topic": "silabs/aoa/angle/ble-pd-0C4314F45C80/ble-pd-84FD27EEE588",
+    "message": "{\"azimuth\":41.30799865722656,\"elevation\":45.809322357177734,\"azimuth_stdev\":0.4243089258670807,\"elevation_stdev\":0.3700181841850281,\"distance\":5.44061279296875,\"distance_stdev\":0,\"sequence\":61463}",
+    "timestamp": "2024-07-15T16:41:16.782388"
+},
+{
+    "topic": "silabs/aoa/angle/ble-pd-0C4314F45C80/ble-pd-84FD27EEE588",
+    "message": "{\"azimuth\":41.59417724609375,\"elevation\":45.69221878051758,\"azimuth_stdev\":0.48068705201148987,\"elevation_stdev\":0.47673311829566956,\"distance\":5.44061279296875,\"distance_stdev\":0,\"sequence\":61464}",
+    "timestamp": "2024-07-15T16:41:16.805388"
+},
+{
+    "topic": "silabs/aoa/angle/ble-pd-0C4314F45C80/ble-pd-84FD27EEE588",
+    "message": "{\"azimuth\":41.411468505859375,\"elevation\":45.77300262451172,\"azimuth_stdev\":0.5172079205513,\"elevation_stdev\":0.5201985239982605,\"distance\":4.677382469177246,\"distance_stdev\":0,\"sequence\":61465}",
+    "timestamp": "2024-07-15T16:41:16.839388"
+},
+{
+    "topic": "silabs/aoa/angle/ble-pd-0C4314F45C80/ble-pd-84FD27EEE588",
+    "message": "{\"azimuth\":41.22160339355469,\"elevation\":45.85734939575195,\"azimuth_stdev\":0.5269804000854492,\"elevation_stdev\":0.5337669849395752,\"distance\":6.30319356918335,\"distance_stdev\":0,\"sequence\":61467}",
+    "timestamp": "2024-07-15T16:41:16.884390"
+},
+{
+    "topic": "silabs/aoa/angle/ble-pd-0C4314F45C80/ble-pd-84FD27EEE588",
+    "message": "{\"azimuth\":40.94624328613281,\"elevation\":46.048561096191406,\"azimuth_stdev\":0.5143817663192749,\"elevation_stdev\":0.506022036075592,\"distance\":8.36492919921875,\"distance_stdev\":0,\"sequence\":61468}",
+    "timestamp": "2024-07-15T16:41:16.907389"
+},
+{
+    "topic": "silabs/aoa/angle/ble-pd-0C4314F45C80/ble-pd-84FD27EEE588",
+    "message": "{\"azimuth\":40.8360595703125,\"elevation\":46.31586456298828,\"azimuth_stdev\":0.47072774171829224,\"elevation_stdev\":0.4623785614967346,\"distance\":7.274606704711914,\"distance_stdev\":0,\"sequence\":61469}",
+    "timestamp": "2024-07-15T16:41:16.929389"
+},
+{
+    "topic": "silabs/aoa/angle/ble-pd-0C4314F45C80/ble-pd-84FD27EEE588",
+    "message": "{\"azimuth\":40.73060607910156,\"elevation\":46.432926177978516,\"azimuth_stdev\":0.4103362560272217,\"elevation_stdev\":0.3988942801952362,\"distance\":4.330219268798828,\"distance_stdev\":0,\"sequence\":61470}",
+    "timestamp": "2024-07-15T16:41:16.952390"
+},
+{
+    "topic": "silabs/aoa/angle/ble-pd-0C4314F45C80/ble-pd-84FD27EEE588",
+    "message": "{\"azimuth\":40.40643310546875,\"elevation\":46.59562301635742,\"azimuth_stdev\":0.45578041672706604,\"elevation_stdev\":0.42879849672317505,\"distance\":10.945698738098145,\"distance_stdev\":0,\"sequence\":61471}",
+    "timestamp": "2024-07-15T16:41:16.962388"
+},
+{
+    "topic": "silabs/aoa/angle/ble-pd-0C4314F45C80/ble-pd-84FD27EEE588",
+    "message": "{\"azimuth\":40.11213684082031,\"elevation\":46.787845611572266,\"azimuth_stdev\":0.596403956413269,\"elevation_stdev\":0.524492621421814,\"distance\":6.30319356918335,\"distance_stdev\":0,\"sequence\":61472}",
+    "timestamp": "2024-07-15T16:41:16.986389"
+},
+{
+    "topic": "silabs/aoa/angle/ble-pd-0C4314F45C80/ble-pd-84FD27EEE588",
+    "message": "{\"azimuth\":39.861785888671875,\"elevation\":46.950584411621094,\"azimuth_stdev\":0.7423146367073059,\"elevation_stdev\":0.6324426531791687,\"distance\":12.459444999694824,\"distance_stdev\":0,\"sequence\":61474}",
+    "timestamp": "2024-07-15T16:41:17.039388"
+},
+{
+    "topic": "silabs/aoa/angle/ble-pd-0C4314F45C80/ble-pd-84FD27EEE588",
+    "message": "{\"azimuth\":39.49885559082031,\"elevation\":47.034034729003906,\"azimuth_stdev\":0.886405348777771,\"elevation_stdev\":0.6860400438308716,\"distance\":13.277584075927734,\"distance_stdev\":0,\"sequence\":61475}",
+    "timestamp": "2024-07-15T16:41:17.076593"
+},
+{
+    "topic": "silabs/aoa/angle/ble-pd-0C4314F45C80/ble-pd-84FD27EEE588",
+    "message": "{\"azimuth\":39.16363525390625,\"elevation\":47.32121276855469,\"azimuth_stdev\":0.9655073881149292,\"elevation_stdev\":0.7240458130836487,\"distance\":5.8589067459106445,\"distance_stdev\":0,\"sequence\":61476}",
+    "timestamp": "2024-07-15T16:41:17.098593"
+},
+{
+    "topic": "silabs/aoa/angle/ble-pd-0C4314F45C80/ble-pd-84FD27EEE588",
+    "message": "{\"azimuth\":39.581939697265625,\"elevation\":47.248443603515625,\"azimuth_stdev\":0.9039100408554077,\"elevation_stdev\":0.6905010938644409,\"distance\":8.36492919921875,\"distance_stdev\":0,\"sequence\":61477}",
+    "timestamp": "2024-07-15T16:41:17.122593"
+},
+{
+    "topic": "silabs/aoa/angle/ble-pd-0C4314F45C80/ble-pd-84FD27EEE588",
+    "message": "{\"azimuth\":39.86723327636719,\"elevation\":47.15956115722656,\"azimuth_stdev\":0.7917262315750122,\"elevation_stdev\":0.5965152382850647,\"distance\":6.30319356918335,\"distance_stdev\":0,\"sequence\":61478}",
+    "timestamp": "2024-07-15T16:41:17.157593"
+},
+{
+    "topic": "silabs/aoa/angle/ble-pd-0C4314F45C80/ble-pd-84FD27EEE588",
+    "message": "{\"azimuth\":40.10395812988281,\"elevation\":46.91148376464844,\"azimuth_stdev\":0.6930604577064514,\"elevation_stdev\":0.4742638170719147,\"distance\":11.682686805725098,\"distance_stdev\":0,\"sequence\":61479}",
+    "timestamp": "2024-07-15T16:41:17.179592"
+},
+{
+    "topic": "silabs/aoa/angle/ble-pd-0C4314F45C80/ble-pd-84FD27EEE588",
+    "message": "{\"azimuth\":40.49925231933594,\"elevation\":46.717594146728516,\"azimuth_stdev\":0.6302721500396729,\"elevation_stdev\":0.3992488384246826,\"distance\":11.682686805725098,\"distance_stdev\":0,\"sequence\":61480}",
+    "timestamp": "2024-07-15T16:41:17.190592"
+},
+{
+    "topic": "silabs/aoa/angle/ble-pd-0C4314F45C80/ble-pd-84FD27EEE588",
+    "message": "{\"azimuth\":40.78828430175781,\"elevation\":46.58892822265625,\"azimuth_stdev\":0.6428669691085815,\"elevation_stdev\":0.36289504170417786,\"distance\":4.677382469177246,\"distance_stdev\":0,\"sequence\":61481}",
+    "timestamp": "2024-07-15T16:41:17.215592"
+},
+{
+    "topic": "silabs/aoa/angle/ble-pd-0C4314F45C80/ble-pd-84FD27EEE588",
+    "message": "{\"azimuth\":40.93098449707031,\"elevation\":46.44102096557617,\"azimuth_stdev\":0.7354095578193665,\"elevation_stdev\":0.39832621812820435,\"distance\":10.246929168701172,\"distance_stdev\":0,\"sequence\":61482}",
+    "timestamp": "2024-07-15T16:41:17.250592"
+},
+{
+    "topic": "silabs/aoa/angle/ble-pd-0C4314F45C80/ble-pd-84FD27EEE588",
+    "message": "{\"azimuth\":41.097442626953125,\"elevation\":46.52555847167969,\"azimuth_stdev\":0.8545899987220764,\"elevation_stdev\":0.43180179595947266,\"distance\":4.330219268798828,\"distance_stdev\":0,\"sequence\":61483}",
+    "timestamp": "2024-07-15T16:41:17.262593"
+},
+{
+    "topic": "silabs/aoa/angle/ble-pd-0C4314F45C80/ble-pd-84FD27EEE588",
+    "message": "{\"azimuth\":41.27653503417969,\"elevation\":46.4709358215332,\"azimuth_stdev\":0.9579294323921204,\"elevation_stdev\":0.46739694476127625,\"distance\":24.118724822998047,\"distance_stdev\":0,\"sequence\":61484}",
+    "timestamp": "2024-07-15T16:41:17.296054"
+},
+{
+    "topic": "silabs/aoa/angle/ble-pd-0C4314F45C80/ble-pd-84FD27EEE588",
+    "message": "{\"azimuth\":41.49610900878906,\"elevation\":46.60341262817383,\"azimuth_stdev\":1.0025389194488525,\"elevation_stdev\":0.4677184522151947,\"distance\":8.36492919921875,\"distance_stdev\":0,\"sequence\":61485}",
+    "timestamp": "2024-07-15T16:41:17.330055"
+},
+{
+    "topic": "silabs/aoa/angle/ble-pd-0C4314F45C80/ble-pd-84FD27EEE588",
+    "message": "{\"azimuth\":41.52716064453125,\"elevation\":46.472923278808594,\"azimuth_stdev\":0.8847593665122986,\"elevation_stdev\":0.4091714024543762,\"distance\":6.77468204498291,\"distance_stdev\":0,\"sequence\":61487}",
+    "timestamp": "2024-07-15T16:41:17.371055"
+},
+{
+    "topic": "silabs/aoa/angle/ble-pd-0C4314F45C80/ble-pd-84FD27EEE588",
+    "message": "{\"azimuth\":41.606475830078125,\"elevation\":46.60841369628906,\"azimuth_stdev\":0.7843270301818848,\"elevation_stdev\":0.3155290484428406,\"distance\":6.77468204498291,\"distance_stdev\":0,\"sequence\":61488}",
+    "timestamp": "2024-07-15T16:41:17.394053"
+},
+{
+    "topic": "silabs/aoa/angle/ble-pd-0C4314F45C80/ble-pd-84FD27EEE588",
+    "message": "{\"azimuth\":41.63813781738281,\"elevation\":46.71171569824219,\"azimuth_stdev\":0.6678895950317383,\"elevation_stdev\":0.20050792396068573,\"distance\":12.459444999694824,\"distance_stdev\":0,\"sequence\":61489}",
+    "timestamp": "2024-07-15T16:41:17.428054"
+},
+{
+    "topic": "silabs/aoa/angle/ble-pd-0C4314F45C80/ble-pd-84FD27EEE588",
+    "message": "{\"azimuth\":41.701019287109375,\"elevation\":46.73122024536133,\"azimuth_stdev\":0.5324841141700745,\"elevation_stdev\":0.15079855918884277,\"distance\":5.44061279296875,\"distance_stdev\":0,\"sequence\":61490}",
+    "timestamp": "2024-07-15T16:41:17.450053"
+},
+{
+    "topic": "silabs/aoa/angle/ble-pd-0C4314F45C80/ble-pd-84FD27EEE588",
+    "message": "{\"azimuth\":41.869964599609375,\"elevation\":46.841304779052734,\"azimuth_stdev\":0.46055305004119873,\"elevation_stdev\":0.18067936599254608,\"distance\":10.945698738098145,\"distance_stdev\":0,\"sequence\":61491}",
+    "timestamp": "2024-07-15T16:41:17.473053"
+},
+{
+    "topic": "silabs/aoa/angle/ble-pd-0C4314F45C80/ble-pd-84FD27EEE588",
+    "message": "{\"azimuth\":41.89201354980469,\"elevation\":46.89360427856445,\"azimuth_stdev\":0.4085560739040375,\"elevation_stdev\":0.22186879813671112,\"distance\":6.77468204498291,\"distance_stdev\":0,\"sequence\":61493}",
+    "timestamp": "2024-07-15T16:41:17.522053"
+},
+{
+    "topic": "silabs/aoa/angle/ble-pd-0C4314F45C80/ble-pd-84FD27EEE588",
+    "message": "{\"azimuth\":41.667877197265625,\"elevation\":46.812740325927734,\"azimuth_stdev\":0.31715723872184753,\"elevation_stdev\":0.21389877796173096,\"distance\":15.99692153930664,\"distance_stdev\":0,\"sequence\":61494}",
+    "timestamp": "2024-07-15T16:41:17.544053"
+},
+{
+    "topic": "silabs/aoa/angle/ble-pd-0C4314F45C80/ble-pd-84FD27EEE588",
+    "message": "{\"azimuth\":41.30516052246094,\"elevation\":46.845130920410156,\"azimuth_stdev\":0.26590195298194885,\"elevation_stdev\":0.21459929645061493,\"distance\":4.677382469177246,\"distance_stdev\":0,\"sequence\":61495}",
+    "timestamp": "2024-07-15T16:41:17.567054"
+},
+{
+    "topic": "silabs/aoa/angle/ble-pd-0C4314F45C80/ble-pd-84FD27EEE588",
+    "message": "{\"azimuth\":41.010711669921875,\"elevation\":46.742679595947266,\"azimuth_stdev\":0.33936214447021484,\"elevation_stdev\":0.18349170684814453,\"distance\":24.118724822998047,\"distance_stdev\":0,\"sequence\":61496}",
+    "timestamp": "2024-07-15T16:41:17.595053"
+},
+{
+    "topic": "silabs/aoa/angle/ble-pd-0C4314F45C80/ble-pd-84FD27EEE588",
+    "message": "{\"azimuth\":40.716827392578125,\"elevation\":46.68662643432617,\"azimuth_stdev\":0.48820987343788147,\"elevation_stdev\":0.1749563366174698,\"distance\":6.30319356918335,\"distance_stdev\":0,\"sequence\":61497}",
+    "timestamp": "2024-07-15T16:41:17.641054"
+},
+{
+    "topic": "silabs/aoa/angle/ble-pd-0C4314F45C80/ble-pd-84FD27EEE588",
+    "message": "{\"azimuth\":40.213134765625,\"elevation\":46.69004440307617,\"azimuth_stdev\":0.7158227562904358,\"elevation_stdev\":0.12364858388900757,\"distance\":4.330219268798828,\"distance_stdev\":0,\"sequence\":61498}",
+    "timestamp": "2024-07-15T16:41:17.663053"
+},
+{
+    "topic": "silabs/aoa/angle/ble-pd-0C4314F45C80/ble-pd-84FD27EEE588",
+    "message": "{\"azimuth\":40.33229064941406,\"elevation\":46.86338806152344,\"azimuth_stdev\":0.8175413012504578,\"elevation_stdev\":0.10792294889688492,\"distance\":8.36492919921875,\"distance_stdev\":0,\"sequence\":61499}",
+    "timestamp": "2024-07-15T16:41:17.686054"
+},
+{
+    "topic": "silabs/aoa/angle/ble-pd-0C4314F45C80/ble-pd-84FD27EEE588",
+    "message": "{\"azimuth\":40.4320068359375,\"elevation\":47.09952163696289,\"azimuth_stdev\":0.8545899987220764,\"elevation_stdev\":0.17048074305057526,\"distance\":7.274606704711914,\"distance_stdev\":0,\"sequence\":61500}",
+    "timestamp": "2024-07-15T16:41:17.708053"
+},
+{
+    "topic": "silabs/aoa/angle/ble-pd-0C4314F45C80/ble-pd-84FD27EEE588",
+    "message": "{\"azimuth\":40.545501708984375,\"elevation\":47.26736831665039,\"azimuth_stdev\":0.837359607219696,\"elevation_stdev\":0.2531677484512329,\"distance\":5.047149658203125,\"distance_stdev\":0,\"sequence\":61501}",
+    "timestamp": "2024-07-15T16:41:17.741053"
+},
+{
+    "topic": "silabs/aoa/angle/ble-pd-0C4314F45C80/ble-pd-84FD27EEE588",
+    "message": "{\"azimuth\":40.50341796875,\"elevation\":47.42329788208008,\"azimuth_stdev\":0.7549707889556885,\"elevation_stdev\":0.34846118092536926,\"distance\":4.330219268798828,\"distance_stdev\":0,\"sequence\":61502}",
+    "timestamp": "2024-07-15T16:41:17.763054"
+},
+{
+    "topic": "silabs/aoa/angle/ble-pd-0C4314F45C80/ble-pd-84FD27EEE588",
+    "message": "{\"azimuth\":40.535003662109375,\"elevation\":47.64776611328125,\"azimuth_stdev\":0.5994514226913452,\"elevation_stdev\":0.4679113030433655,\"distance\":12.459444999694824,\"distance_stdev\":0,\"sequence\":61503}",
+    "timestamp": "2024-07-15T16:41:17.774053"
+},
+{
+    "topic": "silabs/aoa/angle/ble-pd-0C4314F45C80/ble-pd-84FD27EEE588",
+    "message": "{\"azimuth\":40.57746887207031,\"elevation\":47.82810592651367,\"azimuth_stdev\":0.4191237688064575,\"elevation_stdev\":0.5773286819458008,\"distance\":4.677382469177246,\"distance_stdev\":0,\"sequence\":61504}",
+    "timestamp": "2024-07-15T16:41:17.819055"
+},
+{
+    "topic": "silabs/aoa/angle/ble-pd-0C4314F45C80/ble-pd-84FD27EEE588",
+    "message": "{\"azimuth\":40.761932373046875,\"elevation\":48.11265563964844,\"azimuth_stdev\":0.29203060269355774,\"elevation_stdev\":0.7072840332984924,\"distance\":13.277584075927734,\"distance_stdev\":0,\"sequence\":61505}",
+    "timestamp": "2024-07-15T16:41:17.842053"
+},
+{
+    "topic": "silabs/aoa/angle/ble-pd-0C4314F45C80/ble-pd-84FD27EEE588",
+    "message": "{\"azimuth\":40.77154541015625,\"elevation\":48.31950378417969,\"azimuth_stdev\":0.2338118851184845,\"elevation_stdev\":0.8042759299278259,\"distance\":5.047149658203125,\"distance_stdev\":0,\"sequence\":61506}",
+    "timestamp": "2024-07-15T16:41:17.864053"
+},
+{
+    "topic": "silabs/aoa/angle/ble-pd-0C4314F45C80/ble-pd-84FD27EEE588",
+    "message": "{\"azimuth\":40.89866638183594,\"elevation\":48.33845520019531,\"azimuth_stdev\":0.27132904529571533,\"elevation_stdev\":0.8200797438621521,\"distance\":6.77468204498291,\"distance_stdev\":0,\"sequence\":61507}",
+    "timestamp": "2024-07-15T16:41:17.888054"
+},
+{
+    "topic": "silabs/aoa/angle/ble-pd-0C4314F45C80/ble-pd-84FD27EEE588",
+    "message": "{\"azimuth\":40.85597229003906,\"elevation\":48.49970626831055,\"azimuth_stdev\":0.2444796860218048,\"elevation_stdev\":0.793728768825531,\"distance\":6.30319356918335,\"distance_stdev\":0,\"sequence\":61508}",
+    "timestamp": "2024-07-15T16:41:17.909053"
+},
+{
+    "topic": "silabs/aoa/angle/ble-pd-0C4314F45C80/ble-pd-84FD27EEE588",
+    "message": "{\"azimuth\":40.28703308105469,\"elevation\":48.49359130859375,\"azimuth_stdev\":0.25754696130752563,\"elevation_stdev\":0.7278115749359131,\"distance\":5.047149658203125,\"distance_stdev\":0,\"sequence\":61509}",
+    "timestamp": "2024-07-15T16:41:17.932053"
+},
+{
+    "topic": "silabs/aoa/angle/ble-pd-0C4314F45C80/ble-pd-84FD27EEE588",
+    "message": "{\"azimuth\":39.61375427246094,\"elevation\":48.598323822021484,\"azimuth_stdev\":0.482956200838089,\"elevation_stdev\":0.6682177186012268,\"distance\":7.8042521476745605,\"distance_stdev\":0,\"sequence\":61510}",
+    "timestamp": "2024-07-15T16:41:17.954053"
+},
+{
+    "topic": "silabs/aoa/angle/ble-pd-0C4314F45C80/ble-pd-84FD27EEE588",
+    "message": "{\"azimuth\":39.0179443359375,\"elevation\":48.616455078125,\"azimuth_stdev\":0.7866467833518982,\"elevation_stdev\":0.5856227278709412,\"distance\":15.99692153930664,\"distance_stdev\":0,\"sequence\":61511}",
+    "timestamp": "2024-07-15T16:41:17.977054"
+},
+{
+    "topic": "silabs/aoa/angle/ble-pd-0C4314F45C80/ble-pd-84FD27EEE588",
+    "message": "{\"azimuth\":38.345458984375,\"elevation\":48.583560943603516,\"azimuth_stdev\":1.140918254852295,\"elevation_stdev\":0.47113102674484253,\"distance\":10.246929168701172,\"distance_stdev\":0,\"sequence\":61512}",
+    "timestamp": "2024-07-15T16:41:17.999053"
+},
+{
+    "topic": "silabs/aoa/angle/ble-pd-0C4314F45C80/ble-pd-84FD27EEE588",
+    "message": "{\"azimuth\":37.74659729003906,\"elevation\":48.779815673828125,\"azimuth_stdev\":1.4908961057662964,\"elevation_stdev\":0.38800838589668274,\"distance\":10.945698738098145,\"distance_stdev\":0,\"sequence\":61514}",
+    "timestamp": "2024-07-15T16:41:18.046053"
+},
+{
+    "topic": "silabs/aoa/angle/ble-pd-0C4314F45C80/ble-pd-84FD27EEE588",
+    "message": "{\"azimuth\":37.562591552734375,\"elevation\":48.63670349121094,\"azimuth_stdev\":1.7236716747283936,\"elevation_stdev\":0.26881206035614014,\"distance\":5.047149658203125,\"distance_stdev\":0,\"sequence\":61515}",
+    "timestamp": "2024-07-15T16:41:18.065053"
+},
+{
+    "topic": "silabs/aoa/angle/ble-pd-0C4314F45C80/ble-pd-84FD27EEE588",
+    "message": "{\"azimuth\":37.37162780761719,\"elevation\":48.40467834472656,\"azimuth_stdev\":1.847698450088501,\"elevation_stdev\":0.2009252905845642,\"distance\":11.682686805725098,\"distance_stdev\":0,\"sequence\":61516}",
+    "timestamp": "2024-07-15T16:41:18.088053"
+},
+{
+    "topic": "silabs/aoa/angle/ble-pd-0C4314F45C80/ble-pd-84FD27EEE588",
+    "message": "{\"azimuth\":37.24549865722656,\"elevation\":48.2503547668457,\"azimuth_stdev\":1.869452714920044,\"elevation_stdev\":0.21788133680820465,\"distance\":5.8589067459106445,\"distance_stdev\":0,\"sequence\":61517}",
+    "timestamp": "2024-07-15T16:41:18.114054"
+},
+{
+    "topic": "silabs/aoa/angle/ble-pd-0C4314F45C80/ble-pd-84FD27EEE588",
+    "message": "{\"azimuth\":37.10221862792969,\"elevation\":48.062320709228516,\"azimuth_stdev\":1.7540476322174072,\"elevation_stdev\":0.28952184319496155,\"distance\":6.77468204498291,\"distance_stdev\":0,\"sequence\":61518}",
+    "timestamp": "2024-07-15T16:41:18.159053"
+},
+{
+    "topic": "silabs/aoa/angle/ble-pd-0C4314F45C80/ble-pd-84FD27EEE588",
+    "message": "{\"azimuth\":36.81158447265625,\"elevation\":47.8994026184082,\"azimuth_stdev\":1.5136919021606445,\"elevation_stdev\":0.3895440995693207,\"distance\":4.677382469177246,\"distance_stdev\":0,\"sequence\":61519}",
+    "timestamp": "2024-07-15T16:41:18.182055"
+},
+{
+    "topic": "silabs/aoa/angle/ble-pd-0C4314F45C80/ble-pd-84FD27EEE588",
+    "message": "{\"azimuth\":36.88908386230469,\"elevation\":48.19417190551758,\"azimuth_stdev\":1.2133510112762451,\"elevation_stdev\":0.40154045820236206,\"distance\":4.330219268798828,\"distance_stdev\":0,\"sequence\":61520}",
+    "timestamp": "2024-07-15T16:41:18.204054"
+},
+{
+    "topic": "silabs/aoa/angle/ble-pd-0C4314F45C80/ble-pd-84FD27EEE588",
+    "message": "{\"azimuth\":37.04945373535156,\"elevation\":48.34730529785156,\"azimuth_stdev\":0.9022960066795349,\"elevation_stdev\":0.39024850726127625,\"distance\":6.30319356918335,\"distance_stdev\":0,\"sequence\":61521}",
+    "timestamp": "2024-07-15T16:41:18.226053"
+},
+{
+    "topic": "silabs/aoa/angle/ble-pd-0C4314F45C80/ble-pd-84FD27EEE588",
+    "message": "{\"azimuth\":37.23133850097656,\"elevation\":48.418739318847656,\"azimuth_stdev\":0.5902618169784546,\"elevation_stdev\":0.37354183197021484,\"distance\":5.047149658203125,\"distance_stdev\":0,\"sequence\":61522}",
+    "timestamp": "2024-07-15T16:41:18.249053"
+},
+{
+    "topic": "silabs/aoa/angle/ble-pd-0C4314F45C80/ble-pd-84FD27EEE588",
+    "message": "{\"azimuth\":37.40655517578125,\"elevation\":48.6693115234375,\"azimuth_stdev\":0.37797442078590393,\"elevation_stdev\":0.3863803446292877,\"distance\":14.138740539550781,\"distance_stdev\":0,\"sequence\":61523}",
+    "timestamp": "2024-07-15T16:41:18.283053"
+},
+{
+    "topic": "silabs/aoa/angle/ble-pd-0C4314F45C80/ble-pd-84FD27EEE588",
+    "message": "{\"azimuth\":37.52423095703125,\"elevation\":48.688167572021484,\"azimuth_stdev\":0.3295551836490631,\"elevation_stdev\":0.3668922185897827,\"distance\":5.047149658203125,\"distance_stdev\":0,\"sequence\":61524}",
+    "timestamp": "2024-07-15T16:41:18.294053"
+},
+{
+    "topic": "silabs/aoa/angle/ble-pd-0C4314F45C80/ble-pd-84FD27EEE588",
+    "message": "{\"azimuth\":38.01896667480469,\"elevation\":48.639930725097656,\"azimuth_stdev\":0.44933804869651794,\"elevation_stdev\":0.3674236238002777,\"distance\":5.047149658203125,\"distance_stdev\":0,\"sequence\":61525}",
+    "timestamp": "2024-07-15T16:41:18.328054"
+},
+{
+    "topic": "silabs/aoa/angle/ble-pd-0C4314F45C80/ble-pd-84FD27EEE588",
+    "message": "{\"azimuth\":38.34739685058594,\"elevation\":48.58042526245117,\"azimuth_stdev\":0.6325807571411133,\"elevation_stdev\":0.3802001178264618,\"distance\":16.99745750427246,\"distance_stdev\":0,\"sequence\":61526}",
+    "timestamp": "2024-07-15T16:41:18.350053"
+},
+{
+    "topic": "silabs/aoa/angle/ble-pd-0C4314F45C80/ble-pd-84FD27EEE588",
+    "message": "{\"azimuth\":38.69328308105469,\"elevation\":48.42143630981445,\"azimuth_stdev\":0.8303673267364502,\"elevation_stdev\":0.37555715441703796,\"distance\":4.677382469177246,\"distance_stdev\":0,\"sequence\":61527}",
+    "timestamp": "2024-07-15T16:41:18.384054"
+},
+{
+    "topic": "silabs/aoa/angle/ble-pd-0C4314F45C80/ble-pd-84FD27EEE588",
+    "message": "{\"azimuth\":39.053558349609375,\"elevation\":48.378822326660156,\"azimuth_stdev\":1.0162568092346191,\"elevation_stdev\":0.33989402651786804,\"distance\":8.36492919921875,\"distance_stdev\":0,\"sequence\":61528}",
+    "timestamp": "2024-07-15T16:41:18.395055"
+},
+{
+    "topic": "silabs/aoa/angle/ble-pd-0C4314F45C80/ble-pd-84FD27EEE588",
+    "message": "{\"azimuth\":39.43865966796875,\"elevation\":48.30186462402344,\"azimuth_stdev\":1.1479228734970093,\"elevation_stdev\":0.23683391511440277,\"distance\":4.677382469177246,\"distance_stdev\":0,\"sequence\":61529}",
+    "timestamp": "2024-07-15T16:41:18.429322"
+},
+{
+    "topic": "silabs/aoa/angle/ble-pd-0C4314F45C80/ble-pd-84FD27EEE588",
+    "message": "{\"azimuth\":39.668243408203125,\"elevation\":48.08681106567383,\"azimuth_stdev\":1.2244116067886353,\"elevation_stdev\":0.2660571038722992,\"distance\":6.30319356918335,\"distance_stdev\":0,\"sequence\":61530}",
+    "timestamp": "2024-07-15T16:41:18.451322"
+},
+{
+    "topic": "silabs/aoa/angle/ble-pd-0C4314F45C80/ble-pd-84FD27EEE588",
+    "message": "{\"azimuth\":39.780792236328125,\"elevation\":48.01242446899414,\"azimuth_stdev\":1.238613247871399,\"elevation_stdev\":0.32827985286712646,\"distance\":7.274606704711914,\"distance_stdev\":0,\"sequence\":61531}",
+    "timestamp": "2024-07-15T16:41:18.486324"
+},
+{
+    "topic": "silabs/aoa/angle/ble-pd-0C4314F45C80/ble-pd-84FD27EEE588",
+    "message": "{\"azimuth\":39.921905517578125,\"elevation\":47.9968147277832,\"azimuth_stdev\":1.2079335451126099,\"elevation_stdev\":0.3773927688598633,\"distance\":11.682686805725098,\"distance_stdev\":0,\"sequence\":61532}",
+    "timestamp": "2024-07-15T16:41:18.519322"
+},
+{
+    "topic": "silabs/aoa/angle/ble-pd-0C4314F45C80/ble-pd-84FD27EEE588",
+    "message": "{\"azimuth\":40.129425048828125,\"elevation\":47.981903076171875,\"azimuth_stdev\":1.1415568590164185,\"elevation_stdev\":0.38423609733581543,\"distance\":10.945698738098145,\"distance_stdev\":0,\"sequence\":61534}",
+    "timestamp": "2024-07-15T16:41:18.565322"
+},
+{
+    "topic": "silabs/aoa/angle/ble-pd-0C4314F45C80/ble-pd-84FD27EEE588",
+    "message": "{\"azimuth\":40.362548828125,\"elevation\":47.87128829956055,\"azimuth_stdev\":1.0162568092346191,\"elevation_stdev\":0.3788418769836426,\"distance\":7.274606704711914,\"distance_stdev\":0,\"sequence\":61535}",
+    "timestamp": "2024-07-15T16:41:18.589322"
+},
+{
+    "topic": "silabs/aoa/angle/ble-pd-0C4314F45C80/ble-pd-84FD27EEE588",
+    "message": "{\"azimuth\":40.88636779785156,\"elevation\":47.711280822753906,\"azimuth_stdev\":0.9988974332809448,\"elevation_stdev\":0.3815394639968872,\"distance\":6.30319356918335,\"distance_stdev\":0,\"sequence\":61536}",
+    "timestamp": "2024-07-15T16:41:18.610324"
+},
+{
+    "topic": "silabs/aoa/angle/ble-pd-0C4314F45C80/ble-pd-84FD27EEE588",
+    "message": "{\"azimuth\":41.29571533203125,\"elevation\":47.55318069458008,\"azimuth_stdev\":1.024470567703247,\"elevation_stdev\":0.39077678322792053,\"distance\":5.047149658203125,\"distance_stdev\":0,\"sequence\":61537}",
+    "timestamp": "2024-07-15T16:41:18.621322"
+},
+{
+    "topic": "silabs/aoa/angle/ble-pd-0C4314F45C80/ble-pd-84FD27EEE588",
+    "message": "{\"azimuth\":41.800384521484375,\"elevation\":47.36073303222656,\"azimuth_stdev\":1.115075707435608,\"elevation_stdev\":0.43888598680496216,\"distance\":5.047149658203125,\"distance_stdev\":0,\"sequence\":61538}",
+    "timestamp": "2024-07-15T16:41:18.643321"
+},
+{
+    "topic": "silabs/aoa/angle/ble-pd-0C4314F45C80/ble-pd-84FD27EEE588",
+    "message": "{\"azimuth\":42.099090576171875,\"elevation\":47.124794006347656,\"azimuth_stdev\":1.2082351446151733,\"elevation_stdev\":0.5025045275688171,\"distance\":4.677382469177246,\"distance_stdev\":0,\"sequence\":61539}",
+    "timestamp": "2024-07-15T16:41:18.666323"
+},
+{
+    "topic": "silabs/aoa/angle/ble-pd-0C4314F45C80/ble-pd-84FD27EEE588",
+    "message": "{\"azimuth\":42.40061950683594,\"elevation\":46.83311462402344,\"azimuth_stdev\":1.3106484413146973,\"elevation_stdev\":0.5942229628562927,\"distance\":7.274606704711914,\"distance_stdev\":0,\"sequence\":61540}",
+    "timestamp": "2024-07-15T16:41:18.701322"
+},
+{
+    "topic": "silabs/aoa/angle/ble-pd-0C4314F45C80/ble-pd-84FD27EEE588",
+    "message": "{\"azimuth\":42.67008972167969,\"elevation\":46.79557418823242,\"azimuth_stdev\":1.3868275880813599,\"elevation_stdev\":0.6595699787139893,\"distance\":7.274606704711914,\"distance_stdev\":0,\"sequence\":61542}",
+    "timestamp": "2024-07-15T16:41:18.750321"
+},
+{
+    "topic": "silabs/aoa/angle/ble-pd-0C4314F45C80/ble-pd-84FD27EEE588",
+    "message": "{\"azimuth\":42.73222351074219,\"elevation\":46.83949279785156,\"azimuth_stdev\":1.3765435218811035,\"elevation_stdev\":0.6745138168334961,\"distance\":12.459444999694824,\"distance_stdev\":0,\"sequence\":61543}",
+    "timestamp": "2024-07-15T16:41:18.773322"
+},
+{
+    "topic": "silabs/aoa/angle/ble-pd-0C4314F45C80/ble-pd-84FD27EEE588",
+    "message": "{\"azimuth\":42.9007568359375,\"elevation\":46.83657455444336,\"azimuth_stdev\":1.307586908340454,\"elevation_stdev\":0.6489065289497375,\"distance\":6.77468204498291,\"distance_stdev\":0,\"sequence\":61544}",
+    "timestamp": "2024-07-15T16:41:18.795322"
+},
+{
+    "topic": "silabs/aoa/angle/ble-pd-0C4314F45C80/ble-pd-84FD27EEE588",
+    "message": "{\"azimuth\":43.057708740234375,\"elevation\":46.78486251831055,\"azimuth_stdev\":1.184478998184204,\"elevation_stdev\":0.585294783115387,\"distance\":6.30319356918335,\"distance_stdev\":0,\"sequence\":61545}",
+    "timestamp": "2024-07-15T16:41:18.830322"
+},
+{
+    "topic": "silabs/aoa/angle/ble-pd-0C4314F45C80/ble-pd-84FD27EEE588",
+    "message": "{\"azimuth\":43.151336669921875,\"elevation\":46.80482864379883,\"azimuth_stdev\":0.9923094511032104,\"elevation_stdev\":0.4914185404777527,\"distance\":5.44061279296875,\"distance_stdev\":0,\"sequence\":61546}",
+    "timestamp": "2024-07-15T16:41:18.837323"
+},
+{
+    "topic": "silabs/aoa/angle/ble-pd-0C4314F45C80/ble-pd-84FD27EEE588",
+    "message": "{\"azimuth\":42.60176086425781,\"elevation\":46.65135192871094,\"azimuth_stdev\":0.758822500705719,\"elevation_stdev\":0.40500307083129883,\"distance\":6.30319356918335,\"distance_stdev\":0,\"sequence\":61547}",
+    "timestamp": "2024-07-15T16:41:18.861322"
+},
+{
+    "topic": "silabs/aoa/angle/ble-pd-0C4314F45C80/ble-pd-84FD27EEE588",
+    "message": "{\"azimuth\":42.04029846191406,\"elevation\":46.55889892578125,\"azimuth_stdev\":0.585923969745636,\"elevation_stdev\":0.3178268373012543,\"distance\":7.274606704711914,\"distance_stdev\":0,\"sequence\":61548}",
+    "timestamp": "2024-07-15T16:41:18.887322"
+},
+{
+    "topic": "silabs/aoa/angle/ble-pd-0C4314F45C80/ble-pd-84FD27EEE588",
+    "message": "{\"azimuth\":41.5352783203125,\"elevation\":46.3790168762207,\"azimuth_stdev\":0.6541063785552979,\"elevation_stdev\":0.2751317024230957,\"distance\":5.8589067459106445,\"distance_stdev\":0,\"sequence\":61549}",
+    "timestamp": "2024-07-15T16:41:18.923322"
+},
+{
+    "topic": "silabs/aoa/angle/ble-pd-0C4314F45C80/ble-pd-84FD27EEE588",
+    "message": "{\"azimuth\":41.09846496582031,\"elevation\":46.24570083618164,\"azimuth_stdev\":0.8668679594993591,\"elevation_stdev\":0.29608744382858276,\"distance\":14.138740539550781,\"distance_stdev\":0,\"sequence\":61550}",
+    "timestamp": "2024-07-15T16:41:18.945322"
+},
+{
+    "topic": "silabs/aoa/angle/ble-pd-0C4314F45C80/ble-pd-84FD27EEE588",
+    "message": "{\"azimuth\":40.69859313964844,\"elevation\":46.11642074584961,\"azimuth_stdev\":1.1170345544815063,\"elevation_stdev\":0.3711136281490326,\"distance\":6.30319356918335,\"distance_stdev\":0,\"sequence\":61551}",
+    "timestamp": "2024-07-15T16:41:18.969828"
+},
+{
+    "topic": "silabs/aoa/angle/ble-pd-0C4314F45C80/ble-pd-84FD27EEE588",
+    "message": "{\"azimuth\":41.027191162109375,\"elevation\":46.11300277709961,\"azimuth_stdev\":1.2012790441513062,\"elevation_stdev\":0.4133613407611847,\"distance\":4.677382469177246,\"distance_stdev\":0,\"sequence\":61552}",
+    "timestamp": "2024-07-15T16:41:19.003213"
+},
+{
+    "topic": "silabs/aoa/angle/ble-pd-0C4314F45C80/ble-pd-84FD27EEE588",
+    "message": "{\"azimuth\":41.329193115234375,\"elevation\":46.12729263305664,\"azimuth_stdev\":1.1976337432861328,\"elevation_stdev\":0.4185226559638977,\"distance\":14.138740539550781,\"distance_stdev\":0,\"sequence\":61553}",
+    "timestamp": "2024-07-15T16:41:19.026212"
+},
+{
+    "topic": "silabs/aoa/angle/ble-pd-0C4314F45C80/ble-pd-84FD27EEE588",
+    "message": "{\"azimuth\":41.817169189453125,\"elevation\":46.07542419433594,\"azimuth_stdev\":1.1160556077957153,\"elevation_stdev\":0.4057044982910156,\"distance\":4.677382469177246,\"distance_stdev\":0,\"sequence\":61554}",
+    "timestamp": "2024-07-15T16:41:19.048213"
+},
+{
+    "topic": "silabs/aoa/angle/ble-pd-0C4314F45C80/ble-pd-84FD27EEE588",
+    "message": "{\"azimuth\":42.116241455078125,\"elevation\":45.955902099609375,\"azimuth_stdev\":0.982715368270874,\"elevation_stdev\":0.39404258131980896,\"distance\":5.44061279296875,\"distance_stdev\":0,\"sequence\":61556}",
+    "timestamp": "2024-07-15T16:41:19.095211"
+},
+{
+    "topic": "silabs/aoa/angle/ble-pd-0C4314F45C80/ble-pd-84FD27EEE588",
+    "message": "{\"azimuth\":42.332489013671875,\"elevation\":45.91446304321289,\"azimuth_stdev\":0.8049637079238892,\"elevation_stdev\":0.34122368693351746,\"distance\":5.8589067459106445,\"distance_stdev\":0,\"sequence\":61557}",
+    "timestamp": "2024-07-15T16:41:19.120213"
+},
+{
+    "topic": "silabs/aoa/angle/ble-pd-0C4314F45C80/ble-pd-84FD27EEE588",
+    "message": "{\"azimuth\":41.96734619140625,\"elevation\":45.92216110229492,\"azimuth_stdev\":0.7019424438476562,\"elevation_stdev\":0.2865138351917267,\"distance\":5.44061279296875,\"distance_stdev\":0,\"sequence\":61558}",
+    "timestamp": "2024-07-15T16:41:19.144211"
+},
+{
+    "topic": "silabs/aoa/angle/ble-pd-0C4314F45C80/ble-pd-84FD27EEE588",
+    "message": "{\"azimuth\":41.60105895996094,\"elevation\":45.90892791748047,\"azimuth_stdev\":0.673323929309845,\"elevation_stdev\":0.2167288362979889,\"distance\":5.8589067459106445,\"distance_stdev\":0,\"sequence\":61559}",
+    "timestamp": "2024-07-15T16:41:19.167211"
+},
+{
+    "topic": "silabs/aoa/angle/ble-pd-0C4314F45C80/ble-pd-84FD27EEE588",
+    "message": "{\"azimuth\":41.24040222167969,\"elevation\":45.93777847290039,\"azimuth_stdev\":0.6851276755332947,\"elevation_stdev\":0.16464756429195404,\"distance\":5.047149658203125,\"distance_stdev\":0,\"sequence\":61560}",
+    "timestamp": "2024-07-15T16:41:19.195211"
+},
+{
+    "topic": "silabs/aoa/angle/ble-pd-0C4314F45C80/ble-pd-84FD27EEE588",
+    "message": "{\"azimuth\":40.8480224609375,\"elevation\":45.988101959228516,\"azimuth_stdev\":0.7198839783668518,\"elevation_stdev\":0.12743353843688965,\"distance\":5.047149658203125,\"distance_stdev\":0,\"sequence\":61562}",
+    "timestamp": "2024-07-15T16:41:19.242213"
+},
+{
+    "topic": "silabs/aoa/angle/ble-pd-0C4314F45C80/ble-pd-84FD27EEE588",
+    "message": "{\"azimuth\":40.5391845703125,\"elevation\":46.01731872558594,\"azimuth_stdev\":0.7549707889556885,\"elevation_stdev\":0.115889772772789,\"distance\":5.8589067459106445,\"distance_stdev\":0,\"sequence\":61563}",
+    "timestamp": "2024-07-15T16:41:19.265212"
+},
+{
+    "topic": "silabs/aoa/angle/ble-pd-0C4314F45C80/ble-pd-84FD27EEE588",
+    "message": "{\"azimuth\":40.84251403808594,\"elevation\":46.025264739990234,\"azimuth_stdev\":0.7791994214057922,\"elevation_stdev\":0.10249660164117813,\"distance\":5.44061279296875,\"distance_stdev\":0,\"sequence\":61564}",
+    "timestamp": "2024-07-15T16:41:19.288212"
+},
+{
+    "topic": "silabs/aoa/angle/ble-pd-0C4314F45C80/ble-pd-84FD27EEE588",
+    "message": "{\"azimuth\":40.996063232421875,\"elevation\":45.892391204833984,\"azimuth_stdev\":0.8013338446617126,\"elevation_stdev\":0.08388485014438629,\"distance\":4.330219268798828,\"distance_stdev\":0,\"sequence\":61565}",
+    "timestamp": "2024-07-15T16:41:19.333212"
+},
+{
+    "topic": "silabs/aoa/angle/ble-pd-0C4314F45C80/ble-pd-84FD27EEE588",
+    "message": "{\"azimuth\":41.18251037597656,\"elevation\":45.82488250732422,\"azimuth_stdev\":0.7866467833518982,\"elevation_stdev\":0.08458413928747177,\"distance\":10.246929168701172,\"distance_stdev\":0,\"sequence\":61566}",
+    "timestamp": "2024-07-15T16:41:19.344212"
+},
+{
+    "topic": "silabs/aoa/angle/ble-pd-0C4314F45C80/ble-pd-84FD27EEE588",
+    "message": "{\"azimuth\":41.574371337890625,\"elevation\":45.76276779174805,\"azimuth_stdev\":0.7188708186149597,\"elevation_stdev\":0.11379124224185944,\"distance\":5.44061279296875,\"distance_stdev\":0,\"sequence\":61567}",
+    "timestamp": "2024-07-15T16:41:19.379213"
+},
+{
+    "topic": "silabs/aoa/angle/ble-pd-0C4314F45C80/ble-pd-84FD27EEE588",
+    "message": "{\"azimuth\":41.744140625,\"elevation\":45.724308013916016,\"azimuth_stdev\":0.5933408141136169,\"elevation_stdev\":0.14266572892665863,\"distance\":6.30319356918335,\"distance_stdev\":0,\"sequence\":61568}",
+    "timestamp": "2024-07-15T16:41:19.401212"
+},
+{
+    "topic": "silabs/aoa/angle/ble-pd-0C4314F45C80/ble-pd-84FD27EEE588",
+    "message": "{\"azimuth\":41.996307373046875,\"elevation\":45.738441467285156,\"azimuth_stdev\":0.6000590324401855,\"elevation_stdev\":0.1586427241563797,\"distance\":13.277584075927734,\"distance_stdev\":0,\"sequence\":61569}",
+    "timestamp": "2024-07-15T16:41:19.424212"
+},
+{
+    "topic": "silabs/aoa/angle/ble-pd-0C4314F45C80/ble-pd-84FD27EEE588",
+    "message": "{\"azimuth\":42.28410339355469,\"elevation\":45.783653259277344,\"azimuth_stdev\":0.7249284982681274,\"elevation_stdev\":0.1635713130235672,\"distance\":7.274606704711914,\"distance_stdev\":0,\"sequence\":61570}",
+    "timestamp": "2024-07-15T16:41:19.446213"
+},
+{
+    "topic": "silabs/aoa/angle/ble-pd-0C4314F45C80/ble-pd-84FD27EEE588",
+    "message": "{\"azimuth\":42.55348205566406,\"elevation\":45.72473907470703,\"azimuth_stdev\":0.8789742588996887,\"elevation_stdev\":0.17112427949905396,\"distance\":4.330219268798828,\"distance_stdev\":0,\"sequence\":61571}",
+    "timestamp": "2024-07-15T16:41:19.470213"
+},
+{
+    "topic": "silabs/aoa/angle/ble-pd-0C4314F45C80/ble-pd-84FD27EEE588",
+    "message": "{\"azimuth\":42.626434326171875,\"elevation\":45.80807113647461,\"azimuth_stdev\":0.9487557411193848,\"elevation_stdev\":0.15722984075546265,\"distance\":12.459444999694824,\"distance_stdev\":0,\"sequence\":61572}",
+    "timestamp": "2024-07-15T16:41:19.504213"
+},
+{
+    "topic": "silabs/aoa/angle/ble-pd-0C4314F45C80/ble-pd-84FD27EEE588",
+    "message": "{\"azimuth\":42.8360595703125,\"elevation\":45.766510009765625,\"azimuth_stdev\":0.921082079410553,\"elevation_stdev\":0.12925462424755096,\"distance\":8.957999229431152,\"distance_stdev\":0,\"sequence\":61573}",
+    "timestamp": "2024-07-15T16:41:19.525212"
+},
+{
+    "topic": "silabs/aoa/angle/ble-pd-0C4314F45C80/ble-pd-84FD27EEE588",
+    "message": "{\"azimuth\":43.215057373046875,\"elevation\":45.69116973876953,\"azimuth_stdev\":0.9429768919944763,\"elevation_stdev\":0.08167529106140137,\"distance\":5.047149658203125,\"distance_stdev\":0,\"sequence\":61574}",
+    "timestamp": "2024-07-15T16:41:19.559212"
+},
+{
+    "topic": "silabs/aoa/angle/ble-pd-0C4314F45C80/ble-pd-84FD27EEE588",
+    "message": "{\"azimuth\":43.725006103515625,\"elevation\":45.675498962402344,\"azimuth_stdev\":1.007252812385559,\"elevation_stdev\":0.06719820201396942,\"distance\":15.99692153930664,\"distance_stdev\":0,\"sequence\":61575}",
+    "timestamp": "2024-07-15T16:41:19.582212"
+},
+{
+    "topic": "silabs/aoa/angle/ble-pd-0C4314F45C80/ble-pd-84FD27EEE588",
+    "message": "{\"azimuth\":44.19842529296875,\"elevation\":45.672611236572266,\"azimuth_stdev\":1.0959587097167969,\"elevation_stdev\":0.06402482837438583,\"distance\":4.330219268798828,\"distance_stdev\":0,\"sequence\":61576}",
+    "timestamp": "2024-07-15T16:41:19.605212"
+},
+{
+    "topic": "silabs/aoa/angle/ble-pd-0C4314F45C80/ble-pd-84FD27EEE588",
+    "message": "{\"azimuth\":44.61146545410156,\"elevation\":45.739559173583984,\"azimuth_stdev\":1.225304126739502,\"elevation_stdev\":0.06264158338308334,\"distance\":4.677382469177246,\"distance_stdev\":0,\"sequence\":61577}",
+    "timestamp": "2024-07-15T16:41:19.639213"
+},
+{
+    "topic": "silabs/aoa/angle/ble-pd-0C4314F45C80/ble-pd-84FD27EEE588",
+    "message": "{\"azimuth\":44.965362548828125,\"elevation\":45.74418640136719,\"azimuth_stdev\":1.3261245489120483,\"elevation_stdev\":0.06269598007202148,\"distance\":8.957999229431152,\"distance_stdev\":0,\"sequence\":61578}",
+    "timestamp": "2024-07-15T16:41:19.649212"
+},
+{
+    "topic": "silabs/aoa/angle/ble-pd-0C4314F45C80/ble-pd-84FD27EEE588",
+    "message": "{\"azimuth\":44.596466064453125,\"elevation\":45.83348846435547,\"azimuth_stdev\":1.2759968042373657,\"elevation_stdev\":0.07644148916006088,\"distance\":8.36492919921875,\"distance_stdev\":0,\"sequence\":61579}",
+    "timestamp": "2024-07-15T16:41:19.683212"
+},
+{
+    "topic": "silabs/aoa/angle/ble-pd-0C4314F45C80/ble-pd-84FD27EEE588",
+    "message": "{\"azimuth\":44.20344543457031,\"elevation\":45.956790924072266,\"azimuth_stdev\":1.1542539596557617,\"elevation_stdev\":0.12084980309009552,\"distance\":5.8589067459106445,\"distance_stdev\":0,\"sequence\":61581}",
+    "timestamp": "2024-07-15T16:41:19.716211"
+},
+{
+    "topic": "silabs/aoa/angle/ble-pd-0C4314F45C80/ble-pd-84FD27EEE588",
+    "message": "{\"azimuth\":43.89154052734375,\"elevation\":46.03466033935547,\"azimuth_stdev\":1.0169737339019775,\"elevation_stdev\":0.1683180034160614,\"distance\":11.682686805725098,\"distance_stdev\":0,\"sequence\":61582}",
+    "timestamp": "2024-07-15T16:41:19.742213"
+},
+{
+    "topic": "silabs/aoa/angle/ble-pd-0C4314F45C80/ble-pd-84FD27EEE588",
+    "message": "{\"azimuth\":43.56982421875,\"elevation\":46.046756744384766,\"azimuth_stdev\":0.861385703086853,\"elevation_stdev\":0.20244812965393066,\"distance\":5.047149658203125,\"distance_stdev\":0,\"sequence\":61583}",
+    "timestamp": "2024-07-15T16:41:19.770213"
+},
+{
+    "topic": "silabs/aoa/angle/ble-pd-0C4314F45C80/ble-pd-84FD27EEE588",
+    "message": "{\"azimuth\":43.23638916015625,\"elevation\":46.09889602661133,\"azimuth_stdev\":0.7735668420791626,\"elevation_stdev\":0.23511746525764465,\"distance\":6.77468204498291,\"distance_stdev\":0,\"sequence\":61584}",
+    "timestamp": "2024-07-15T16:41:19.787212"
+},
+{
+    "topic": "silabs/aoa/angle/ble-pd-0C4314F45C80/ble-pd-84FD27EEE588",
+    "message": "{\"azimuth\":42.93400573730469,\"elevation\":46.311927795410156,\"azimuth_stdev\":0.8343076109886169,\"elevation_stdev\":0.29603418707847595,\"distance\":6.77468204498291,\"distance_stdev\":0,\"sequence\":61586}",
+    "timestamp": "2024-07-15T16:41:19.837518"
+},
+{
+    "topic": "silabs/aoa/angle/ble-pd-0C4314F45C80/ble-pd-84FD27EEE588",
+    "message": "{\"azimuth\":42.447357177734375,\"elevation\":46.332881927490234,\"azimuth_stdev\":1.0469871759414673,\"elevation_stdev\":0.3233780562877655,\"distance\":6.77468204498291,\"distance_stdev\":0,\"sequence\":61587}",
+    "timestamp": "2024-07-15T16:41:19.863518"
+},
+{
+    "topic": "silabs/aoa/angle/ble-pd-0C4314F45C80/ble-pd-84FD27EEE588",
+    "message": "{\"azimuth\":42.21656799316406,\"elevation\":46.56277084350586,\"azimuth_stdev\":1.228570818901062,\"elevation_stdev\":0.3759554922580719,\"distance\":7.274606704711914,\"distance_stdev\":0,\"sequence\":61588}",
+    "timestamp": "2024-07-15T16:41:19.898518"
+},
+{
+    "topic": "silabs/aoa/angle/ble-pd-0C4314F45C80/ble-pd-84FD27EEE588",
+    "message": "{\"azimuth\":41.67607116699219,\"elevation\":46.66470718383789,\"azimuth_stdev\":1.3860392570495605,\"elevation_stdev\":0.4207613170146942,\"distance\":14.138740539550781,\"distance_stdev\":0,\"sequence\":61589}",
+    "timestamp": "2024-07-15T16:41:19.920519"
+},
+{
+    "topic": "silabs/aoa/angle/ble-pd-0C4314F45C80/ble-pd-84FD27EEE588",
+    "message": "{\"azimuth\":41.33726501464844,\"elevation\":46.79696273803711,\"azimuth_stdev\":1.4058748483657837,\"elevation_stdev\":0.451517254114151,\"distance\":5.44061279296875,\"distance_stdev\":0,\"sequence\":61590}",
+    "timestamp": "2024-07-15T16:41:19.943520"
+},
+{
+    "topic": "silabs/aoa/angle/ble-pd-0C4314F45C80/ble-pd-84FD27EEE588",
+    "message": "{\"azimuth\":40.725677490234375,\"elevation\":46.8157958984375,\"azimuth_stdev\":1.48403799533844,\"elevation_stdev\":0.4568873345851898,\"distance\":6.30319356918335,\"distance_stdev\":0,\"sequence\":61591}",
+    "timestamp": "2024-07-15T16:41:19.965518"
+},
+{
+    "topic": "silabs/aoa/angle/ble-pd-0C4314F45C80/ble-pd-84FD27EEE588",
+    "message": "{\"azimuth\":40.078277587890625,\"elevation\":46.74274826049805,\"azimuth_stdev\":1.6204006671905518,\"elevation_stdev\":0.43732014298439026,\"distance\":13.277584075927734,\"distance_stdev\":0,\"sequence\":61592}",
+    "timestamp": "2024-07-15T16:41:19.995522"
+},
+{
+    "topic": "silabs/aoa/angle/ble-pd-0C4314F45C80/ble-pd-84FD27EEE588",
+    "message": "{\"azimuth\":39.70707702636719,\"elevation\":46.612457275390625,\"azimuth_stdev\":1.7151970863342285,\"elevation_stdev\":0.3935977816581726,\"distance\":25.510509490966797,\"distance_stdev\":0,\"sequence\":61593}",
+    "timestamp": "2024-07-15T16:41:20.018518"
+},
+{
+    "topic": "silabs/aoa/angle/ble-pd-0C4314F45C80/ble-pd-84FD27EEE588",
+    "message": "{\"azimuth\":39.17724609375,\"elevation\":46.612735748291016,\"azimuth_stdev\":1.808042049407959,\"elevation_stdev\":0.3269759714603424,\"distance\":4.330219268798828,\"distance_stdev\":0,\"sequence\":61594}",
+    "timestamp": "2024-07-15T16:41:20.065518"
+},
+{
+    "topic": "silabs/aoa/angle/ble-pd-0C4314F45C80/ble-pd-84FD27EEE588",
+    "message": "{\"azimuth\":38.58616638183594,\"elevation\":46.59979248046875,\"azimuth_stdev\":1.905921220779419,\"elevation_stdev\":0.2390715479850769,\"distance\":10.945698738098145,\"distance_stdev\":0,\"sequence\":61595}",
+    "timestamp": "2024-07-15T16:41:20.098518"
+},
+{
+    "topic": "silabs/aoa/angle/ble-pd-0C4314F45C80/ble-pd-84FD27EEE588",
+    "message": "{\"azimuth\":38.18733215332031,\"elevation\":46.6778450012207,\"azimuth_stdev\":1.9475109577178955,\"elevation_stdev\":0.19208219647407532,\"distance\":6.77468204498291,\"distance_stdev\":0,\"sequence\":61596}",
+    "timestamp": "2024-07-15T16:41:20.120520"
+},
+{
+    "topic": "silabs/aoa/angle/ble-pd-0C4314F45C80/ble-pd-84FD27EEE588",
+    "message": "{\"azimuth\":37.84584045410156,\"elevation\":46.63905334472656,\"azimuth_stdev\":1.9637144804000854,\"elevation_stdev\":0.11975966393947601,\"distance\":5.047149658203125,\"distance_stdev\":0,\"sequence\":61597}",
+    "timestamp": "2024-07-15T16:41:20.143518"
+},
+{
+    "topic": "silabs/aoa/angle/ble-pd-0C4314F45C80/ble-pd-84FD27EEE588",
+    "message": "{\"azimuth\":37.665557861328125,\"elevation\":46.60020065307617,\"azimuth_stdev\":1.8690627813339233,\"elevation_stdev\":0.11334358155727386,\"distance\":8.957999229431152,\"distance_stdev\":0,\"sequence\":61598}",
+    "timestamp": "2024-07-15T16:41:20.165517"
+},
+{
+    "topic": "silabs/aoa/angle/ble-pd-0C4314F45C80/ble-pd-84FD27EEE588",
+    "message": "{\"azimuth\":37.34352111816406,\"elevation\":46.525726318359375,\"azimuth_stdev\":1.7679071426391602,\"elevation_stdev\":0.13143613934516907,\"distance\":11.682686805725098,\"distance_stdev\":0,\"sequence\":61599}",
+    "timestamp": "2024-07-15T16:41:20.202519"
+},
+{
+    "topic": "silabs/aoa/angle/ble-pd-0C4314F45C80/ble-pd-84FD27EEE588",
+    "message": "{\"azimuth\":37.24497985839844,\"elevation\":46.60448455810547,\"azimuth_stdev\":1.5710885524749756,\"elevation_stdev\":0.11532201617956161,\"distance\":5.44061279296875,\"distance_stdev\":0,\"sequence\":61600}",
+    "timestamp": "2024-07-15T16:41:20.211518"
+},
+{
+    "topic": "silabs/aoa/angle/ble-pd-0C4314F45C80/ble-pd-84FD27EEE588",
+    "message": "{\"azimuth\":37.91969299316406,\"elevation\":46.4384651184082,\"azimuth_stdev\":1.274854063987732,\"elevation_stdev\":0.11325301975011826,\"distance\":6.77468204498291,\"distance_stdev\":0,\"sequence\":61601}",
+    "timestamp": "2024-07-15T16:41:20.234518"
+},
+{
+    "topic": "silabs/aoa/angle/ble-pd-0C4314F45C80/ble-pd-84FD27EEE588",
+    "message": "{\"azimuth\":38.77619934082031,\"elevation\":46.336708068847656,\"azimuth_stdev\":1.0407036542892456,\"elevation_stdev\":0.1440262645483017,\"distance\":4.330219268798828,\"distance_stdev\":0,\"sequence\":61602}",
+    "timestamp": "2024-07-15T16:41:20.269519"
+},
+{
+    "topic": "silabs/aoa/angle/ble-pd-0C4314F45C80/ble-pd-84FD27EEE588",
+    "message": "{\"azimuth\":39.635711669921875,\"elevation\":46.06224822998047,\"azimuth_stdev\":1.022690773010254,\"elevation_stdev\":0.26088428497314453,\"distance\":12.459444999694824,\"distance_stdev\":0,\"sequence\":61603}",
+    "timestamp": "2024-07-15T16:41:20.279518"
+},
+{
+    "topic": "silabs/aoa/angle/ble-pd-0C4314F45C80/ble-pd-84FD27EEE588",
+    "message": "{\"azimuth\":40.533966064453125,\"elevation\":45.8712158203125,\"azimuth_stdev\":1.3525125980377197,\"elevation_stdev\":0.3763684928417206,\"distance\":16.99745750427246,\"distance_stdev\":0,\"sequence\":61604}",
+    "timestamp": "2024-07-15T16:41:20.302519"
+},
+{
+    "topic": "silabs/aoa/angle/ble-pd-0C4314F45C80/ble-pd-84FD27EEE588",
+    "message": "{\"azimuth\":41.22550964355469,\"elevation\":45.722633361816406,\"azimuth_stdev\":1.790631890296936,\"elevation_stdev\":0.47816622257232666,\"distance\":4.330219268798828,\"distance_stdev\":0,\"sequence\":61605}",
+    "timestamp": "2024-07-15T16:41:20.336519"
+},
+{
+    "topic": "silabs/aoa/angle/ble-pd-0C4314F45C80/ble-pd-84FD27EEE588",
+    "message": "{\"azimuth\":41.73358154296875,\"elevation\":45.76985549926758,\"azimuth_stdev\":2.1722335815429688,\"elevation_stdev\":0.5092658400535583,\"distance\":6.30319356918335,\"distance_stdev\":0,\"sequence\":61606}",
+    "timestamp": "2024-07-15T16:41:20.358518"
+},
+{
+    "topic": "silabs/aoa/angle/ble-pd-0C4314F45C80/ble-pd-84FD27EEE588",
+    "message": "{\"azimuth\":42.12712097167969,\"elevation\":45.73189926147461,\"azimuth_stdev\":2.4416720867156982,\"elevation_stdev\":0.519217848777771,\"distance\":5.8589067459106445,\"distance_stdev\":0,\"sequence\":61607}",
+    "timestamp": "2024-07-15T16:41:20.393520"
+},
+{
+    "topic": "silabs/aoa/angle/ble-pd-0C4314F45C80/ble-pd-84FD27EEE588",
+    "message": "{\"azimuth\":42.50648498535156,\"elevation\":45.87603759765625,\"azimuth_stdev\":2.593515634536743,\"elevation_stdev\":0.48573991656303406,\"distance\":5.8589067459106445,\"distance_stdev\":0,\"sequence\":61608}",
+    "timestamp": "2024-07-15T16:41:20.404520"
+},
+{
+    "topic": "silabs/aoa/angle/ble-pd-0C4314F45C80/ble-pd-84FD27EEE588",
+    "message": "{\"azimuth\":42.84312438964844,\"elevation\":45.954429626464844,\"azimuth_stdev\":2.559035539627075,\"elevation_stdev\":0.4393164813518524,\"distance\":4.677382469177246,\"distance_stdev\":0,\"sequence\":61609}",
+    "timestamp": "2024-07-15T16:41:20.438518"
+},
+{
+    "topic": "silabs/aoa/angle/ble-pd-0C4314F45C80/ble-pd-84FD27EEE588",
+    "message": "{\"azimuth\":43.058013916015625,\"elevation\":45.91822052001953,\"azimuth_stdev\":2.2942054271698,\"elevation_stdev\":0.34141719341278076,\"distance\":5.44061279296875,\"distance_stdev\":0,\"sequence\":61610}",
+    "timestamp": "2024-07-15T16:41:20.449520"
+},
+{
+    "topic": "silabs/aoa/angle/ble-pd-0C4314F45C80/ble-pd-84FD27EEE588",
+    "message": "{\"azimuth\":43.12809753417969,\"elevation\":45.801658630371094,\"azimuth_stdev\":1.9402034282684326,\"elevation_stdev\":0.2573460638523102,\"distance\":4.330219268798828,\"distance_stdev\":0,\"sequence\":61611}",
+    "timestamp": "2024-07-15T16:41:20.483519"
+},
+{
+    "topic": "silabs/aoa/angle/ble-pd-0C4314F45C80/ble-pd-84FD27EEE588",
+    "message": "{\"azimuth\":43.36305236816406,\"elevation\":45.722801208496094,\"azimuth_stdev\":1.5936510562896729,\"elevation_stdev\":0.15822046995162964,\"distance\":4.330219268798828,\"distance_stdev\":0,\"sequence\":61612}",
+    "timestamp": "2024-07-15T16:41:20.505518"
+},
+{
+    "topic": "silabs/aoa/angle/ble-pd-0C4314F45C80/ble-pd-84FD27EEE588",
+    "message": "{\"azimuth\":43.48826599121094,\"elevation\":45.743133544921875,\"azimuth_stdev\":1.2702730894088745,\"elevation_stdev\":0.12108439207077026,\"distance\":8.36492919921875,\"distance_stdev\":0,\"sequence\":61613}",
+    "timestamp": "2024-07-15T16:41:20.539518"
+},
+{
+    "topic": "silabs/aoa/angle/ble-pd-0C4314F45C80/ble-pd-84FD27EEE588",
+    "message": "{\"azimuth\":43.7271728515625,\"elevation\":45.691307067871094,\"azimuth_stdev\":1.0494205951690674,\"elevation_stdev\":0.12759947776794434,\"distance\":8.36492919921875,\"distance_stdev\":0,\"sequence\":61614}",
+    "timestamp": "2024-07-15T16:41:20.573522"
+},
+{
+    "topic": "silabs/aoa/angle/ble-pd-0C4314F45C80/ble-pd-84FD27EEE588",
+    "message": "{\"azimuth\":43.78501892089844,\"elevation\":45.71495056152344,\"azimuth_stdev\":0.8802170753479004,\"elevation_stdev\":0.12855467200279236,\"distance\":6.30319356918335,\"distance_stdev\":0,\"sequence\":61616}",
+    "timestamp": "2024-07-15T16:41:20.595518"
+},
+{
+    "topic": "silabs/aoa/angle/ble-pd-0C4314F45C80/ble-pd-84FD27EEE588",
+    "message": "{\"azimuth\":43.49845886230469,\"elevation\":45.99754333496094,\"azimuth_stdev\":0.6935860514640808,\"elevation_stdev\":0.1560511738061905,\"distance\":4.004596710205078,\"distance_stdev\":0,\"sequence\":61618}",
+    "timestamp": "2024-07-15T16:41:20.642518"
+},
+{
+    "topic": "silabs/aoa/angle/ble-pd-0C4314F45C80/ble-pd-84FD27EEE588",
+    "message": "{\"azimuth\":43.195159912109375,\"elevation\":46.189170837402344,\"azimuth_stdev\":0.512962818145752,\"elevation_stdev\":0.22010689973831177,\"distance\":11.682686805725098,\"distance_stdev\":0,\"sequence\":61620}",
+    "timestamp": "2024-07-15T16:41:20.693518"
+},
+{
+    "topic": "silabs/aoa/angle/ble-pd-0C4314F45C80/ble-pd-84FD27EEE588",
+    "message": "{\"azimuth\":42.90101623535156,\"elevation\":46.333194732666016,\"azimuth_stdev\":0.42344915866851807,\"elevation_stdev\":0.303120881319046,\"distance\":6.30319356918335,\"distance_stdev\":0,\"sequence\":61621}",
+    "timestamp": "2024-07-15T16:41:20.724518"
+},
+{
+    "topic": "silabs/aoa/angle/ble-pd-0C4314F45C80/ble-pd-84FD27EEE588",
+    "message": "{\"azimuth\":42.59716796875,\"elevation\":46.50263977050781,\"azimuth_stdev\":0.48068705201148987,\"elevation_stdev\":0.4016713798046112,\"distance\":4.677382469177246,\"distance_stdev\":0,\"sequence\":61622}",
+    "timestamp": "2024-07-15T16:41:20.741518"
+},
+{
+    "topic": "silabs/aoa/angle/ble-pd-0C4314F45C80/ble-pd-84FD27EEE588",
+    "message": "{\"azimuth\":42.43098449707031,\"elevation\":46.67589569091797,\"azimuth_stdev\":0.5896440744400024,\"elevation_stdev\":0.5083199739456177,\"distance\":6.30319356918335,\"distance_stdev\":0,\"sequence\":61623}",
+    "timestamp": "2024-07-15T16:41:20.769518"
+},
+{
+    "topic": "silabs/aoa/angle/ble-pd-0C4314F45C80/ble-pd-84FD27EEE588",
+    "message": "{\"azimuth\":41.9241943359375,\"elevation\":46.75487518310547,\"azimuth_stdev\":0.7921863198280334,\"elevation_stdev\":0.5811157822608948,\"distance\":6.30319356918335,\"distance_stdev\":0,\"sequence\":61624}",
+    "timestamp": "2024-07-15T16:41:20.791518"
+},
+{
+    "topic": "silabs/aoa/angle/ble-pd-0C4314F45C80/ble-pd-84FD27EEE588",
+    "message": "{\"azimuth\":41.51951599121094,\"elevation\":46.64958572387695,\"azimuth_stdev\":1.0054423809051514,\"elevation_stdev\":0.5836159586906433,\"distance\":5.8589067459106445,\"distance_stdev\":0,\"sequence\":61625}",
+    "timestamp": "2024-07-15T16:41:20.816518"
+},
+{
+    "topic": "silabs/aoa/angle/ble-pd-0C4314F45C80/ble-pd-84FD27EEE588",
+    "message": "{\"azimuth\":41.0777587890625,\"elevation\":46.665435791015625,\"azimuth_stdev\":1.2088381052017212,\"elevation_stdev\":0.5603545904159546,\"distance\":5.047149658203125,\"distance_stdev\":0,\"sequence\":61626}",
+    "timestamp": "2024-07-15T16:41:20.840518"
+},
+{
+    "topic": "silabs/aoa/angle/ble-pd-0C4314F45C80/ble-pd-84FD27EEE588",
+    "message": "{\"azimuth\":40.723876953125,\"elevation\":46.665287017822266,\"azimuth_stdev\":1.3370693922042847,\"elevation_stdev\":0.48505088686943054,\"distance\":9.584851264953613,\"distance_stdev\":0,\"sequence\":61628}",
+    "timestamp": "2024-07-15T16:41:20.892518"
+},
+{
+    "topic": "silabs/aoa/angle/ble-pd-0C4314F45C80/ble-pd-84FD27EEE588",
+    "message": "{\"azimuth\":40.27153015136719,\"elevation\":46.70415496826172,\"azimuth_stdev\":1.4136279821395874,\"elevation_stdev\":0.3561558723449707,\"distance\":13.277584075927734,\"distance_stdev\":0,\"sequence\":61629}",
+    "timestamp": "2024-07-15T16:41:20.926518"
+},
+{
+    "topic": "silabs/aoa/angle/ble-pd-0C4314F45C80/ble-pd-84FD27EEE588",
+    "message": "{\"azimuth\":40.40818786621094,\"elevation\":46.52138900756836,\"azimuth_stdev\":1.3746894598007202,\"elevation_stdev\":0.25224363803863525,\"distance\":5.44061279296875,\"distance_stdev\":0,\"sequence\":61630}",
+    "timestamp": "2024-07-15T16:41:20.949519"
+},
+{
+    "topic": "silabs/aoa/angle/ble-pd-0C4314F45C80/ble-pd-84FD27EEE588",
+    "message": "{\"azimuth\":40.5081787109375,\"elevation\":46.309791564941406,\"azimuth_stdev\":1.268263578414917,\"elevation_stdev\":0.21651636064052582,\"distance\":4.677382469177246,\"distance_stdev\":0,\"sequence\":61631}",
+    "timestamp": "2024-07-15T16:41:20.971518"
+},
+{
+    "topic": "silabs/aoa/angle/ble-pd-0C4314F45C80/ble-pd-84FD27EEE588",
+    "message": "{\"azimuth\":40.656280517578125,\"elevation\":45.94316864013672,\"azimuth_stdev\":1.1081922054290771,\"elevation_stdev\":0.34270772337913513,\"distance\":5.8589067459106445,\"distance_stdev\":0,\"sequence\":61632}",
+    "timestamp": "2024-07-15T16:41:21.017520"
+},
+{
+    "topic": "silabs/aoa/angle/ble-pd-0C4314F45C80/ble-pd-84FD27EEE588",
+    "message": "{\"azimuth\":40.74992370605469,\"elevation\":45.74971389770508,\"azimuth_stdev\":0.9206863641738892,\"elevation_stdev\":0.4889329969882965,\"distance\":15.99692153930664,\"distance_stdev\":0,\"sequence\":61634}",
+    "timestamp": "2024-07-15T16:41:21.050518"
+},
+{
+    "topic": "silabs/aoa/angle/ble-pd-0C4314F45C80/ble-pd-84FD27EEE588",
+    "message": "{\"azimuth\":40.977630615234375,\"elevation\":45.51008987426758,\"azimuth_stdev\":0.6646077632904053,\"elevation_stdev\":0.629183828830719,\"distance\":5.047149658203125,\"distance_stdev\":0,\"sequence\":61635}",
+    "timestamp": "2024-07-15T16:41:21.074519"
+},
+{
+    "topic": "silabs/aoa/angle/ble-pd-0C4314F45C80/ble-pd-84FD27EEE588",
+    "message": "{\"azimuth\":40.992645263671875,\"elevation\":45.35872268676758,\"azimuth_stdev\":0.4745829701423645,\"elevation_stdev\":0.7269584536552429,\"distance\":6.30319356918335,\"distance_stdev\":0,\"sequence\":61636}",
+    "timestamp": "2024-07-15T16:41:21.108519"
+},
+{
+    "topic": "silabs/aoa/angle/ble-pd-0C4314F45C80/ble-pd-84FD27EEE588",
+    "message": "{\"azimuth\":41.13435363769531,\"elevation\":45.274269104003906,\"azimuth_stdev\":0.37989792227745056,\"elevation_stdev\":0.7957555055618286,\"distance\":5.047149658203125,\"distance_stdev\":0,\"sequence\":61637}",
+    "timestamp": "2024-07-15T16:41:21.129519"
+},
+{
+    "topic": "silabs/aoa/angle/ble-pd-0C4314F45C80/ble-pd-84FD27EEE588",
+    "message": "{\"azimuth\":41.33537292480469,\"elevation\":45.163726806640625,\"azimuth_stdev\":0.4328128397464752,\"elevation_stdev\":0.827804684638977,\"distance\":6.30319356918335,\"distance_stdev\":0,\"sequence\":61638}",
+    "timestamp": "2024-07-15T16:41:21.141519"
+},
+{
+    "topic": "silabs/aoa/angle/ble-pd-0C4314F45C80/ble-pd-84FD27EEE588",
+    "message": "{\"azimuth\":41.50746154785156,\"elevation\":45.18102264404297,\"azimuth_stdev\":0.5249016284942627,\"elevation_stdev\":0.7974171042442322,\"distance\":6.77468204498291,\"distance_stdev\":0,\"sequence\":61639}",
+    "timestamp": "2024-07-15T16:41:21.163693"
+},
+{
+    "topic": "silabs/aoa/angle/ble-pd-0C4314F45C80/ble-pd-84FD27EEE588",
+    "message": "{\"azimuth\":41.5794677734375,\"elevation\":45.32999801635742,\"azimuth_stdev\":0.5276715755462646,\"elevation_stdev\":0.6709135174751282,\"distance\":6.30319356918335,\"distance_stdev\":0,\"sequence\":61640}",
+    "timestamp": "2024-07-15T16:41:21.198692"
+},
+{
+    "topic": "silabs/aoa/angle/ble-pd-0C4314F45C80/ble-pd-84FD27EEE588",
+    "message": "{\"azimuth\":41.700714111328125,\"elevation\":45.352325439453125,\"azimuth_stdev\":0.5304269194602966,\"elevation_stdev\":0.5181585550308228,\"distance\":6.30319356918335,\"distance_stdev\":0,\"sequence\":61641}",
+    "timestamp": "2024-07-15T16:41:21.232693"
+},
+{
+    "topic": "silabs/aoa/angle/ble-pd-0C4314F45C80/ble-pd-84FD27EEE588",
+    "message": "{\"azimuth\":41.74909973144531,\"elevation\":45.27418518066406,\"azimuth_stdev\":0.508682131767273,\"elevation_stdev\":0.350740522146225,\"distance\":6.77468204498291,\"distance_stdev\":0,\"sequence\":61642}",
+    "timestamp": "2024-07-15T16:41:21.243693"
+},
+{
+    "topic": "silabs/aoa/angle/ble-pd-0C4314F45C80/ble-pd-84FD27EEE588",
+    "message": "{\"azimuth\":41.87992858886719,\"elevation\":45.22687530517578,\"azimuth_stdev\":0.49488261342048645,\"elevation_stdev\":0.24329105019569397,\"distance\":5.047149658203125,\"distance_stdev\":0,\"sequence\":61643}",
+    "timestamp": "2024-07-15T16:41:21.265848"
+},
+{
+    "topic": "silabs/aoa/angle/ble-pd-0C4314F45C80/ble-pd-84FD27EEE588",
+    "message": "{\"azimuth\":41.95536804199219,\"elevation\":45.219852447509766,\"azimuth_stdev\":0.4629209041595459,\"elevation_stdev\":0.14360381662845612,\"distance\":5.8589067459106445,\"distance_stdev\":0,\"sequence\":61644}",
+    "timestamp": "2024-07-15T16:41:21.299818"
+},
+{
+    "topic": "silabs/aoa/angle/ble-pd-0C4314F45C80/ble-pd-84FD27EEE588",
+    "message": "{\"azimuth\":42.259918212890625,\"elevation\":45.237060546875,\"azimuth_stdev\":0.4992815852165222,\"elevation_stdev\":0.09537318348884583,\"distance\":18.04803466796875,\"distance_stdev\":0,\"sequence\":61645}",
+    "timestamp": "2024-07-15T16:41:21.333819"
+},
+{
+    "topic": "silabs/aoa/angle/ble-pd-0C4314F45C80/ble-pd-84FD27EEE588",
+    "message": "{\"azimuth\":42.24162292480469,\"elevation\":45.265262603759766,\"azimuth_stdev\":0.47304466366767883,\"elevation_stdev\":0.08300618082284927,\"distance\":9.584851264953613,\"distance_stdev\":0,\"sequence\":61647}",
+    "timestamp": "2024-07-15T16:41:21.364818"
+},
+{
+    "topic": "silabs/aoa/angle/ble-pd-0C4314F45C80/ble-pd-84FD27EEE588",
+    "message": "{\"azimuth\":42.265716552734375,\"elevation\":45.23891830444336,\"azimuth_stdev\":0.4311254918575287,\"elevation_stdev\":0.08246355503797531,\"distance\":5.44061279296875,\"distance_stdev\":0,\"sequence\":61648}",
+    "timestamp": "2024-07-15T16:41:21.392817"
+},
+{
+    "topic": "silabs/aoa/angle/ble-pd-0C4314F45C80/ble-pd-84FD27EEE588",
+    "message": "{\"azimuth\":42.34559631347656,\"elevation\":45.42496871948242,\"azimuth_stdev\":0.4040713310241699,\"elevation_stdev\":0.10216525942087173,\"distance\":4.004596710205078,\"distance_stdev\":0,\"sequence\":61649}",
+    "timestamp": "2024-07-15T16:41:21.422817"
+},
+{
+    "topic": "silabs/aoa/angle/ble-pd-0C4314F45C80/ble-pd-84FD27EEE588",
+    "message": "{\"azimuth\":42.420440673828125,\"elevation\":45.35874938964844,\"azimuth_stdev\":0.39124053716659546,\"elevation_stdev\":0.09676574915647507,\"distance\":4.677382469177246,\"distance_stdev\":0,\"sequence\":61650}",
+    "timestamp": "2024-07-15T16:41:21.444817"
+},
+{
+    "topic": "silabs/aoa/angle/ble-pd-0C4314F45C80/ble-pd-84FD27EEE588",
+    "message": "{\"azimuth\":42.436798095703125,\"elevation\":45.357269287109375,\"azimuth_stdev\":0.36020076274871826,\"elevation_stdev\":0.09971872717142105,\"distance\":6.77468204498291,\"distance_stdev\":0,\"sequence\":61651}",
+    "timestamp": "2024-07-15T16:41:21.464817"
+},
+{
+    "topic": "silabs/aoa/angle/ble-pd-0C4314F45C80/ble-pd-84FD27EEE588",
+    "message": "{\"azimuth\":42.471832275390625,\"elevation\":45.36811828613281,\"azimuth_stdev\":0.327335923910141,\"elevation_stdev\":0.1018720343708992,\"distance\":5.44061279296875,\"distance_stdev\":0,\"sequence\":61653}",
+    "timestamp": "2024-07-15T16:41:21.513817"
+},
+{
+    "topic": "silabs/aoa/angle/ble-pd-0C4314F45C80/ble-pd-84FD27EEE588",
+    "message": "{\"azimuth\":42.553009033203125,\"elevation\":45.30815124511719,\"azimuth_stdev\":0.2831599712371826,\"elevation_stdev\":0.10132142156362534,\"distance\":5.8589067459106445,\"distance_stdev\":0,\"sequence\":61654}",
+    "timestamp": "2024-07-15T16:41:21.547828"
+},
+{
+    "topic": "silabs/aoa/angle/ble-pd-0C4314F45C80/ble-pd-84FD27EEE588",
+    "message": "{\"azimuth\":42.661956787109375,\"elevation\":45.37010955810547,\"azimuth_stdev\":0.25470107793807983,\"elevation_stdev\":0.09848641604185104,\"distance\":15.99692153930664,\"distance_stdev\":0,\"sequence\":61655}",
+    "timestamp": "2024-07-15T16:41:21.570827"
+},
+{
+    "topic": "silabs/aoa/angle/ble-pd-0C4314F45C80/ble-pd-84FD27EEE588",
+    "message": "{\"azimuth\":42.58036804199219,\"elevation\":45.25993728637695,\"azimuth_stdev\":0.18704965710639954,\"elevation_stdev\":0.09150075912475586,\"distance\":6.30319356918335,\"distance_stdev\":0,\"sequence\":61656}",
+    "timestamp": "2024-07-15T16:41:21.592828"
+},
+{
+    "topic": "silabs/aoa/angle/ble-pd-0C4314F45C80/ble-pd-84FD27EEE588",
+    "message": "{\"azimuth\":42.72193908691406,\"elevation\":45.312278747558594,\"azimuth_stdev\":0.20737776160240173,\"elevation_stdev\":0.08258793503046036,\"distance\":15.99692153930664,\"distance_stdev\":0,\"sequence\":61657}",
+    "timestamp": "2024-07-15T16:41:21.619826"
+},
+{
+    "topic": "silabs/aoa/angle/ble-pd-0C4314F45C80/ble-pd-84FD27EEE588",
+    "message": "{\"azimuth\":42.8326416015625,\"elevation\":45.472068786621094,\"azimuth_stdev\":0.22426451742649078,\"elevation_stdev\":0.09830302745103836,\"distance\":5.44061279296875,\"distance_stdev\":0,\"sequence\":61658}",
+    "timestamp": "2024-07-15T16:41:21.638827"
+},
+{
+    "topic": "silabs/aoa/angle/ble-pd-0C4314F45C80/ble-pd-84FD27EEE588",
+    "message": "{\"azimuth\":42.92790222167969,\"elevation\":45.52584457397461,\"azimuth_stdev\":0.24298439919948578,\"elevation_stdev\":0.11069413274526596,\"distance\":4.677382469177246,\"distance_stdev\":0,\"sequence\":61659}",
+    "timestamp": "2024-07-15T16:41:21.658826"
+},
+{
+    "topic": "silabs/aoa/angle/ble-pd-0C4314F45C80/ble-pd-84FD27EEE588",
+    "message": "{\"azimuth\":43.02113342285156,\"elevation\":45.54716491699219,\"azimuth_stdev\":0.27132904529571533,\"elevation_stdev\":0.13316074013710022,\"distance\":6.77468204498291,\"distance_stdev\":0,\"sequence\":61661}",
+    "timestamp": "2024-07-15T16:41:21.723826"
+},
+{
+    "topic": "silabs/aoa/angle/ble-pd-0C4314F45C80/ble-pd-84FD27EEE588",
+    "message": "{\"azimuth\":43.087310791015625,\"elevation\":45.600711822509766,\"azimuth_stdev\":0.29575082659721375,\"elevation_stdev\":0.16132239997386932,\"distance\":9.584851264953613,\"distance_stdev\":0,\"sequence\":61662}",
+    "timestamp": "2024-07-15T16:41:21.741826"
+},
+{
+    "topic": "silabs/aoa/angle/ble-pd-0C4314F45C80/ble-pd-84FD27EEE588",
+    "message": "{\"azimuth\":43.130859375,\"elevation\":45.49273681640625,\"azimuth_stdev\":0.30425459146499634,\"elevation_stdev\":0.16241416335105896,\"distance\":7.274606704711914,\"distance_stdev\":0,\"sequence\":61663}",
+    "timestamp": "2024-07-15T16:41:21.775828"
+},
+{
+    "topic": "silabs/aoa/angle/ble-pd-0C4314F45C80/ble-pd-84FD27EEE588",
+    "message": "{\"azimuth\":43.54463195800781,\"elevation\":45.315399169921875,\"azimuth_stdev\":0.39402514696121216,\"elevation_stdev\":0.16799643635749817,\"distance\":6.30319356918335,\"distance_stdev\":0,\"sequence\":61664}",
+    "timestamp": "2024-07-15T16:41:21.808826"
+},
+{
+    "topic": "silabs/aoa/angle/ble-pd-0C4314F45C80/ble-pd-84FD27EEE588",
+    "message": "{\"azimuth\":43.98161315917969,\"elevation\":45.13480758666992,\"azimuth_stdev\":0.5559226274490356,\"elevation_stdev\":0.20594866573810577,\"distance\":22.788917541503906,\"distance_stdev\":0,\"sequence\":61665}",
+    "timestamp": "2024-07-15T16:41:21.831827"
+},
+{
+    "topic": "silabs/aoa/angle/ble-pd-0C4314F45C80/ble-pd-84FD27EEE588",
+    "message": "{\"azimuth\":44.33204650878906,\"elevation\":44.903114318847656,\"azimuth_stdev\":0.7319325804710388,\"elevation_stdev\":0.30210527777671814,\"distance\":5.047149658203125,\"distance_stdev\":0,\"sequence\":61666}",
+    "timestamp": "2024-07-15T16:41:21.853827"
+},
+{
+    "topic": "silabs/aoa/angle/ble-pd-0C4314F45C80/ble-pd-84FD27EEE588",
+    "message": "{\"azimuth\":44.68354797363281,\"elevation\":44.803524017333984,\"azimuth_stdev\":0.882697582244873,\"elevation_stdev\":0.3879977762699127,\"distance\":10.945698738098145,\"distance_stdev\":0,\"sequence\":61668}",
+    "timestamp": "2024-07-15T16:41:21.889827"
+},
+{
+    "topic": "silabs/aoa/angle/ble-pd-0C4314F45C80/ble-pd-84FD27EEE588",
+    "message": "{\"azimuth\":44.89726257324219,\"elevation\":44.708213806152344,\"azimuth_stdev\":1.0007197856903076,\"elevation_stdev\":0.4698890149593353,\"distance\":4.677382469177246,\"distance_stdev\":0,\"sequence\":61670}",
+    "timestamp": "2024-07-15T16:41:21.943825"
+},
+{
+    "topic": "silabs/aoa/angle/ble-pd-0C4314F45C80/ble-pd-84FD27EEE588",
+    "message": "{\"azimuth\":44.91204833984375,\"elevation\":44.813232421875,\"azimuth_stdev\":1.0480307340621948,\"elevation_stdev\":0.49192357063293457,\"distance\":5.8589067459106445,\"distance_stdev\":0,\"sequence\":61671}",
+    "timestamp": "2024-07-15T16:41:21.966826"
+},
+{
+    "topic": "silabs/aoa/angle/ble-pd-0C4314F45C80/ble-pd-84FD27EEE588",
+    "message": "{\"azimuth\":44.711273193359375,\"elevation\":44.867862701416016,\"azimuth_stdev\":1.0086989402770996,\"elevation_stdev\":0.4787181615829468,\"distance\":6.30319356918335,\"distance_stdev\":0,\"sequence\":61672}",
+    "timestamp": "2024-07-15T16:41:21.990827"
+},
+{
+    "topic": "silabs/aoa/angle/ble-pd-0C4314F45C80/ble-pd-84FD27EEE588",
+    "message": "{\"azimuth\":44.72796630859375,\"elevation\":44.8873405456543,\"azimuth_stdev\":0.9297451376914978,\"elevation_stdev\":0.4379739761352539,\"distance\":7.8042521476745605,\"distance_stdev\":0,\"sequence\":61673}",
+    "timestamp": "2024-07-15T16:41:22.016826"
+},
+{
+    "topic": "silabs/aoa/angle/ble-pd-0C4314F45C80/ble-pd-84FD27EEE588",
+    "message": "{\"azimuth\":44.76023864746094,\"elevation\":45.02823257446289,\"azimuth_stdev\":0.7995126843452454,\"elevation_stdev\":0.3468342125415802,\"distance\":5.8589067459106445,\"distance_stdev\":0,\"sequence\":61674}",
+    "timestamp": "2024-07-15T16:41:22.050826"
+},
+{
+    "topic": "silabs/aoa/angle/ble-pd-0C4314F45C80/ble-pd-84FD27EEE588",
+    "message": "{\"azimuth\":44.78001403808594,\"elevation\":45.14020538330078,\"azimuth_stdev\":0.5790417790412903,\"elevation_stdev\":0.262544184923172,\"distance\":15.044610977172852,\"distance_stdev\":0,\"sequence\":61675}",
+    "timestamp": "2024-07-15T16:41:22.073827"
+},
+{
+    "topic": "silabs/aoa/angle/ble-pd-0C4314F45C80/ble-pd-84FD27EEE588",
+    "message": "{\"azimuth\":44.21211242675781,\"elevation\":45.221405029296875,\"azimuth_stdev\":0.40587118268013,\"elevation_stdev\":0.2372242957353592,\"distance\":4.677382469177246,\"distance_stdev\":0,\"sequence\":61676}",
+    "timestamp": "2024-07-15T16:41:22.107826"
+},
+{
+    "topic": "silabs/aoa/angle/ble-pd-0C4314F45C80/ble-pd-84FD27EEE588",
+    "message": "{\"azimuth\":43.54646301269531,\"elevation\":45.36880111694336,\"azimuth_stdev\":0.543994665145874,\"elevation_stdev\":0.2922351658344269,\"distance\":4.677382469177246,\"distance_stdev\":0,\"sequence\":61677}",
+    "timestamp": "2024-07-15T16:41:22.141826"
+},
+{
+    "topic": "silabs/aoa/angle/ble-pd-0C4314F45C80/ble-pd-84FD27EEE588",
+    "message": "{\"azimuth\":42.880706787109375,\"elevation\":45.559112548828125,\"azimuth_stdev\":0.8781446218490601,\"elevation_stdev\":0.38556012511253357,\"distance\":6.30319356918335,\"distance_stdev\":0,\"sequence\":61678}",
+    "timestamp": "2024-07-15T16:41:22.152829"
+},
+{
+    "topic": "silabs/aoa/angle/ble-pd-0C4314F45C80/ble-pd-84FD27EEE588",
+    "message": "{\"azimuth\":42.10246276855469,\"elevation\":45.72146987915039,\"azimuth_stdev\":1.274854063987732,\"elevation_stdev\":0.46742308139801025,\"distance\":5.047149658203125,\"distance_stdev\":0,\"sequence\":61679}",
+    "timestamp": "2024-07-15T16:41:22.174826"
+},
+{
+    "topic": "silabs/aoa/angle/ble-pd-0C4314F45C80/ble-pd-84FD27EEE588",
+    "message": "{\"azimuth\":41.43843078613281,\"elevation\":45.88548278808594,\"azimuth_stdev\":1.6345030069351196,\"elevation_stdev\":0.521896243095398,\"distance\":5.8589067459106445,\"distance_stdev\":0,\"sequence\":61680}",
+    "timestamp": "2024-07-15T16:41:22.197826"
+},
+{
+    "topic": "silabs/aoa/angle/ble-pd-0C4314F45C80/ble-pd-84FD27EEE588",
+    "message": "{\"azimuth\":41.30146789550781,\"elevation\":45.94716262817383,\"azimuth_stdev\":1.83603036403656,\"elevation_stdev\":0.5554895401000977,\"distance\":6.30319356918335,\"distance_stdev\":0,\"sequence\":61681}",
+    "timestamp": "2024-07-15T16:41:22.221826"
+},
+{
+    "topic": "silabs/aoa/angle/ble-pd-0C4314F45C80/ble-pd-84FD27EEE588",
+    "message": "{\"azimuth\":41.222137451171875,\"elevation\":45.966766357421875,\"azimuth_stdev\":1.9407665729522705,\"elevation_stdev\":0.5553455948829651,\"distance\":6.77468204498291,\"distance_stdev\":0,\"sequence\":61682}",
+    "timestamp": "2024-07-15T16:41:22.243826"
+},
+{
+    "topic": "silabs/aoa/angle/ble-pd-0C4314F45C80/ble-pd-84FD27EEE588",
+    "message": "{\"azimuth\":41.12886047363281,\"elevation\":46.069950103759766,\"azimuth_stdev\":1.937009334564209,\"elevation_stdev\":0.53047114610672,\"distance\":5.8589067459106445,\"distance_stdev\":0,\"sequence\":61683}",
+    "timestamp": "2024-07-15T16:41:22.266827"
+},
+{
+    "topic": "silabs/aoa/angle/ble-pd-0C4314F45C80/ble-pd-84FD27EEE588",
+    "message": "{\"azimuth\":41.089447021484375,\"elevation\":46.12578582763672,\"azimuth_stdev\":1.8013813495635986,\"elevation_stdev\":0.49894464015960693,\"distance\":7.8042521476745605,\"distance_stdev\":0,\"sequence\":61684}",
+    "timestamp": "2024-07-15T16:41:22.299827"
+},
+{
+    "topic": "silabs/aoa/angle/ble-pd-0C4314F45C80/ble-pd-84FD27EEE588",
+    "message": "{\"azimuth\":41.00196838378906,\"elevation\":46.22894287109375,\"azimuth_stdev\":1.4986952543258667,\"elevation_stdev\":0.4646858274936676,\"distance\":5.047149658203125,\"distance_stdev\":0,\"sequence\":61685}",
+    "timestamp": "2024-07-15T16:41:22.322826"
+},
+{
+    "topic": "silabs/aoa/angle/ble-pd-0C4314F45C80/ble-pd-84FD27EEE588",
+    "message": "{\"azimuth\":41.487274169921875,\"elevation\":46.10943603515625,\"azimuth_stdev\":1.1124584674835205,\"elevation_stdev\":0.3793744146823883,\"distance\":6.30319356918335,\"distance_stdev\":0,\"sequence\":61686}",
+    "timestamp": "2024-07-15T16:41:22.357827"
+},
+{
+    "topic": "silabs/aoa/angle/ble-pd-0C4314F45C80/ble-pd-84FD27EEE588",
+    "message": "{\"azimuth\":42.09046936035156,\"elevation\":46.162357330322266,\"azimuth_stdev\":0.7763882875442505,\"elevation_stdev\":0.29166337847709656,\"distance\":9.584851264953613,\"distance_stdev\":0,\"sequence\":61687}",
+    "timestamp": "2024-07-15T16:41:22.379828"
+},
+{
+    "topic": "silabs/aoa/angle/ble-pd-0C4314F45C80/ble-pd-84FD27EEE588",
+    "message": "{\"azimuth\":42.58013916015625,\"elevation\":45.968238830566406,\"azimuth_stdev\":0.6867215633392334,\"elevation_stdev\":0.20929138362407684,\"distance\":4.677382469177246,\"distance_stdev\":0,\"sequence\":61688}",
+    "timestamp": "2024-07-15T16:41:22.401827"
+},
+{
+    "topic": "silabs/aoa/angle/ble-pd-0C4314F45C80/ble-pd-84FD27EEE588",
+    "message": "{\"azimuth\":43.02726745605469,\"elevation\":45.83141326904297,\"azimuth_stdev\":0.8986538648605347,\"elevation_stdev\":0.1791372299194336,\"distance\":6.30319356918335,\"distance_stdev\":0,\"sequence\":61689}",
+    "timestamp": "2024-07-15T16:41:22.424827"
+},
+{
+    "topic": "silabs/aoa/angle/ble-pd-0C4314F45C80/ble-pd-84FD27EEE588",
+    "message": "{\"azimuth\":43.603485107421875,\"elevation\":45.71477508544922,\"azimuth_stdev\":1.1967206001281738,\"elevation_stdev\":0.21980330348014832,\"distance\":13.277584075927734,\"distance_stdev\":0,\"sequence\":61690}",
+    "timestamp": "2024-07-15T16:41:22.447827"
+},
+{
+    "topic": "silabs/aoa/angle/ble-pd-0C4314F45C80/ble-pd-84FD27EEE588",
+    "message": "{\"azimuth\":43.94651794433594,\"elevation\":45.67668151855469,\"azimuth_stdev\":1.435875654220581,\"elevation_stdev\":0.26472508907318115,\"distance\":5.8589067459106445,\"distance_stdev\":0,\"sequence\":61691}",
+    "timestamp": "2024-07-15T16:41:22.470827"
+},
+{
+    "topic": "silabs/aoa/angle/ble-pd-0C4314F45C80/ble-pd-84FD27EEE588",
+    "message": "{\"azimuth\":44.23152160644531,\"elevation\":45.48905563354492,\"azimuth_stdev\":1.6048130989074707,\"elevation_stdev\":0.3436557948589325,\"distance\":7.274606704711914,\"distance_stdev\":0,\"sequence\":61692}",
+    "timestamp": "2024-07-15T16:41:22.486827"
+},
+{
+    "topic": "silabs/aoa/angle/ble-pd-0C4314F45C80/ble-pd-84FD27EEE588",
+    "message": "{\"azimuth\":44.570892333984375,\"elevation\":45.279022216796875,\"azimuth_stdev\":1.7051857709884644,\"elevation_stdev\":0.4406798779964447,\"distance\":6.77468204498291,\"distance_stdev\":0,\"sequence\":61693}",
+    "timestamp": "2024-07-15T16:41:22.520094"
+},
+{
+    "topic": "silabs/aoa/angle/ble-pd-0C4314F45C80/ble-pd-84FD27EEE588",
+    "message": "{\"azimuth\":44.85357666015625,\"elevation\":45.25514602661133,\"azimuth_stdev\":1.7132847309112549,\"elevation_stdev\":0.4907768964767456,\"distance\":16.99745750427246,\"distance_stdev\":0,\"sequence\":61694}",
+    "timestamp": "2024-07-15T16:41:22.555100"
+},
+{
+    "topic": "silabs/aoa/angle/ble-pd-0C4314F45C80/ble-pd-84FD27EEE588",
+    "message": "{\"azimuth\":45.11973571777344,\"elevation\":45.34516143798828,\"azimuth_stdev\":1.581488847732544,\"elevation_stdev\":0.4670637845993042,\"distance\":11.682686805725098,\"distance_stdev\":0,\"sequence\":61695}",
+    "timestamp": "2024-07-15T16:41:22.577100"
+},
+{
+    "topic": "silabs/aoa/angle/ble-pd-0C4314F45C80/ble-pd-84FD27EEE588",
+    "message": "{\"azimuth\":44.911041259765625,\"elevation\":45.60466003417969,\"azimuth_stdev\":1.3541278839111328,\"elevation_stdev\":0.4182060956954956,\"distance\":16.99745750427246,\"distance_stdev\":0,\"sequence\":61696}",
+    "timestamp": "2024-07-15T16:41:22.599100"
+},
+{
+    "topic": "silabs/aoa/angle/ble-pd-0C4314F45C80/ble-pd-84FD27EEE588",
+    "message": "{\"azimuth\":44.67732238769531,\"elevation\":45.808616638183594,\"azimuth_stdev\":1.1039093732833862,\"elevation_stdev\":0.3442454934120178,\"distance\":7.8042521476745605,\"distance_stdev\":0,\"sequence\":61698}",
+    "timestamp": "2024-07-15T16:41:22.645102"
+},
+{
+    "topic": "silabs/aoa/angle/ble-pd-0C4314F45C80/ble-pd-84FD27EEE588",
+    "message": "{\"azimuth\":44.584564208984375,\"elevation\":45.97502517700195,\"azimuth_stdev\":0.8477399349212646,\"elevation_stdev\":0.34582799673080444,\"distance\":8.957999229431152,\"distance_stdev\":0,\"sequence\":61699}",
+    "timestamp": "2024-07-15T16:41:22.679100"
+},
+{
+    "topic": "silabs/aoa/angle/ble-pd-0C4314F45C80/ble-pd-84FD27EEE588",
+    "message": "{\"azimuth\":44.32073974609375,\"elevation\":46.19050979614258,\"azimuth_stdev\":0.6000590324401855,\"elevation_stdev\":0.4250078797340393,\"distance\":5.44061279296875,\"distance_stdev\":0,\"sequence\":61700}",
+    "timestamp": "2024-07-15T16:41:22.690099"
+},
+{
+    "topic": "silabs/aoa/angle/ble-pd-0C4314F45C80/ble-pd-84FD27EEE588",
+    "message": "{\"azimuth\":44.05021667480469,\"elevation\":46.42741775512695,\"azimuth_stdev\":0.49635326862335205,\"elevation_stdev\":0.5511491298675537,\"distance\":9.584851264953613,\"distance_stdev\":0,\"sequence\":61701}",
+    "timestamp": "2024-07-15T16:41:22.712100"
+},
+{
+    "topic": "silabs/aoa/angle/ble-pd-0C4314F45C80/ble-pd-84FD27EEE588",
+    "message": "{\"azimuth\":43.81553649902344,\"elevation\":46.29562759399414,\"azimuth_stdev\":0.5262883901596069,\"elevation_stdev\":0.6085723042488098,\"distance\":5.047149658203125,\"distance_stdev\":0,\"sequence\":61702}",
+    "timestamp": "2024-07-15T16:41:22.739100"
+},
+{
+    "topic": "silabs/aoa/angle/ble-pd-0C4314F45C80/ble-pd-84FD27EEE588",
+    "message": "{\"azimuth\":43.655975341796875,\"elevation\":46.06869125366211,\"azimuth_stdev\":0.6279550790786743,\"elevation_stdev\":0.6050517559051514,\"distance\":9.584851264953613,\"distance_stdev\":0,\"sequence\":61703}",
+    "timestamp": "2024-07-15T16:41:22.762100"
+},
+{
+    "topic": "silabs/aoa/angle/ble-pd-0C4314F45C80/ble-pd-84FD27EEE588",
+    "message": "{\"azimuth\":43.41865539550781,\"elevation\":45.97552490234375,\"azimuth_stdev\":0.7540048360824585,\"elevation_stdev\":0.5444297790527344,\"distance\":5.44061279296875,\"distance_stdev\":0,\"sequence\":61704}",
+    "timestamp": "2024-07-15T16:41:22.791100"
+},
+{
+    "topic": "silabs/aoa/angle/ble-pd-0C4314F45C80/ble-pd-84FD27EEE588",
+    "message": "{\"azimuth\":43.22575378417969,\"elevation\":45.87806701660156,\"azimuth_stdev\":0.837359607219696,\"elevation_stdev\":0.447372168302536,\"distance\":6.30319356918335,\"distance_stdev\":0,\"sequence\":61705}",
+    "timestamp": "2024-07-15T16:41:22.812101"
+},
+{
+    "topic": "silabs/aoa/angle/ble-pd-0C4314F45C80/ble-pd-84FD27EEE588",
+    "message": "{\"azimuth\":43.11915588378906,\"elevation\":45.69855880737305,\"azimuth_stdev\":0.8184323310852051,\"elevation_stdev\":0.36235949397087097,\"distance\":5.047149658203125,\"distance_stdev\":0,\"sequence\":61706}",
+    "timestamp": "2024-07-15T16:41:22.847099"
+},
+{
+    "topic": "silabs/aoa/angle/ble-pd-0C4314F45C80/ble-pd-84FD27EEE588",
+    "message": "{\"azimuth\":42.90870666503906,\"elevation\":45.726959228515625,\"azimuth_stdev\":0.8036044239997864,\"elevation_stdev\":0.3373498022556305,\"distance\":14.138740539550781,\"distance_stdev\":0,\"sequence\":61707}",
+    "timestamp": "2024-07-15T16:41:22.870323"
+},
+{
+    "topic": "silabs/aoa/angle/ble-pd-0C4314F45C80/ble-pd-84FD27EEE588",
+    "message": "{\"azimuth\":42.72660827636719,\"elevation\":45.61882781982422,\"azimuth_stdev\":0.7935651540756226,\"elevation_stdev\":0.369828999042511,\"distance\":5.047149658203125,\"distance_stdev\":0,\"sequence\":61708}",
+    "timestamp": "2024-07-15T16:41:22.904323"
+},
+{
+    "topic": "silabs/aoa/angle/ble-pd-0C4314F45C80/ble-pd-84FD27EEE588",
+    "message": "{\"azimuth\":42.544342041015625,\"elevation\":45.67988204956055,\"azimuth_stdev\":0.7525535225868225,\"elevation_stdev\":0.3936641216278076,\"distance\":12.459444999694824,\"distance_stdev\":0,\"sequence\":61709}",
+    "timestamp": "2024-07-15T16:41:22.926321"
+},
+{
+    "topic": "silabs/aoa/angle/ble-pd-0C4314F45C80/ble-pd-84FD27EEE588",
+    "message": "{\"azimuth\":42.32672119140625,\"elevation\":45.641178131103516,\"azimuth_stdev\":0.729938268661499,\"elevation_stdev\":0.3974570631980896,\"distance\":9.584851264953613,\"distance_stdev\":0,\"sequence\":61710}",
+    "timestamp": "2024-07-15T16:41:22.959826"
+},
+{
+    "topic": "silabs/aoa/angle/ble-pd-0C4314F45C80/ble-pd-84FD27EEE588",
+    "message": "{\"azimuth\":42.07218933105469,\"elevation\":45.71807098388672,\"azimuth_stdev\":0.7393632531166077,\"elevation_stdev\":0.3078237473964691,\"distance\":5.44061279296875,\"distance_stdev\":0,\"sequence\":61711}",
+    "timestamp": "2024-07-15T16:41:22.971827"
+},
+{
+    "topic": "silabs/aoa/angle/ble-pd-0C4314F45C80/ble-pd-84FD27EEE588",
+    "message": "{\"azimuth\":41.87718200683594,\"elevation\":45.6613655090332,\"azimuth_stdev\":0.7573804259300232,\"elevation_stdev\":0.21358047425746918,\"distance\":6.30319356918335,\"distance_stdev\":0,\"sequence\":61712}",
+    "timestamp": "2024-07-15T16:41:23.006827"
+},
+{
+    "topic": "silabs/aoa/angle/ble-pd-0C4314F45C80/ble-pd-84FD27EEE588",
+    "message": "{\"azimuth\":41.72218322753906,\"elevation\":45.62236404418945,\"azimuth_stdev\":0.758822500705719,\"elevation_stdev\":0.16185331344604492,\"distance\":8.957999229431152,\"distance_stdev\":0,\"sequence\":61713}",
+    "timestamp": "2024-07-15T16:41:23.028828"
+},
+{
+    "topic": "silabs/aoa/angle/ble-pd-0C4314F45C80/ble-pd-84FD27EEE588",
+    "message": "{\"azimuth\":41.57342529296875,\"elevation\":45.645347595214844,\"azimuth_stdev\":0.7612200379371643,\"elevation_stdev\":0.10630028694868088,\"distance\":5.047149658203125,\"distance_stdev\":0,\"sequence\":61714}",
+    "timestamp": "2024-07-15T16:41:23.062827"
+},
+{
+    "topic": "silabs/aoa/angle/ble-pd-0C4314F45C80/ble-pd-84FD27EEE588",
+    "message": "{\"azimuth\":41.49981689453125,\"elevation\":45.56426239013672,\"azimuth_stdev\":0.7442757487297058,\"elevation_stdev\":0.0696215033531189,\"distance\":7.8042521476745605,\"distance_stdev\":0,\"sequence\":61715}",
+    "timestamp": "2024-07-15T16:41:23.073828"
+},
+{
+    "topic": "silabs/aoa/angle/ble-pd-0C4314F45C80/ble-pd-84FD27EEE588",
+    "message": "{\"azimuth\":41.355804443359375,\"elevation\":45.71055221557617,\"azimuth_stdev\":0.7045334577560425,\"elevation_stdev\":0.0713157206773758,\"distance\":25.510509490966797,\"distance_stdev\":0,\"sequence\":61716}",
+    "timestamp": "2024-07-15T16:41:23.107827"
+},
+{
+    "topic": "silabs/aoa/angle/ble-pd-0C4314F45C80/ble-pd-84FD27EEE588",
+    "message": "{\"azimuth\":41.78337097167969,\"elevation\":45.52561569213867,\"azimuth_stdev\":0.5939546823501587,\"elevation_stdev\":0.08388867229223251,\"distance\":9.584851264953613,\"distance_stdev\":0,\"sequence\":61717}",
+    "timestamp": "2024-07-15T16:41:23.129826"
+},
+{
+    "topic": "silabs/aoa/angle/ble-pd-0C4314F45C80/ble-pd-84FD27EEE588",
+    "message": "{\"azimuth\":42.16667175292969,\"elevation\":45.44621276855469,\"azimuth_stdev\":0.49340757727622986,\"elevation_stdev\":0.11952138692140579,\"distance\":5.047149658203125,\"distance_stdev\":0,\"sequence\":61718}",
+    "timestamp": "2024-07-15T16:41:23.152827"
+},
+{
+    "topic": "silabs/aoa/angle/ble-pd-0C4314F45C80/ble-pd-84FD27EEE588",
+    "message": "{\"azimuth\":42.54058837890625,\"elevation\":45.34067153930664,\"azimuth_stdev\":0.49266839027404785,\"elevation_stdev\":0.167451873421669,\"distance\":5.44061279296875,\"distance_stdev\":0,\"sequence\":61719}",
+    "timestamp": "2024-07-15T16:41:23.185826"
+},
+{
+    "topic": "silabs/aoa/angle/ble-pd-0C4314F45C80/ble-pd-84FD27EEE588",
+    "message": "{\"azimuth\":42.95233154296875,\"elevation\":45.11528015136719,\"azimuth_stdev\":0.6400262713432312,\"elevation_stdev\":0.26354387402534485,\"distance\":5.047149658203125,\"distance_stdev\":0,\"sequence\":61720}",
+    "timestamp": "2024-07-15T16:41:23.220828"
+},
+{
+    "topic": "silabs/aoa/angle/ble-pd-0C4314F45C80/ble-pd-84FD27EEE588",
+    "message": "{\"azimuth\":43.32550048828125,\"elevation\":44.994728088378906,\"azimuth_stdev\":0.8533098101615906,\"elevation_stdev\":0.33730459213256836,\"distance\":6.30319356918335,\"distance_stdev\":0,\"sequence\":61721}",
+    "timestamp": "2024-07-15T16:41:23.242826"
+},
+{
+    "topic": "silabs/aoa/angle/ble-pd-0C4314F45C80/ble-pd-84FD27EEE588",
+    "message": "{\"azimuth\":43.10957336425781,\"elevation\":45.032081604003906,\"azimuth_stdev\":0.9429768919944763,\"elevation_stdev\":0.3696475625038147,\"distance\":6.30319356918335,\"distance_stdev\":0,\"sequence\":61722}",
+    "timestamp": "2024-07-15T16:41:23.259827"
+},
+{
+    "topic": "silabs/aoa/angle/ble-pd-0C4314F45C80/ble-pd-84FD27EEE588",
+    "message": "{\"azimuth\":43.01362609863281,\"elevation\":45.08997344970703,\"azimuth_stdev\":0.9685220718383789,\"elevation_stdev\":0.37485429644584656,\"distance\":6.30319356918335,\"distance_stdev\":0,\"sequence\":61723}",
+    "timestamp": "2024-07-15T16:41:23.291827"
+},
+{
+    "topic": "silabs/aoa/angle/ble-pd-0C4314F45C80/ble-pd-84FD27EEE588",
+    "message": "{\"azimuth\":42.70771789550781,\"elevation\":45.069236755371094,\"azimuth_stdev\":0.9123367667198181,\"elevation_stdev\":0.36151617765426636,\"distance\":11.682686805725098,\"distance_stdev\":0,\"sequence\":61724}",
+    "timestamp": "2024-07-15T16:41:23.326828"
+},
+{
+    "topic": "silabs/aoa/angle/ble-pd-0C4314F45C80/ble-pd-84FD27EEE588",
+    "message": "{\"azimuth\":42.596099853515625,\"elevation\":45.26893615722656,\"azimuth_stdev\":0.8045108318328857,\"elevation_stdev\":0.3355400860309601,\"distance\":6.30319356918335,\"distance_stdev\":0,\"sequence\":61725}",
+    "timestamp": "2024-07-15T16:41:23.359826"
+},

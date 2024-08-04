@@ -1,0 +1,7 @@
+查看某端口的进程ID：
+netstat -ano | findstr 8766
+终止某进程ID的进程：（只有power shell有权限kill进程）
+taskkill /F /PID 1234
+run mosquitto:
+.\mosquitto -c .\mosquitto.conf -v
+
