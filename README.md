@@ -32,6 +32,7 @@ To install the Release_v1.0 version, follow these steps:
 1.**Clone the repository**:
    ```sh
    git clone -b Release_v1.0 https://github.com/DrYangZ/AOA_IndoorLocation.git
+   ```sh
    
 2.**Navigate to the project directory**:
 ```sh
