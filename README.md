@@ -1,8 +1,3 @@
-当然可以！为了给你的 `Release_v1.0` 分支创建一个 README.md 文件，我将提供一个示例模板，你可以根据实际情况进行调整。
-
-### 示例 README.md 内容
-
-```markdown
 ---
 title: AOA Indoor Location System - Release_v1.0
 ---
